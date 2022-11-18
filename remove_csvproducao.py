@@ -9,6 +9,7 @@ def removeCsvProducao():
 
     for ff in fileToRemove:
         try:
-            os.remove(ff)
+            pass
+            #os.remove(ff)
         except OSError as e:
             print("Error: %s : %s" % (ff, e.strerror))
