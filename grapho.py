@@ -21,6 +21,7 @@ from extrafuns import *
 # ------------------------------------------------------------
 # Função que compara dois títulos
 # ------------------------------------------------------------
+# Ajustar filtragem quanto ao ano e otimizar
 def comparar_Titulos(dataFrame1, dataFrame2):
     interac = 0 #Contador de número de interações
     for i in range(len(dataFrame1)): #Percorre todos artigos do primeiro autor
@@ -50,7 +51,7 @@ def ajustar_String(string):
     string = string.lower() #Toda String fica em caixa baixa
     novaString = unidecode.unidecode(string) #Transforma toda a String em unicode (sem acentos, sem cidilha)
     novaString = novaString.replace(" ", "") #Une toda a string, retirando os espaços
-    novaString = re.sub('[^a-zA-Z0-9 \\\]', '', novaString) #Exclui caracteres especiais
+    novaString = re.sub('[^a-zA-Z0-9]', '', novaString) #Exclui caracteres especiais
     return novaString
 
 # ------------------------------------------------------------
