@@ -22,14 +22,13 @@ from extrafuns import *
 # Função que compara dois títulos
 # ------------------------------------------------------------
 # Ajustar filtragem quanto ao ano e otimizar
-def comparar_Titulos(dataFrame1, dataFrame2):
+def comparar_Titulos(dfPaperAuthor1, dfPaperAuthor2):
     interac = 0 #Contador de número de interações
-    for i in range(len(dataFrame1)): #Percorre todos artigos do primeiro autor
-        titulo1 = dataFrame1['TITLE'].iloc[i]
-        titulo1 = ajustar_String(titulo1) #Pega o iésimo título dele
-        for j in range(len(dataFrame2)): #Percorre todos artigos do segundo autor
-            titulo2 = dataFrame2['TITLE'].iloc[j]
-            titulo2 = ajustar_String(titulo2) #Pega o jésimo título dele
+    for i in range(len(dfPaperAuthor1)): #Percorre todos artigos do primeiro autor
+        titulo1 = dfPaperAuthor1['TITULO AJUSTADO'].iloc[i]
+        for j in range(len(dfPaperAuthor2)): #Percorre todos artigos do segundo autor
+            titulo2 = dfPaperAuthor2['TITULO AJUSTADO'].iloc[j]
+            if(comparar_String(titulo1, titulo2) == 1): print(f"Titulo1: {titulo1}\nTitulo2: {titulo2}")
             interac += comparar_String(titulo1, titulo2) #Chama a função que retorna 1 se houve interação, ou 0 senão, incrementando o retorno ao valor de interac
     return interac 
 
@@ -109,7 +108,10 @@ def filtrarPeriodicos(dfpaper, dfpaper_uniq, anoInicial, anoFinal):
     dfpaper = dfpaper[(dfpaper['YEAR'] >= anoInicial) & (dfpaper['YEAR'] <= anoFinal)]
     dfpaper_uniq = dfpaper_uniq[(dfpaper_uniq['YEAR']
                                  >= anoInicial) & (dfpaper_uniq['YEAR'] <= anoFinal)]
-    
+    #Cria uma nova coluna com os Títulos ajustados para Unicode e sem caracteres especiais
+    dfpaper['TITULO AJUSTADO'] = dfpaper.apply(lambda x : ajustar_String(x.TITLE), axis=1)
+    dfpaper_uniq['TITULO AJUSTADO'] = dfpaper_uniq.apply(lambda x : ajustar_String(x.TITLE), axis=1)
+
     return (dfpaper, dfpaper_uniq)
 
 # ------------------------------------------------------------
@@ -121,13 +123,14 @@ def calcularInteracoes(df_idlist, dfpaper, dataFrameFullname):
     lsid_tocompare = []
     lsinter_qtd = []
     for m in range(len(df_idlist)): #Percorre o dataFrame com os IDs
-        id = str(df_idlist.iloc[m, 0]) #Pega o ID de um autor
+        id = df_idlist.iloc[m, 0]#Pega o ID de um autor
         dataFrameID = dfpaper[dfpaper['ID'] == id] #Filtra o dataFrame para ter somente as publicações daquele ID
-        dfids_tocompare = dataFrameFullname[dataFrameFullname['ID'] != str(id)] #Filtra o dataFrame com os nomes e IDs para ter somente os IDs a serem comparados
+        dataFrameID['TITLE'].to_csv(f"papers_{id}.csv")
+        dfids_tocompare = dataFrameFullname[dataFrameFullname['ID'] != id] #Filtra o dataFrame com os nomes e IDs para ter somente os IDs a serem comparados
         for n in range(len(dfids_tocompare)): #Percorre agora este dataFrame
             id_tocompare = dfids_tocompare.iloc[n, 0] #Pega o ID do outro autor a ser comparado
             dataFrameID_tocompare = dfpaper[dfpaper['ID'] == id_tocompare] #Filtra o dataFrame para ter somente as publicações daquele ID
-            lsid.append(str(id))
+            lsid.append(id)
             lsid_tocompare.append(id_tocompare)
             interac = comparar_Titulos(dataFrameID, dataFrameID_tocompare) #Recebe quantas interaões houve entre esses dois autores
             if(interac > 0):
@@ -147,14 +150,11 @@ def getgrapho():
     # importadando os data frames gerados pelo gettidy
     # ------------------------------------------------------------
     dfppe_uniq = pd.read_csv('./csv_producao/projetos_uniq.csv',
-                             header=0)
+                             header=0, dtype={'ID':str})
     dfpaper = pd.read_csv('./csv_producao/periodicos_all.csv',
-                          header=0)
+                          header=0, dtype={'ID':str})
     dfpaper_uniq = pd.read_csv('./csv_producao/periodicos_uniq.csv',
-                               header=0)
-    # Transforma todos os IDs dos papers em String
-    dfpaper['ID'] = dfpaper['ID'].apply(ss)
-    dfpaper_uniq['ID'] = dfpaper_uniq['ID'].apply(ss)
+                               header=0, dtype={'ID':str})
     # filtrando o ano
     # projetos filtrados
     dfppe_uniq = filtrarProjetos(dfppe_uniq, anoInicial)
@@ -193,7 +193,6 @@ def getgrapho():
     lsnointer_period = []
     for m in range(len(df_idlist)):
         aano = dfinterac[dfinterac['IDD'] == df_idlist.iloc[m, 0]]
-        print(aano)
         aasum = aano['WEIGHT'].sum()
         aano_a = dfinterac[dfinterac['IDD_COMP'] == df_idlist.iloc[m, 0]]
         aasum_a = aano_a['WEIGHT'].sum()
@@ -224,9 +223,6 @@ def getgrapho():
         G.add_edge(lsid[i],
                    lsid_tocompare[i],
                    weight=lsinter_qtd[i])
-    for e in G.edges():
-        print("Aresta: ", e)
-        print(G.get_edge_data(e[0], e[1]))
     
     pos = nx.spring_layout(G, 1.75)
     # colors for nodes

@@ -1,0 +1,45 @@
+YEAR,NATURE,INSTITUTION,COURSE,STUDENT,TYPE,SPONSOR
+2012,Dissertação de mestrado,Universidade Estadual de Feira de Santana,Mestrado em Ciência da Computação (UFBA/UEFS),Rafael Glauber Nascimento e Silva,ORIENTADOR_PRINCIPAL,NAO
+2012,Dissertação de mestrado,Universidade Estadual de Feira de Santana,Mestrado em Ciência da Computação (UFBA/UEFS),Emerson Silva de Oliveira,ORIENTADOR_PRINCIPAL,NAO
+2012,Dissertação de mestrado,Universidade Estadual de Feira de Santana,Mestrado em Ciência da Computação (UFBA/UEFS),Jairo Henrique dos Santos Calmon,ORIENTADOR_PRINCIPAL,NAO
+2013,Dissertação de mestrado,Universidade Estadual de Feira de Santana,Pós-Graduação em Computação Aplicada (mestrado),Ricardo Sena Carvalho,ORIENTADOR_PRINCIPAL,NAO
+2012,Dissertação de mestrado,Universidade Federal da Bahia,Ciência da Computação,Igor Leonardo Oliveira Bastos,CO_ORIENTADOR,NAO
+2016,Dissertação de mestrado,Universidade Estadual de Feira de Santana,Computação Aplicada,Ana Cleyge Silva de Azevêdo,ORIENTADOR_PRINCIPAL,NAO
+2016,Dissertação de mestrado,Universidade Estadual de Feira de Santana,Computação Aplicada,Elivelton Oliveira Rangel,ORIENTADOR_PRINCIPAL,SIM
+2016,Dissertação de mestrado,Universidade Estadual de Feira de Santana,Computação Aplicada,Jorge Souza Azevedo Moniz Barreto,ORIENTADOR_PRINCIPAL,NAO
+2016,Dissertação de mestrado,Universidade Estadual de Feira de Santana,Computação Aplicada,Moab Rodrigues de Jesus,ORIENTADOR_PRINCIPAL,SIM
+2017,Dissertação de mestrado,Universidade Estadual de Feira de Santana,Computação Aplicada,Mateus Neves de Matos,ORIENTADOR_PRINCIPAL,NAO
+2015,Dissertação de mestrado,Universidade Estadual de Feira de Santana,Computação Aplicada,Yvson Paulo Nascimento Ferreira,CO_ORIENTADOR,NAO
+2016,Dissertação de mestrado,Universidade Federal de Juiz de Fora,"Artes, Cultura e Linguagens",Stephanie Martins Pinto da Costa,CO_ORIENTADOR,NAO
+2012,Dissertação de mestrado,Universidade Estadual de Feira de Santana,Mestrado em Ciência da Computação (UFBA/UEFS),Matheus Cardoso de Andrade Silva,ORIENTADOR_PRINCIPAL,NAO
+2007,INICIACAO_CIENTIFICA,Universidade Estadual de Feira de Santana,,Emerson Silva de Oliveira,CO_ORIENTADOR,SIM
+2007,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Estadual de Feira de Santana,Engenharia de Computação,Tiago Calmon de Jesus,CO_ORIENTADOR,NAO
+2008,INICIACAO_CIENTIFICA,Universidade Estadual de Feira de Santana,Engenharia de Computação,Jairo Henrique dos Santos Calmon,CO_ORIENTADOR,SIM
+2008,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Estadual de Feira de Santana,Engenharia de Computação,Ícaro Cavalcante Dourado,CO_ORIENTADOR,NAO
+2008,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Estadual de Feira de Santana,Engenharia de Computação,Ronald Carvalho Ribeiro de Araújo,CO_ORIENTADOR,NAO
+2008,INICIACAO_CIENTIFICA,Universidade Estadual de Feira de Santana,Engenharia de Computação,Emerson Silva de Oliveira,CO_ORIENTADOR,SIM
+2009,INICIACAO_CIENTIFICA,Universidade Estadual de Feira de Santana,Engenharia de Computação,Jairo Henrique dos Santos Calmon,CO_ORIENTADOR,SIM
+2009,INICIACAO_CIENTIFICA,Universidade Estadual de Feira de Santana,Engenharia de Computação,Emerson Silva de Oliveira,CO_ORIENTADOR,SIM
+2009,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Estadual de Feira de Santana,Engenharia de Computação,Emerson Silva de Oliveira,CO_ORIENTADOR,NAO
+2010,INICIACAO_CIENTIFICA,Universidade Estadual de Feira de Santana,Engenharia de Computação,Jairo Henrique dos Santos Calmon,CO_ORIENTADOR,SIM
+2012,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Estadual de Feira de Santana,Engenharia de Computação,Jairo Henrique dos Santos Calmon,CO_ORIENTADOR,NAO
+2012,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Estadual de Feira de Santana,Engenharia de Computação,Ivo Romário R. C. Lima,CO_ORIENTADOR,NAO
+2009,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Estadual de Feira de Santana,Especialização em Desenv de Sistemas de Informação,Rafael Glauber Nascimento e Silva,CO_ORIENTADOR,NAO
+2010,INICIACAO_CIENTIFICA,Universidade Estadual de Feira de Santana,Engenharia de Computação,Tassalon Ferreira da Silva,CO_ORIENTADOR,SIM
+2010,INICIACAO_CIENTIFICA,Universidade Estadual de Feira de Santana,Engenharia de Computação,Jônatas dos Santos Correia,CO_ORIENTADOR,SIM
+2011,INICIACAO_CIENTIFICA,Universidade Estadual de Feira de Santana,Engenharia de Computação,Jônatas dos Santos Correia,CO_ORIENTADOR,SIM
+2011,INICIACAO_CIENTIFICA,Universidade Estadual de Feira de Santana,Engenharia de Computação,Leonardo Oliveira dos Santos Lima,CO_ORIENTADOR,SIM
+2012,INICIACAO_CIENTIFICA,Universidade Estadual de Feira de Santana,Engenharia de Computação,Eduardo Carneiro de Oliveira,CO_ORIENTADOR,SIM
+2012,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Estadual de Feira de Santana,Engenharia de Computação,Nathalia Moraes do Nascimento,CO_ORIENTADOR,NAO
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Estadual de Feira de Santana,Engenharia de Computação,Leonardo Oliveira dos Santos Lima,CO_ORIENTADOR,NAO
+2013,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Estadual de Feira de Santana,,Giselle Freitas de Jesus,CO_ORIENTADOR,SIM
+2014,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Estadual de Feira de Santana,,Cristilene de Oliveira,CO_ORIENTADOR,SIM
+2015,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Estadual de Feira de Santana,Engenharia de Computação,Jônatas dos Santos Correia,CO_ORIENTADOR,NAO
+2015,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Estadual de Feira de Santana,Engenharia de Computação,Carla dos Santos Santana,CO_ORIENTADOR,NAO
+2015,INICIACAO_CIENTIFICA,Universidade Estadual de Feira de Santana,Engenharia de Computação,Crystal Silva Campos,CO_ORIENTADOR,SIM
+2015,INICIACAO_CIENTIFICA,Universidade Estadual de Feira de Santana,Engenharia de Computação,Gabriel Reis Miranda,CO_ORIENTADOR,SIM
+2016,INICIACAO_CIENTIFICA,Universidade Estadual de Feira de Santana,Engenharia de Computação,Crystal Silva Campos,CO_ORIENTADOR,SIM
+2016,INICIACAO_CIENTIFICA,Universidade Estadual de Feira de Santana,,Gabriel Reis Miranda,CO_ORIENTADOR,SIM
+2017,INICIACAO_CIENTIFICA,Universidade Estadual de Feira de Santana,Engenharia de Computação,Gabriel Reis Miranda,CO_ORIENTADOR,SIM
+2018,INICIACAO_CIENTIFICA,Universidade Estadual de Feira de Santana,Engenharia de Computação,Johnny Quest Dantas Pereira,CO_ORIENTADOR,SIM
+2008,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Estadual de Feira de Santana,Engenharia de Computação,Osvaldo C. de Matos Júnior,CO_ORIENTADOR,NAO

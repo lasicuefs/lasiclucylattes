@@ -2,8 +2,8 @@
 # digite o texto sempre em minúsculo sem acento
 # nao use espaço ou acentos no NOME de ARQUIVOS
 # configuracoes iniciam na linha 5
-arquivo qualis : qualis_agrarias_periodicos_2016.csv
-ano inicial para tabulacao de dados : 2010
-ano final para tabulacao de dados : 2019
+arquivo qualis : qualis_geral_periodicos_2019.csv
+ano inicial para tabulacao de dados : 1900
+ano final para tabulacao de dados : 2022
 calcular indicadores capes 1 para sim 0 para nao : 1
-nome programa pós graduação : ENGENHARIA DE SISTEMAS AGRÍCOLAS
+nome programa pós graduação : CIÊNCIA DA COMPUTAÇÃO
