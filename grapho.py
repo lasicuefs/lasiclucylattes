@@ -38,6 +38,8 @@ def comparar_Titulos(dfPaperAuthor1, dfPaperAuthor2):
 def comparar_String(string1, string2):
     if len(string1) == 0 or len(string2) == 0: #Se uma das Strings for vazia, não há similaridade
         return 0
+    if len(string1) >= 50 and len(string2) >= 50 and (string1 in string2 or string2 in string1):
+        return 1
     if len(string1) >= 10 and len(string2) >= 10 and Levenshtein.distance(string1, string2) <= 5: #Se as duas Strings tiverem mais de 10 caracteres e a distância de Levenshtein entre elas for menor que 5, elas são similares
         return 1
     else: #Senão, retorna 0
