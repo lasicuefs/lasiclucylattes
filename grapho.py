@@ -28,7 +28,7 @@ def comparar_Titulos(dfPaperAuthor1, dfPaperAuthor2):
         titulo1 = dfPaperAuthor1['TITULO AJUSTADO'].iloc[i]
         for j in range(len(dfPaperAuthor2)): #Percorre todos artigos do segundo autor
             titulo2 = dfPaperAuthor2['TITULO AJUSTADO'].iloc[j]
-            if(comparar_String(titulo1, titulo2) == 1): print(f"Titulo1: {titulo1}\nTitulo2: {titulo2}")
+            #if(comparar_String(titulo1, titulo2) == 1): print(f"Titulo1: {titulo1}\nTitulo2: {titulo2}")
             interac += comparar_String(titulo1, titulo2) #Chama a função que retorna 1 se houve interação, ou 0 senão, incrementando o retorno ao valor de interac
     return interac 
 
@@ -38,7 +38,7 @@ def comparar_Titulos(dfPaperAuthor1, dfPaperAuthor2):
 def comparar_String(string1, string2):
     if len(string1) == 0 or len(string2) == 0: #Se uma das Strings for vazia, não há similaridade
         return 0
-    if len(string1) >= 50 and len(string2) >= 50 and ((string1 in string2 or string2 in string1) or  Levenshtein.ration(string1, string2) >=0.90):
+    if len(string1) >= 50 and len(string2) >= 50 and ((string1 in string2 or string2 in string1) or  Levenshtein.ratio(string1, string2) >= 0.90):
         return 1
     if len(string1) >= 10 and len(string2) >= 10 and Levenshtein.distance(string1, string2) <= 5: #Se as duas Strings tiverem mais de 10 caracteres e a distância de Levenshtein entre elas for menor que 5, elas são similares
         return 1
@@ -127,7 +127,7 @@ def calcularInteracoes(df_idlist, dfpaper, dataFrameFullname):
     for m in range(len(df_idlist)): #Percorre o dataFrame com os IDs
         id = df_idlist.iloc[m, 0]#Pega o ID de um autor
         dataFrameID = dfpaper[dfpaper['ID'] == id] #Filtra o dataFrame para ter somente as publicações daquele ID
-        dataFrameID['TITLE'].to_csv(f"papers_{id}.csv")
+        #dataFrameID['TITLE'].to_csv(f"papers_{id}.csv")
         dfids_tocompare = dataFrameFullname[dataFrameFullname['ID'] != id] #Filtra o dataFrame com os nomes e IDs para ter somente os IDs a serem comparados
         for n in range(len(dfids_tocompare)): #Percorre agora este dataFrame
             id_tocompare = dfids_tocompare.iloc[n, 0] #Pega o ID do outro autor a ser comparado
