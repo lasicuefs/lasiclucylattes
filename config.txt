@@ -6,4 +6,4 @@ arquivo qualis : qualis_geral_periodicos_2019.csv
 ano inicial para tabulacao de dados : 1900
 ano final para tabulacao de dados : 2022
 calcular indicadores capes 1 para sim 0 para nao : 1
-nome programa pós graduação : CIÊNCIA DA COMPUTAÇÃO
+nome programa pós graduação : NENHUM

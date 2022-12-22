@@ -1,0 +1,77 @@
+YEAR,NATURE,INSTITUTION,COURSE,STUDENT,TYPE,SPONSOR
+2000,Dissertação de mestrado,Universidade Federal do Rio de Janeiro,Engenharia Biomédica,Silvio Ferreira da Silva,ORIENTADOR_PRINCIPAL,SIM
+2000,Dissertação de mestrado,Universidade Federal do Rio de Janeiro,Engenharia Biomédica,Hewerson Zansávio Teixeira,ORIENTADOR_PRINCIPAL,SIM
+2003,Dissertação de mestrado,Universidade Federal de São João Del Rei,Pós Graduação Em Física Química e Neurociência,Rodrigo Seixas de Carvalho,ORIENTADOR_PRINCIPAL,SIM
+2003,Dissertação de mestrado,Universidade Federal de São João Del Rei,"Pós Graduação em Física, Química e Neurociência",Michelle Almeida Vasconcelos,CO_ORIENTADOR,NAO
+2005,Dissertação de mestrado,Universidade Federal de São João Del Rei,"Pós Graduação em Física, Química e Neurociência",Pauliani Gonçalves Vivas,ORIENTADOR_PRINCIPAL,SIM
+2005,Dissertação de mestrado,Universidade Federal de São João Del Rei,"Pós Graduação em Física, Química e Neurociência",Juliana Perpétua de Carvalho,ORIENTADOR_PRINCIPAL,SIM
+2003,Dissertação de mestrado,Universidade Federal de São João Del Rei,"Pós Graduação em Física, Química e Neurociência",ANTONIO MARCIO RODRIGUES,ORIENTADOR_PRINCIPAL,SIM
+2004,Dissertação de mestrado,Universidade Federal de São João Del Rei,"Pós Graduação em Física, Química e Neurociência",Elisabete Sousa Pinto,CO_ORIENTADOR,SIM
+2005,Dissertação de mestrado,Universidade Federal de São João Del Rei,"Pós Graduação em Física, Química e Neurociência",Lucélia Santos Pereira,ORIENTADOR_PRINCIPAL,SIM
+2006,Dissertação de mestrado,Universidade Federal de São João Del Rei,"Pós Graduação em Física, Química e Neurociência",Maristela Júlia Fernandes Resende,ORIENTADOR_PRINCIPAL,SIM
+2007,Dissertação de mestrado,Universidade Federal de São João Del Rei,"Pós Graduação em Física, Química e Neurociência",Laila Cristina Moreira Damázio,ORIENTADOR_PRINCIPAL,NAO
+2008,Dissertação de mestrado,Pontifícia Universidade Católica do Rio Grande do Sul,Medicina e Ciências da Saúde.,Fernanda Noal Carleso,CO_ORIENTADOR,SIM
+2009,Dissertação de mestrado,Universidade Federal de São João Del Rei,"Pós Graduação em Física, Química e Neurociência",Bruno da Silva Brandão Gonçalves,ORIENTADOR_PRINCIPAL,SIM
+2009,Dissertação de mestrado,Universidade Federal de São João Del Rei,"Pós Graduação em Física, Química e Neurociência",Mozar Dênio da Costa,ORIENTADOR_PRINCIPAL,SIM
+2011,Dissertação de mestrado,Universidade Federal de São João Del Rei,"Pós Graduação em Física, Química e Neurociência",Luiz Eduardo Canton Santos,ORIENTADOR_PRINCIPAL,SIM
+2010,Dissertação de mestrado,Universidade Federal de São João Del Rei,"Pós Graduação em Física, Química e Neurociência",Glaúcio Mazetto Siqueira,ORIENTADOR_PRINCIPAL,SIM
+2009,Dissertação de mestrado,Universidade Federal de São João Del Rei,"Pós Graduação em Física, Química e Neurociência",Julio Cesar Modesto Valério,ORIENTADOR_PRINCIPAL,SIM
+2009,Dissertação de mestrado,Universidade Federal de São João Del-Rei,Pós Grad Multidisc Física Química Neurociência,Maísa Ferreira Miranda,ORIENTADOR_PRINCIPAL,SIM
+2009,Dissertação de mestrado,Universidade Federal de São João Del-Rei,Pós Grad Multidisc Física Química Neurociência,Maisa Aparecida Costa,ORIENTADOR_PRINCIPAL,SIM
+2009,Dissertação de mestrado,Universidade Federal de São João Del-Rei,Pós Grad Multidisc Física Química Neurociência,Mariana Rodrigues Lopes,ORIENTADOR_PRINCIPAL,SIM
+2011,Dissertação de mestrado,Universidade Federal de São João Del-Rei,Pós Grad Multidisc Física Química Neurociência,Carlos Magno Brighenti dos Santos,ORIENTADOR_PRINCIPAL,SIM
+2011,Dissertação de mestrado,Universidade Federal de São João Del-Rei,Pós Grad Multidisc Física Química Neurociência,Kelison Tadeu Ribeiro,ORIENTADOR_PRINCIPAL,SIM
+2011,Dissertação de mestrado,Universidade Federal de São João Del Rei,"Pós Graduação em Física, Química e Neurociência",Mayra Consuelo Aarão,ORIENTADOR_PRINCIPAL,SIM
+2012,Dissertação de mestrado,Universidade Federal de São João Del Rei,Programa de Pós-Graduação em Bioengenharia,Keite Lira de Almeida França,CO_ORIENTADOR,SIM
+2012,Dissertação de mestrado,Universidade Federal de São João Del Rei,Programa de Pós-Graduação em Bioengenharia,Gisele Silva Nogueira,CO_ORIENTADOR,SIM
+2014,Dissertação de mestrado,Universidade Federal de São João Del Rei,Programa de Pós-Graduação em Bioengenharia,Livia da Silva Ciacci,ORIENTADOR_PRINCIPAL,SIM
+2016,Dissertação de mestrado,Universidade Federal de São João Del-Rei,BIOENGENHARIA,Silvia Cristina Braga da Silva,ORIENTADOR_PRINCIPAL,SIM
+2016,Dissertação de mestrado,Universidade Federal de São João Del-Rei,BIOENGENHARIA,Leonardo Vaz de Mello,ORIENTADOR_PRINCIPAL,NAO
+2018,Dissertação de mestrado,Universidade Federal de São João Del-Rei,BIOENGENHARIA,ANDRE LUIZ FONSECA FURTADO,ORIENTADOR_PRINCIPAL,SIM
+2018,Dissertação de mestrado,Universidade Federal de São João Del-Rei,BIOENGENHARIA,Jéssica Naiara Lara,ORIENTADOR_PRINCIPAL,SIM
+2017,Dissertação de mestrado,Universidade Federal de São João Del-Rei,BIOENGENHARIA,Camila Raianna Justiniana Rocha,ORIENTADOR_PRINCIPAL,SIM
+2018,Dissertação de mestrado,Universidade Federal de São João Del-Rei,BIOENGENHARIA,Silas Moreira de Lima,CO_ORIENTADOR,SIM
+2019,Dissertação de mestrado,Universidade Federal de São João Del-Rei,BIOENGENHARIA,Arthur Carvalho Pires,ORIENTADOR_PRINCIPAL,SIM
+2020,Dissertação de mestrado,Universidade Federal de São João Del-Rei,BIOENGENHARIA,Andreia Rodrigues Campos.,ORIENTADOR_PRINCIPAL,SIM
+2020,Dissertação de mestrado,Universidade Federal de São João Del-Rei,BIOENGENHARIA,Dafne Mendes Soares,CO_ORIENTADOR,SIM
+2008,Dissertação de mestrado,Universidade Federal de São João Del Rei,"Pós Graduação em Física, Química e Neurociência",Aline Gisele Batista,ORIENTADOR_PRINCIPAL,SIM
+2000,Tese de doutorado,Universidade Estadual de Campinas,Engenharia Elétrica,Mario Antônio Duarte,ORIENTADOR_PRINCIPAL,SIM
+2005,Tese de doutorado,Universidade Federal do Rio de Janeiro,Engenharia Biomédica,Hewerson Zansávio Teixeira,ORIENTADOR_PRINCIPAL,SIM
+2007,Tese de doutorado,Universidade Federal do Rio de Janeiro,Engenharia Biomédica,Antônio Márcio Rodrigues,ORIENTADOR_PRINCIPAL,SIM
+2009,Tese de doutorado,Universidade Estadual de Campinas,Engenharia Elétrica,Gerson Cavalheira Florence,CO_ORIENTADOR,SIM
+2008,Tese de doutorado,Universidade Federal de Minas Gerais,Física,Danielle Oliveira Costa Santos,CO_ORIENTADOR,SIM
+2014,Tese de doutorado,Universidade Federal de São João Del-Rei,BIOENGENHARIA,Glaucio Mazzeto Siqueira,ORIENTADOR_PRINCIPAL,SIM
+2014,Tese de doutorado,Universidade Federal de São João Del-Rei,BIOENGENHARIA,Mariana Rodrigues Lopes,ORIENTADOR_PRINCIPAL,SIM
+2012,Tese de doutorado,Universidade Federal de São Paulo,Programa de Pos-graduação em Neurol. e Neurocias,Aline Gisele Batista,CO_ORIENTADOR,SIM
+2011,Tese de doutorado,Pontifícia Universidade Católica do Rio Grande do Sul,Medicina Pediatria e Saude da Criança,Fernanda Noal Carlesso,CO_ORIENTADOR,SIM
+2013,Tese de doutorado,Universidade Federal de São João Del Rei,PROGRAMA DE PÓS-GRADUAÇÃO EM BIOENGENHARIA,LUIZ EDUARDO CANTON SANTOS,ORIENTADOR_PRINCIPAL,SIM
+2017,Tese de doutorado,Universidade Federal de São João Del-Rei,BIOENGENHARIA,Gisele Silva Nogueira,ORIENTADOR_PRINCIPAL,SIM
+2017,Tese de doutorado,Universidade Federal de São João Del-Rei,BIOENGENHARIA,Victor Diego Cupertino Costa,ORIENTADOR_PRINCIPAL,SIM
+2018,Tese de doutorado,Universidade Federal de São João Del-Rei,BIOENGENHARIA,Keite Lira de Almeida França,CO_ORIENTADOR,SIM
+2017,Tese de doutorado,Universidade Federal de São João Del-Rei,BIOENGENHARIA,Karla Aparecida Ferreira,ORIENTADOR_PRINCIPAL,SIM
+2015,Tese de doutorado,Universidade Federal de São João Del-Rei,BIOENGENHARIA,Kelison Tadeu Ribeiro,CO_ORIENTADOR,SIM
+2019,Tese de doutorado,Universidade Federal de São Paulo,Neurologia / Neurociências,DAMIEN DEPANNEMAECKER,ORIENTADOR_PRINCIPAL,SIM
+2019,Tese de doutorado,Universidade Federal de São João Del-Rei,BIOENGENHARIA,Fabrício Neves Mendonça,ORIENTADOR_PRINCIPAL,SIM
+2014,Tese de doutorado,Universidade Federal de São João Del-Rei,BIOENGENHARIA,Maisa Ferreira Miranda,ORIENTADOR_PRINCIPAL,SIM
+1998,INICIACAO_CIENTIFICA,Universidade Federal de São João Del-Rei,Engenharia Industrial Elétrica,Hewerson Zansávio Teixeira,CO_ORIENTADOR,SIM
+1997,INICIACAO_CIENTIFICA,Universidade Federal de São João Del-Rei,Engenharia Industrial Elétrica,Frederico Leonardo Pacheco,CO_ORIENTADOR,SIM
+1998,INICIACAO_CIENTIFICA,Universidade Federal de São João Del-Rei,Engenharia Industrial Elétrica,Rodrigo Seixas de Carvalho,CO_ORIENTADOR,SIM
+2000,INICIACAO_CIENTIFICA,Universidade Federal de São João Del-Rei,Ciências Naturais,Antônio Márcio Rodrigues,CO_ORIENTADOR,SIM
+2002,INICIACAO_CIENTIFICA,Universidade Federal de São João Del Rei,Engenharia Elétrica,Marcelo Gonçalves Vivas,CO_ORIENTADOR,SIM
+2003,INICIACAO_CIENTIFICA,Universidade Federal de São João Del Rei,Engenharia Elétrica,Marcelo Gonçalves Vivas,CO_ORIENTADOR,SIM
+2002,INICIACAO_CIENTIFICA,Universidade Federal de São João Del Rei,Engenharia Elétrica,Dejanir Ricardo Pereira,CO_ORIENTADOR,SIM
+2003,INICIACAO_CIENTIFICA,Universidade Federal de São João Del Rei,Engenharia Elétrica,Dejanir Ricardo Pereira,CO_ORIENTADOR,SIM
+2004,INICIACAO_CIENTIFICA,Universidade Federal de São João Del Rei,Biologia,Mariana Rodrigues Lopes,CO_ORIENTADOR,SIM
+2004,INICIACAO_CIENTIFICA,Universidade Federal de São João Del-Rei,Engenharia Industrial Elétrica,Ramon César Salvino,CO_ORIENTADOR,SIM
+2004,INICIACAO_CIENTIFICA,Universidade Federal de São João Del-Rei,Ciências Naturais,Elaine Aparecida Carvalho,CO_ORIENTADOR,SIM
+1996,INICIACAO_CIENTIFICA,Universidade Federal de São João Del Rei,Engenharia Elétrica,José Henrique Chaves,CO_ORIENTADOR,SIM
+1993,INICIACAO_CIENTIFICA,Universidade Federal de São João Del Rei,Engenharia Elétrica,Edison da Silva,CO_ORIENTADOR,SIM
+2005,INICIACAO_CIENTIFICA,Universidade Federal de São João Del Rei,Biologia,Maisa Ferreira Miranda,CO_ORIENTADOR,SIM
+2006,INICIACAO_CIENTIFICA,Universidade Federal de São João Del Rei,Biologia,Bibiana Maria Lobo França,CO_ORIENTADOR,SIM
+2008,INICIACAO_CIENTIFICA,Universidade Federal de São João Del Rei,Biologia,Gisele Silva Nogueira,CO_ORIENTADOR,SIM
+2008,INICIACAO_CIENTIFICA,Universidade Federal de São João Del Rei,Biologia,Karine D'Estefani de Almeida Franca,CO_ORIENTADOR,SIM
+2008,INICIACAO_CIENTIFICA,Universidade Federal de São João Del Rei,,Delmo Benedito Silva,CO_ORIENTADOR,NAO
+2007,INICIACAO_CIENTIFICA,Universidade Federal de São João Del Rei,Biologia,Maisa Ferreira Miranda,CO_ORIENTADOR,SIM
+2017,INICIACAO_CIENTIFICA,Universidade Federal de São João Del-Rei,Ciências Biológicas,Cintia Rodarte Mião,CO_ORIENTADOR,SIM
+2017,INICIACAO_CIENTIFICA,Universidade Federal de São João Del-Rei,Ciências Biológicas,NIARA ROCHA DE AGUIAR,CO_ORIENTADOR,NAO
+2006,INICIACAO_CIENTIFICA,Universidade Federal de São João Del Rei,Biologia,Livia da Silva Ciacci,CO_ORIENTADOR,SIM
