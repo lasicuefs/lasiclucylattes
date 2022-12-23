@@ -1,0 +1,50 @@
+YEAR,NATURE,INSTITUTION,COURSE,STUDENT,TYPE,SPONSOR
+2017,Dissertação de mestrado,Universidade do Estado de Minas Gerais,Pós-Graduação em Artes,Camila Lacerda Lopes,ORIENTADOR_PRINCIPAL,NAO
+2017,Dissertação de mestrado,Universidade do Estado de Minas Gerais,Pós-Graduação em Artes,Flávio Célio Rodrigues Oliveira,ORIENTADOR_PRINCIPAL,SIM
+2019,Dissertação de mestrado,Universidade do Estado de Minas Gerais,Programa de Pós-Graduação Stricto Sensu em Artes,Amanda Kistemann Eltz,ORIENTADOR_PRINCIPAL,NAO
+2019,Dissertação de mestrado,Universidade do Estado de Minas Gerais,Programa de Pós-Graduação Stricto Sensu em Artes,Cristiane Leite Alves,ORIENTADOR_PRINCIPAL,NAO
+2018,Dissertação de mestrado,Universidade do Estado de Minas Gerais,Programa de Pós-Graduação em Artes,Juliana Rodrigues Porfírio,ORIENTADOR_PRINCIPAL,NAO
+2021,Dissertação de mestrado,Universidade do Estado de Minas Gerais,Programa de Pós-Graduação Stricto Sensu em Artes,Jéssica Nascimento de Souza,ORIENTADOR_PRINCIPAL,NAO
+2019,Dissertação de mestrado,Universidade do Estado de Minas Gerais,Programa de Pós-Graduação Stricto Sensu em Artes,Gabriela Clemente de Oliveira,ORIENTADOR_PRINCIPAL,SIM
+2021,Dissertação de mestrado,Universidade do Estado de Minas Gerais,Programa de Pós-Graduação Stricto Sensu em Artes,Thiago Dias Pinto Barcellos,ORIENTADOR_PRINCIPAL,NAO
+2018,Dissertação de mestrado,Universidade do Estado de Minas Gerais,Pós-Graduação em Artes,Marília Fiúza Queiroz,ORIENTADOR_PRINCIPAL,NAO
+2011,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Faculdade Pitágoras,Jornalismo,Graziella Giannini Arantes Dias,CO_ORIENTADOR,NAO
+2010,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Faculdade Pitágoras,Jornalismo,Fernando Roberto de Souza Monteiro,CO_ORIENTADOR,NAO
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Escola Guignard,Licenciatura em Artes Plásticas,Emerson Nunes Pereira,CO_ORIENTADOR,NAO
+2014,INICIACAO_CIENTIFICA,Universidade Estadual de Minas Gerais,Bacharelado em Artes Plásticas,Miriam Aparecida Mendes,CO_ORIENTADOR,SIM
+2014,INICIACAO_CIENTIFICA,Universidade Estadual de Minas Gerais,Bacharelado em Artes Plásticas,Taís Pena de Castro,CO_ORIENTADOR,SIM
+2016,INICIACAO_CIENTIFICA,Universidade Estadual de Minas Gerais,Bacharelado em Artes Plásticas,Anna Carolina Cabral Rodrigues,CO_ORIENTADOR,SIM
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Escola Guignard,Licenciatura em Artes Plásticas,Silvana Aparecida de Oliveira,CO_ORIENTADOR,NAO
+2015,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Escola Guignard,Curso de Pós-Graduação lato sensu,Fernanda Lopes Pires de Lima,CO_ORIENTADOR,NAO
+2015,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Escola Guignard,Curso de Pós-Graduação lato sensu,Luma Aquiar Brant,CO_ORIENTADOR,NAO
+2015,INICIACAO_CIENTIFICA,Escola Guignard (UEMG),Bacharelado em Artes Plásticas,Taís Pena de Castro,CO_ORIENTADOR,SIM
+2015,INICIACAO_CIENTIFICA,Escola Guignard (UEMG),Bacharelado em Artes Plásticas,Miriam Aparecida Mendes,CO_ORIENTADOR,SIM
+2015,INICIACAO_CIENTIFICA,Escola Guignard (UEMG),Bacharelado em Artes Plásticas,Andrea Adelina Vieira Santos,CO_ORIENTADOR,SIM
+2016,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes Plásticas,Alice Thomaz Tavares,CO_ORIENTADOR,SIM
+2015,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes Plásticas,Débora Regina Lara Prado,CO_ORIENTADOR,SIM
+2016,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade do Estado de Minas Gerais,Pós-Graduação lato sensu,Cássia Grazielle Aveliz Rodrigues,CO_ORIENTADOR,NAO
+2016,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Escola Guignard,Licenciatura em Artes Plásticas,Walquíria Bueno Braga Arruda,CO_ORIENTADOR,NAO
+2015,INICIACAO_CIENTIFICA,Escola Guignard (UEMG),Bacharelado em Artes Plásticas,Alice Thomaz Tavares,CO_ORIENTADOR,SIM
+2017,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes Plásticas,Danyelle Dias Braga de Lima,CO_ORIENTADOR,NAO
+2017,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes Plásticas,Gabriela Clemente de Oliveira,CO_ORIENTADOR,SIM
+2017,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes Plásticas,Paula Regina da Silva Santos,CO_ORIENTADOR,NAO
+2017,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes plásticas,Priscila Rezende Portugal,CO_ORIENTADOR,SIM
+2018,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Licenciatura,Mariana Teixeira de Paula,CO_ORIENTADOR,SIM
+2017,INICIACAO_CIENTIFICA,Escola Guignard,Licenciatura em Artes Plásticas,Bárbara Viana Coscarella,CO_ORIENTADOR,SIM
+2018,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Licenciatura em Artes Plásticas,Raquel de Oliveira Gonçalves,CO_ORIENTADOR,SIM
+2018,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Licenciatura em Artes Plásticas,Tammy Elizabeth Lobato Machado,CO_ORIENTADOR,SIM
+2019,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Licenciatura em Artes Plásticas,Michelle Guedes de Freitas,CO_ORIENTADOR,SIM
+2019,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes plásticas,Josué Sales Barbosa,CO_ORIENTADOR,SIM
+2018,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Licenciatura em Artes Plásticas,Sarah Queiroz Abrão Pimentel,CO_ORIENTADOR,SIM
+2019,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes plásticas,Patrícia Ferreira de Morais,CO_ORIENTADOR,SIM
+2018,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade do Estado de Minas Gerais,Licenciatura em Artes Plásticas,Sérgio Faleiro Pimentel,CO_ORIENTADOR,NAO
+2019,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade do Estado de Minas Gerais,Pós-Graduação lato sensu,Sílvia Gomes Junqueira,CO_ORIENTADOR,NAO
+2019,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Licenciatura em Artes Plásticas,Natália de Oliveira e Silva Guedes,CO_ORIENTADOR,SIM
+2019,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes plásticas,Josué Sales Barbosa,CO_ORIENTADOR,SIM
+2019,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes plásticas,Gabriel da Silva Alves Pinto,CO_ORIENTADOR,SIM
+2019,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade do Estado de Minas Gerais,Licenciatura em Artes Plásticas,Mariana Teixeira de Paula,CO_ORIENTADOR,NAO
+2020,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Licenciatura em Artes Plásticas,Samantha Ottoni Cavalcante,CO_ORIENTADOR,SIM
+2020,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes plásticas,Maíra Henrique Santos de Oliveira,CO_ORIENTADOR,SIM
+2021,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes plásticas,Samantha Ottoni Cavalcante,CO_ORIENTADOR,SIM
+2021,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,,Josué Sales Barbosa,CO_ORIENTADOR,SIM
+2017,INICIACAO_CIENTIFICA,Escola Guignard (UEMG),Licenciatura em Artes Plásticas,Mariana Almeida Valadares,CO_ORIENTADOR,SIM

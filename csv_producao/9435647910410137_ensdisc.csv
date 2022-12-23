@@ -1,0 +1,11 @@
+INSTITUTION,YEAR_INI,YEAR_FIN,MONTH_INI,MONTH_FIN,COURSE,TYPE,DISC
+Universidade do Estado de Minas Gerais,1997,09,09,09,Programação Visual,GRADUACAO,"['Elementos de Iluminação e Acústica', 'Produção de Tv e Vídeo', 'Técnicas Audiovisuais']"
+Universidade Federal de Minas Gerais,2002,07,07,07,Artes Visuais,GRADUACAO,"['Ateliê II', 'Ateliê III', 'Ateliê IV', 'Cinema A', 'Cinema B', 'Imagem Técnica', 'Mercado Cinema e TV', 'Processos Alternativos de Animação', 'Técnicas Audiovisuais']"
+Pontifícia Universidade Católica de Minas Gerais,2002,06,06,06,Relações Públicas,GRADUACAO,['Comunicação Comparada']
+Universidade Federal de Minas Gerais,2006,06,06,06,Imagens e culturas mediáticas,ESPECIALIZACAO,['Novas Mídias: Novas Narrativas']
+Universidade Federal de Minas Gerais,2009,06,06,06,Ensino de Artes Visuais,ESPECIALIZACAO,"['Cinema e Vídeo', 'Fotografia e Tecnologias Contemporâneas', 'Orientação Monografia']"
+Universidade Federal de Minas Gerais,2009,12,12,12,Cinema de Animação e Artes Digitais,GRADUACAO,"['Ateliê: Cinema de Animação I', 'Ateliê: Cinema de Animação II', 'Cinema de Animação e Artes Digitais - Introdução', 'Stop Motion II', 'Videoarte', 'Tópicos em Música e Tecnologia - Música, Cinema e Audiovisual']"
+Universidade Federal de Minas Gerais,2009,07,07,07,Cinema de Animação e Artes Digitais,GRADUACAO,['Animação Experimental']
+Universidade Federal de Minas Gerais,2010,07,07,07,Artes Visuais,GRADUACAO,['Trabalho de Conclusão de Curso']
+Universidade Federal de Minas Gerais,2012,,ATUAL,ATUAL,Artes,POS-GRADUACAO,"['Tópicos Especiais em Artes II: Found Footage, o cinema das imagens de arquivo', 'Tópicos Especiais em Artes II: Música Popular e Cinema - interações audiovisuais', 'Tópicos Especiais em artes II: Palavras e Livros de Artista', 'Tópicos Especiais em Artes II: Som e Música no Cinema - Ouvindo Filmes']"
+Universidade Federal de Minas Gerais,2017,,ATUAL,ATUAL,Cinema de Animação e Artes Digitais,GRADUACAO,"['Montagem e Edição', 'Tópicos em Cinema A:  Campo Profissional do Cinema', 'Tópicos em Cinema A: Cinema Experimental', 'Tópicos em Cinema A: Som e Música no Cinema: Ouvindo Filmes', 'Tópicos em Cinema B: Música Popular no Cinema', 'Trabalho de Conclusão de Curso  - TCC']"

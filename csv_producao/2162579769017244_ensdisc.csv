@@ -1,0 +1,14 @@
+INSTITUTION,YEAR_INI,YEAR_FIN,MONTH_INI,MONTH_FIN,COURSE,TYPE,DISC
+The University of Texas at Austin,1998,08,08,08,Visual Arts,GRADUACAO,['Drawing for nonart majors']
+Pontifícia Universidade Católica de Minas Gerais,2000,08,08,08,Arquitetura e Urbanismo,GRADUACAO,"['Fundamentos da Arquitetura e do Urbanismo', 'Projetos de Arquitetura 1', 'Projetos de Arquitetura 6']"
+Universidade do Estado de Minas Gerais,2000,09,09,09,Pesquisa e Ensino das Artes Plásticas,ESPECIALIZACAO,['Arte-educação na contemporaneidade']
+Pontifícia Universidade Católica de Minas Gerais,2001,7,7,7,Publicidade e Propaganda,GRADUACAO,['Estética e cultura de massa']
+Universidade do Estado de Minas Gerais,2001,06,06,06,Educação Artística,GRADUACAO,['Fundamentos da arte-educação']
+Pontifícia Universidade Católica de Minas Gerais,2002,12,12,12,Comunicação,GRADUACAO,['Estética']
+Pontifícia Universidade Católica de Minas Gerais,2003,07,07,07,PREPES - Programa de Pós-Graduação latu sensu,ESPECIALIZACAO,"['Arte Brasileira Contemporânea, Módulo Arte e Mídia']"
+Centro Cultural Maria Lívia de Castro,2003,09,09,09,,OUTRO,['Curso livre de desenho para adolescentes']
+Faculdades Promove,2004,12,12,12,Turismo,GRADUACAO,"['Fundamentos do Urbanismo', 'História da Arte']"
+Faculdades Promove,2004,12,12,12,Publicidade e Propaganda,GRADUACAO,['Oficina de Linguagens']
+Universidade do Estado de Minas Gerais,2010,,ATUAL,ATUAL,Artes Plásticas,GRADUACAO,"['Fundamentos do ensino da arte I', 'Mediação em artes visuais', 'Técnicas de expressão e comunicação visual I', 'Técnicas de expressão e comunicação visual II', 'Tópicos em Arte Contemporânea', 'Tópicos em crítica de arte: experiência e interpretação', 'Tópicos em crítica de arte: experiência e interpretação da paisagem']"
+Universidade do Estado de Minas Gerais,2012,08,08,08,"Mediação em Arte, Cultura e Educação",ESPECIALIZACAO,['Mediação e educação']
+Universidade do Estado de Minas Gerais,2015,,ATUAL,ATUAL,Mestrado em Artes,POS-GRADUACAO,"['Mediação em arte, cultura e educação', 'Seminário de Pesquisa: processos de formação, mediação e recepção', 'Tópicos  Especiais 2 - Arte e Cidade: experiência estética do espaço construído', 'Tópicos Especiais 3 - Laboratório de mediação em arte contemporânea']"

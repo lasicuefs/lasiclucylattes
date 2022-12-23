@@ -1,0 +1,38 @@
+INSTITUTION,YEAR_INI,YEAR_FIN,MONTH_INI,MONTH_FIN,COURSE,TYPE,DISC
+Universidade Paulista,2005,12,12,12,Comunicação Digital,GRADUACAO,['Técnicas de Iluminação - Foto; Vídeo; Desing Grafico e Web']
+Núcleo de Formação Técnica Em Iluminação Cênica,2006,11,11,11,,OUTRO,"['Estética e Iluminação Cênica', 'História da Iluminação Cênica no Brasil', 'História do Teatro Brasileiro', 'Prática de Montagem em Iluminação Cênica']"
+Universidade Federal de Ouro Preto,2006,6,6,6,Artes Cênicas,GRADUACAO,"['Cenografia I', 'Dramaturgia I', 'Dramaturgia II', 'Dramaturgia III', 'Dramaturgia Moderna e o Teatro Épico', 'Iluminação I', 'Iluminação II']"
+Centro Universitário Geraldo di Biase,2008,12,12,12,Licenciatura em Arte,GRADUACAO,['Fundamentos da Linguagem Teatral II']
+Centro Universitário Geraldo di Biase,2009,06,06,06,Licenciatura em Arte,GRADUACAO,"['ADA - Atividade Dirigida de Aprendizagem', 'História do Teatro I']"
+Centro Universitário Geraldo di Biase,2009,12,12,12,Licenciatura em Arte,GRADUACAO,"['Teatro Brasileiro', 'Cenografia', 'História do Teatro II']"
+Universidade Federal de Ouro Preto,2010,12,12,12,Artes Cênicas,GRADUACAO,"['Dramaturgia B', 'Dramturgia A', 'Teatro do Medieval ao Barroco', 'Teoria Geral da Arte']"
+Centro Universitário Geraldo di Biase,2010,,ATUAL,ATUAL,Licenciatura em Arte,GRADUACAO,"['Artes Visuais no Brasil', 'Interpretação I', 'Teoria e Crítica da Arte']"
+Universidade Federal de Ouro Preto,2011,07,07,07,Artes Cênicas,GRADUACAO,['Iluminação']
+Universidade Federal de Ouro Preto,2011,12,12,12,Artes Cênicas,GRADUACAO,['Iluminação']
+Universidade Federal de Ouro Preto,2012,11,11,11,Artes Cênicas,GRADUACAO,"['Direção II', 'Iluminação']"
+Universidade Federal de Ouro Preto,2012,05,05,05,Artes Cênicas,GRADUACAO,"['Iluminação II', 'Teatro Brasileiro do Descobrimento ao Séc. XIX', 'Teoria e Estética do Teatro']"
+Universidade Federal de Ouro Preto,2013,09,09,09,Artes Cênicas,GRADUACAO,"['Iluminação I', 'Semiótica Teatral', 'Teatro Brasileiro do Descobrimento ao Século XIX']"
+Universidade Federal de Ouro Preto,2013,07,07,07,Estética e Filosofia da Arte,POS-GRADUACAO,['Filosofia e Teatro']
+Universidade Federal de Ouro Preto,2013,02,02,02,Artes Cênicas,GRADUACAO,"['Dramaturgia C', 'Teatro e Sociedade', 'Teoria e Estética do Teatro']"
+Universidade Federal de Ouro Preto,2014,07,07,07,Artes Cênicas,GRADUACAO,"['Iluminação I', 'Iluminação II']"
+Universidade Federal de Ouro Preto,2014,07,07,07,Mestrado em Artes Cênicas,POS-GRADUACAO,"['Tópicos de Pesquisa em Estética, Crítica e História das Artes Cênicas - Crítica da Historiografia do Teatro Brasileiro']"
+Universidade Federal de Ouro Preto,2014,12,12,12,Artes Cênicas,GRADUACAO,"['Teatro e Sociedade', 'Teoria e Estética do Teatro']"
+Universidade Federal de São João Del-Rei,2015,12,12,12,Teatro,GRADUACAO,"['ECT: Estudos de Dramaturgia: história e política na cena brasileira', 'IECT: Iluminação Cênica: princípios técnicos']"
+Universidade Federal de São João Del-Rei,2015,07,07,07,Teatro,GRADUACAO,"['IECT: Direção Teatral: A encenação moderna.', 'TPET: A encenação entre a Direção e a Pedagogia.']"
+Universidade Federal de São João Del-Rei,2016,02,02,02,Teatro,GRADUACAO,"['ECT: Prática de Montagem Teatral: A cena dialética de Bertolt Brecht', 'IECT: Direção Teatral: A Encenação Moderna']"
+Universidade Federal de São João Del-Rei,2016,07,07,07,Teatro,GRADUACAO,"['FSC: Crítica Teatral', 'IECT: Introdução a Dramaturgia']"
+Universidade Federal do Estado do Rio de Janeiro,2017,01,01,01,Artes Cênicas,POS-GRADUACAO,['Seminário de Tese']
+Universidade Federal de São João Del-Rei,2017,07,07,07,Teatro,GRADUACAO,"['IECT: Direção Teatral: texto e cena.', 'TPET: A encenação entre a Direção e a Pedagogia.']"
+Universidade Federal do Estado do Rio de Janeiro,2017,01,01,01,Artes Cênicas,POS-GRADUACAO,['A História do Teatro às voltas com noções basilares']
+Universidade Federal do Estado do Rio de Janeiro,2018,,ATUAL,ATUAL,Estética e Teoria do Teatro,GRADUACAO,['Seminário - Apontamentos para uma história da iluminação']
+Universidade Federal de São João Del-Rei,2018,12,12,12,Teatro,GRADUACAO,['Iluminação cênica: fundamentos técnicos']
+Universidade Federal de São João Del-Rei,2018,12,12,12,Artes Cênicas,POS-GRADUACAO,['Teoria e Crítica das Artes Cênicas']
+Universidade Federal do Estado do Rio de Janeiro,2018,,ATUAL,ATUAL,Artes Cênicas,POS-GRADUACAO,['Seminário de dissertação']
+Universidade Federal de São João Del-Rei,2019,07,07,07,Teatro,GRADUACAO,"['FSC: Tópicos Especiais: Diálogos Entre Arte e Sociedade', 'FSC: Tópicos Especiais: Historia do Espetáculo: Iluminação e Cena Moderna: História e Estética', 'IECT: Direção Teatral: A Encenação Moderna']"
+Universidade Federal de São João Del-Rei,2019,12,12,12,Teatro,GRADUACAO,['IECT: Iluminação: Fundamentos Técnicos']
+Universidade Federal de São João Del-Rei,2019,12,12,12,Artes Cênicas,POS-GRADUACAO,['Teoria e Crítica das Artes Cênicas']
+Universidade Federal de São João Del-Rei,2020,12,12,12,Artes Cênicas,POS-GRADUACAO,"['Tópicos Variados em História e Memória - Questões de história do espetáculo e os fazeres da cena', 'Seminário de Projeto']"
+Universidade Federal de São João Del-Rei,2020,12,12,12,Teatro,GRADUACAO,['Iluminação Cênica ? História e Prática da Iluminação Cênica no Brasil']
+Universidade Federal de São João Del-Rei,2021,07,07,07,Teatro,GRADUACAO,"['Metateatralidade e o Teatro Moderno', 'Ofícios da Cena ? os fazeres da coxia']"
+Universidade Federal de São João Del-Rei,2021,12,12,12,Artes Cênicas,POS-GRADUACAO,['Teoria e Crítica das Artes Cênicas']
+Universidade Federal de São João Del-Rei,2022,,ATUAL,ATUAL,Teatro,GRADUACAO,"['IECT: iluminação: fundamentos técnicos, estéticos e históricos', 'ECT: estudos de dramaturgia: história e política em cena no Brasil']"

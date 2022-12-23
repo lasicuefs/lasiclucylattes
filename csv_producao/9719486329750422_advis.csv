@@ -1,0 +1,42 @@
+YEAR,NATURE,INSTITUTION,COURSE,STUDENT,TYPE,SPONSOR
+2007,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,André Baptista,ORIENTADOR_PRINCIPAL,NAO
+2008,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Guilherme Augusto Soares de Castro,ORIENTADOR_PRINCIPAL,SIM
+2005,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Flávio Ferreira da Silva,CO_ORIENTADOR,SIM
+2008,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Marcos Edson Cardoso Filho,ORIENTADOR_PRINCIPAL,SIM
+2010,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Fábio Wanderley Jahan Souza,ORIENTADOR_PRINCIPAL,NAO
+2011,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Luiz Gustavo Vianna,ORIENTADOR_PRINCIPAL,NAO
+2011,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Kristoff Silva,ORIENTADOR_PRINCIPAL,SIM
+2012,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Carolina Ghelli Ferreira de Melo,ORIENTADOR_PRINCIPAL,NAO
+2012,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Lucas Nézio Malta,ORIENTADOR_PRINCIPAL,SIM
+2013,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Felipe José Oliveira Abreu,ORIENTADOR_PRINCIPAL,SIM
+2014,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Fernando Braga Campos,ORIENTADOR_PRINCIPAL,NAO
+2013,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Pablo Andres Passini,ORIENTADOR_PRINCIPAL,NAO
+2014,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Matheus Almeida Rodrigues,ORIENTADOR_PRINCIPAL,NAO
+2014,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Leandro Pereira de Souza,ORIENTADOR_PRINCIPAL,SIM
+2016,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Felipe André Florentino Silva,ORIENTADOR_PRINCIPAL,SIM
+2017,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Lucas Vilas Boas Teixeira de Carvalho Filho,ORIENTADOR_PRINCIPAL,NAO
+2017,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Filipe Almeida Malta,ORIENTADOR_PRINCIPAL,SIM
+2018,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Deyvid Wilian Martins,ORIENTADOR_PRINCIPAL,NAO
+2018,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Augusto César Pereira Armondes,ORIENTADOR_PRINCIPAL,NAO
+2019,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Rubens Pereira da Silva,ORIENTADOR_PRINCIPAL,SIM
+2013,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Rúbia Gonzaga Pereira da Costa,ORIENTADOR_PRINCIPAL,SIM
+2014,Tese de doutorado,Universidade Federal de Minas Gerais,Música,Leandro Pereira de Souza,ORIENTADOR_PRINCIPAL,SIM
+2017,Tese de doutorado,McGill University,Music and Technology,Eduardo Meneses,CO_ORIENTADOR,NAO
+2018,Tese de doutorado,Universidade Federal de Minas Gerais,Música,Leandro Pereira de Souza,ORIENTADOR_PRINCIPAL,SIM
+1997,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Musica - composicao,Avelar Rodrigues Jr.,CO_ORIENTADOR,SIM
+2000,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Música - licenciatura,Alice Belém Vieira,CO_ORIENTADOR,NAO
+2005,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Musica - composicao,José Henrique Padovanni,CO_ORIENTADOR,SIM
+2005,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Musica - composicao,Marcos Filho,CO_ORIENTADOR,SIM
+2000,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - licenciatura,João Barreto / Suely Louzada / Leonardo Rosse,CO_ORIENTADOR,SIM
+2006,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - licenciatura,Fernando Braga Campos,CO_ORIENTADOR,SIM
+2006,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Musica - composicao,Sérgio Rodrigo Lacerda,CO_ORIENTADOR,SIM
+2000,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Música - piano,Rodrigo Miranda,CO_ORIENTADOR,SIM
+2008,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Engenharia Elétrica,Ruslan de Magalhães Viana,CO_ORIENTADOR,SIM
+2009,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Musica - composicao,Rafael Lima Pimenta,CO_ORIENTADOR,SIM
+2012,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Musica - composicao,Rafael Lima Pimenta,CO_ORIENTADOR,SIM
+2013,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,"Música - Instrumentos de Corda, Sopro e Percussão",Anderson dos Reis dos Santos,CO_ORIENTADOR,SIM
+2014,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,"Música - Instrumentos de Corda, Sopro e Percussão",Anderson dos Reis dos Santos,CO_ORIENTADOR,SIM
+2014,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Engenharia Elétrica,Pedro Vasconcelos Cambraia,CO_ORIENTADOR,SIM
+2015,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Abi - Música,João Pedro Viana Loureiro,CO_ORIENTADOR,SIM
+2017,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Música,Rubens Silva,CO_ORIENTADOR,NAO
+2015,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Música - Música Popular,Augusto Cesar Pereira Armondes,CO_ORIENTADOR,SIM

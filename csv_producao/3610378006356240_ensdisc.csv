@@ -1,0 +1,7 @@
+INSTITUTION,YEAR_INI,YEAR_FIN,MONTH_INI,MONTH_FIN,COURSE,TYPE,DISC
+Escola de Artes,1987,9,9,9,,OUTRO,['Canto']
+Escola de Música da Ufmg,1992,12,12,12,Canto,GRADUACAO,['Canto']
+Teatro Universitário da Ufmg,1998,5,5,5,,ENSINO-MEDIO,"['Expressão vocal 1', 'Expressão vocal 2', 'Expressão vocal 3']"
+Universidade do Estado de Minas Gerais,1999,7,7,7,Canto,GRADUACAO,['Canto']
+Universidade Federal de Minas Gerais,2000,,ATUAL,ATUAL,Abi - Música,GRADUACAO,"['Canto', 'Oficina de Performance', 'Dicção Lírica', 'Literatura do Instrumento', 'Correpetição para Cantores']"
+Universidade Federal de Minas Gerais,2009,,ATUAL,ATUAL,Música,POS-GRADUACAO,"['Canto', 'Pratica Instrumental', 'Prática Instrumental Avançada', 'Estudos Orientados', 'Seminários de Performance']"

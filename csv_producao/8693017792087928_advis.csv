@@ -1,0 +1,72 @@
+YEAR,NATURE,INSTITUTION,COURSE,STUDENT,TYPE,SPONSOR
+2005,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Débora Batista Baião,ORIENTADOR_PRINCIPAL,SIM
+2006,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Francisco de Assis Gonzaga,ORIENTADOR_PRINCIPAL,NAO
+2006,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Igor Jorge Kimo,ORIENTADOR_PRINCIPAL,SIM
+2006,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Rodrigo Teodoro de Paula,ORIENTADOR_PRINCIPAL,NAO
+2007,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Marcia Pereira Guerra,ORIENTADOR_PRINCIPAL,NAO
+2007,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Ana Cristina Santos Alvarenga,ORIENTADOR_PRINCIPAL,NAO
+2007,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Vladmir Agostini Cerqueira,ORIENTADOR_PRINCIPAL,NAO
+2008,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Heber Negrão de Lima,ORIENTADOR_PRINCIPAL,NAO
+2009,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Cibele Lauria Silva,ORIENTADOR_PRINCIPAL,NAO
+2010,Dissertação de mestrado,Escola de Música da UFMG,Música,Cybele Lau Silva,ORIENTADOR_PRINCIPAL,NAO
+2010,Dissertação de mestrado,Escola de Música da UFMG,Música,Thalita Couto,ORIENTADOR_PRINCIPAL,NAO
+2012,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Talitha Couto,ORIENTADOR_PRINCIPAL,SIM
+2012,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Gelson Luiz da Silva,ORIENTADOR_PRINCIPAL,NAO
+2012,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,José Ricardo Jamal Júnior,ORIENTADOR_PRINCIPAL,SIM
+2013,Dissertação de mestrado,Escola de Música da UFMG,Mestrado em Música,Lucia Vulcano de Andrada,ORIENTADOR_PRINCIPAL,SIM
+2013,Dissertação de mestrado,Escola de Música da UFMG,Mestrado em Música,HÁGNER MALON DA COSTA SILVA,ORIENTADOR_PRINCIPAL,SIM
+2011,Dissertação de mestrado,Escola de Música da UFMG,Mestrado em Música,Cibele Lau Silva,ORIENTADOR_PRINCIPAL,NAO
+2014,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Guilherme Dias Melo Carvalho,ORIENTADOR_PRINCIPAL,SIM
+2014,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Jonatha Maximiniano,ORIENTADOR_PRINCIPAL,NAO
+2014,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Raimundo João Matos Costa Neto,ORIENTADOR_PRINCIPAL,SIM
+2015,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Raimundo João Matos Costa Neto,ORIENTADOR_PRINCIPAL,NAO
+2016,Dissertação de mestrado,Escola de Música da UFMG,Música,Ana Malaquias Pietra,ORIENTADOR_PRINCIPAL,SIM
+2018,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Leonardo Bittencourt Silva,ORIENTADOR_PRINCIPAL,NAO
+2019,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,BARBARA VIGGIANO ROCHA DA SILVA,ORIENTADOR_PRINCIPAL,NAO
+2020,Dissertação de mestrado,Escola de Música da UFMG,Mestrado em Música,Leonardo Bittencourt,ORIENTADOR_PRINCIPAL,SIM
+2012,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Bruno Aragão,ORIENTADOR_PRINCIPAL,SIM
+2018,Tese de doutorado,Escola de Música da UFMG,Música,Rafael Marin da Silva Garcia,ORIENTADOR_PRINCIPAL,NAO
+2017,Tese de doutorado,Universidade Federal de Minas Gerais,Música,José Ricardo Jamal Junior,ORIENTADOR_PRINCIPAL,NAO
+1999,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Biblioteconomia,Marina Cajaíba,CO_ORIENTADOR,SIM
+2000,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Piano,Ana Mota,CO_ORIENTADOR,SIM
+2000,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Bacharelado Em Piano,Rodrigo Miranda e Alice Belém,CO_ORIENTADOR,SIM
+2000,ORIENTACAO-DE-OUTRA-NATUREZA,Biblioteca Universitária da UFMG,,Marlene de Fátima Vieira Lopes,CO_ORIENTADOR,SIM
+2000,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Regência,Rodrigo Teodoro,CO_ORIENTADOR,SIM
+2000,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Composição,Eduardo Rosse e Leonardo Rosse,CO_ORIENTADOR,NAO
+2001,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal de Minas Gerais,Especialização Em Musicologia,André Guerra Cotta,CO_ORIENTADOR,NAO
+2000,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Composição,Eduardo Pires Rossi,CO_ORIENTADOR,NAO
+2001,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,História,René Lommez Gomes,CO_ORIENTADOR,NAO
+2002,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Comunicação Social,Pedro Aspahan,CO_ORIENTADOR,SIM
+2002,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Música,Flávio Ferreira,CO_ORIENTADOR,SIM
+2002,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Ciência da Informação,Adélia  Costa Soares,CO_ORIENTADOR,SIM
+2002,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Ciência da Informação,Joicely Agenor e Ricardo Teixeira Vilar,CO_ORIENTADOR,SIM
+2001,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Ciência da Informação,Juliana Alves Moreira,CO_ORIENTADOR,SIM
+2002,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,História,Carolina Perpétuo Corrêa,CO_ORIENTADOR,SIM
+2003,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Música,Juliana Alves Moreira,CO_ORIENTADOR,SIM
+2003,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Ciência da Informação,Joicely Agenor,CO_ORIENTADOR,SIM
+2003,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Composição,Daniel Magalhães,CO_ORIENTADOR,SIM
+2004,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal de Minas Gerais,Especialização Em Musicologia,Fernando Macedo,CO_ORIENTADOR,NAO
+2005,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Música,Euridiana Silva,CO_ORIENTADOR,SIM
+2005,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Música,Douglas Ferreira Gadelha Campelo,CO_ORIENTADOR,SIM
+2006,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Música,Douglas Ferreira Gadelha Campello,CO_ORIENTADOR,SIM
+2006,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Música,Tarcísio Braga,CO_ORIENTADOR,SIM
+2007,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Música,Ricardo Jamal,CO_ORIENTADOR,SIM
+2008,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música,Juliana Alvarenga,CO_ORIENTADOR,SIM
+2009,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música,Ricardo Jamal,CO_ORIENTADOR,SIM
+2009,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,História,Bruno Aragão,CO_ORIENTADOR,NAO
+2009,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música,Marcos Sarieddine Araújo,CO_ORIENTADOR,SIM
+2001,INICIACAO_CIENTIFICA,Escola de Música da UFMG,Música,Daniel de Almeida Borges,CO_ORIENTADOR,NAO
+2003,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,,André Henrique Guerra Cotta,CO_ORIENTADOR,SIM
+2001,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal de Minas Gerais,Música,André Henrique Guerra Cotta,CO_ORIENTADOR,NAO
+2010,ORIENTACAO-DE-OUTRA-NATUREZA,Escola de Música da UFMG,Música,Ricardo Jamal,CO_ORIENTADOR,NAO
+2010,INICIACAO_CIENTIFICA,Escola de Música da UFMG,Música,Ana Carolina Estrela,CO_ORIENTADOR,NAO
+2010,ORIENTACAO-DE-OUTRA-NATUREZA,Escola de Música da UFMG,música,Irene Bertachini,CO_ORIENTADOR,NAO
+2012,INICIACAO_CIENTIFICA,Escola de Música da UFMG,música,Arthur Vinícius Cornélio,CO_ORIENTADOR,SIM
+2012,INICIACAO_CIENTIFICA,Escola de Música da UFMG,música,Sofia Copertino,CO_ORIENTADOR,SIM
+2012,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Escola de Música da UFMG,música,Barbara Viggiano,CO_ORIENTADOR,NAO
+2013,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Artes Visuais - Artes Gráficas,André Machado Novaes,CO_ORIENTADOR,SIM
+2013,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,"Música - Instrumentos de Corda, Sopro e Percussão",Rodrigo Praxedes,CO_ORIENTADOR,SIM
+2015,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Licenciatura Intercultural Indígena,Alessandro Santos da Cruz,CO_ORIENTADOR,NAO
+2016,INICIACAO_CIENTIFICA,Universidade Federal do Sul da Bahia,Abi - Licenciaturas Interdisciplinares,Dhonata Melo da Silva,CO_ORIENTADOR,SIM
+2017,INICIACAO_CIENTIFICA,Universidade Federal do Sul da Bahia,Abi - Licenciaturas Interdisciplinares,Kefas Matos dos Santos,CO_ORIENTADOR,SIM
+2002,INICIACAO_CIENTIFICA,Escola de Música da UFMG,Música,Daniel Magalhães,CO_ORIENTADOR,SIM

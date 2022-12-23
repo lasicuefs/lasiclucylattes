@@ -1,0 +1,15 @@
+INSTITUTION,YEAR_INI,YEAR_FIN,MONTH_INI,MONTH_FIN,COURSE,TYPE,DISC
+Prefeitura Municipal de Campinas,2008,12,12,12,,ENSINO-FUNDAMENTAL,['Dança (Ballet) - Ensino Fundamental']
+Serviço Social da Industria - SESI,2011,02,02,02,,ENSINO-MEDIO,['ARTE - Ensino Médio']
+Serviço Social da Industria - SESI,2011,02,02,02,,ENSINO-FUNDAMENTAL,"['ARTE - Ensino Fundamental', 'Vivências Artísticas/Montagem Cênica (Dança, Música, Teatro e Artes Visuais)']"
+Governo do Estado de São Paulo,2014,03,03,03,,ENSINO-FUNDAMENTAL,['ARTE - Ensino Fundamental']
+Governo do Estado de São Paulo,2014,03,03,03,,ENSINO-MEDIO,['ARTE - Ensino Médio e EJA']
+Universidade Estadual de Montes Claros,2015,01,01,01,Teatro,GRADUACAO,"['A Voz na Cena Teatral', 'Atividade Acadêmica Científico Cultural', 'Dança I', 'Expressão Corporal I', 'Oficina de Iluminação', 'Orientação de Monografia']"
+Universidade Estadual de Montes Claros,2016,04,04,04,Teatro,GRADUACAO,"['Atividade Acadêmico-Científico-Cultural (AACC)', 'Consiência Corporal', 'Dança II', 'Expressão Corporal II', 'Orinetação de Monografia (03) e Iniciação Científica (02)', 'Preparação Vocal para a Cena', 'Técnica Circense Aplicada ao Teatro']"
+Universidade Federal de Uberlândia,2016,,ATUAL,ATUAL,,ENSINO-FUNDAMENTAL,"['Arte - Dança', 'Arte - Dança (Alfabetização Inicial - Ensino Fundamnetal)', 'Arte - Dança (Educação Infantil)', 'Arte - Dança (PROEJA - Programa Nacional de Integração da Educação Profissional com a Educação Básica na Modalidade de Educação de Jovens e Adultos )']"
+Universidade Federal de Uberlândia,2018,07,07,07,Teatro - Licenciatura Ou Bacharelado,GRADUACAO,"['Atuação: Improvisação II', 'Corpovoz II']"
+Universidade Federal de Uberlândia,2018,12,12,12,Teatro,GRADUACAO,['Corpovoz II']
+Universidade Federal de Uberlândia,2019,07,07,07,Mestrado Profissional em Artes - ProfArtes,POS-GRADUACAO,['Poéticas e processos da criação em artes']
+Universidade Federal de Uberlândia,2019,07,07,07,Artes Cênicas,POS-GRADUACAO,['Tópicos Especiais em Processos Formativos em Artes Cênicas']
+Universidade Federal de Uberlândia,2021,,ATUAL,ATUAL,Artes Cênicas,POS-GRADUACAO,['Tópicos Especiais em Processos Formativos em Artes Cênicas']
+Universidade Federal de Uberlândia,2021,,ATUAL,ATUAL,Mestrado Profissional em Artes - ProfArtes,POS-GRADUACAO,['POÉTICAS E PROCESSOS PEDAGÓGICOS DA CRIAÇÃO EM ARTES']

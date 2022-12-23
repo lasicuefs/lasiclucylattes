@@ -1,0 +1,138 @@
+YEAR,NATURE,INSTITUTION,COURSE,STUDENT,TYPE,SPONSOR
+2018,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Leticia Caroline Souza,ORIENTADOR_PRINCIPAL,NAO
+2021,Dissertação de mestrado,Universidade Federal de Minas Gerais,Neurociências,Ivan Moriá Borges Rodrigues,ORIENTADOR_PRINCIPAL,NAO
+2019,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Marilene Clara Fonseca,ORIENTADOR_PRINCIPAL,SIM
+2019,Dissertação de mestrado,Universidade Federal de Minas Gerais,Música,Riicardo Luiz Dias,ORIENTADOR_PRINCIPAL,SIM
+2019,Tese de doutorado,Universidade Federal de Minas Gerais,Música,Marina Horta Freire,CO_ORIENTADOR,NAO
+2020,Tese de doutorado,Universidade Federal de Minas Gerais,Música,Gleisson do Carmo Oliveira,CO_ORIENTADOR,NAO
+2004,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,,Sebastiana Ribeiro Ardenghe,CO_ORIENTADOR,NAO
+2004,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,,Karina Medeiros Dias,CO_ORIENTADOR,NAO
+2002,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Faculdade Paulista de Artes,,Marilisa Galvão Basso de Oliveira,CO_ORIENTADOR,NAO
+2005,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,Sonara Oliveira Campanha,ORIENTADOR_PRINCIPAL,NAO
+2005,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,Daniela Carnielli Conti,ORIENTADOR_PRINCIPAL,NAO
+2004,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,,Carolina de Castro Gonçalves,CO_ORIENTADOR,NAO
+2004,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,,Jonas de Vargas Ferreira,CO_ORIENTADOR,NAO
+2004,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,,Raquel Lourenço Cavanha,CO_ORIENTADOR,NAO
+2002,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Faculdade Paulista de Artes,Musicoterapia,Gisele Célia Furusava,ORIENTADOR_PRINCIPAL,NAO
+2002,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Faculdade Paulista de Artes,,Luciano Sallum,CO_ORIENTADOR,NAO
+2002,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Faculdade Paulista de Artes,,Mirna Rosangela Barboza Domingos,CO_ORIENTADOR,NAO
+2002,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Faculdade Paulista de Artes,,Roberta Fabiana Constanzo Delizoicov,CO_ORIENTADOR,NAO
+2005,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,Paula André de Olliveira,ORIENTADOR_PRINCIPAL,NAO
+2005,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,Catia Aparecida da Silva,ORIENTADOR_PRINCIPAL,NAO
+2005,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,Mauricio Homem Martani,ORIENTADOR_PRINCIPAL,NAO
+2005,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,Karen Laurenti Prado,ORIENTADOR_PRINCIPAL,NAO
+2005,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,Milena Carolina Bonifacio Gaiato,ORIENTADOR_PRINCIPAL,NAO
+2005,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,Mary Elly Alves Negrão,ORIENTADOR_PRINCIPAL,NAO
+2005,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,José Henrique Lopes Santos,ORIENTADOR_PRINCIPAL,NAO
+2005,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,Rosimar Lourdes de Almeida Consuli,ORIENTADOR_PRINCIPAL,NAO
+2002,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,Deliani Silva Caetano,ORIENTADOR_PRINCIPAL,NAO
+2003,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,Eliana Maria Correa Morgado,ORIENTADOR_PRINCIPAL,NAO
+2003,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,Denise Souza Dias de Salles,ORIENTADOR_PRINCIPAL,NAO
+2003,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,Renata Fernanda Pupim,ORIENTADOR_PRINCIPAL,NAO
+2003,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,Beatriz Adelino de Afonseca,ORIENTADOR_PRINCIPAL,NAO
+2002,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,Geise Iwata Egi,ORIENTADOR_PRINCIPAL,NAO
+2002,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,Lilian Ribeiro Soares,ORIENTADOR_PRINCIPAL,NAO
+2002,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,Inessa Maria Festucci,ORIENTADOR_PRINCIPAL,NAO
+2002,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Faculdade Paulista de Artes,Musicoterapia,Julia Lazzarini,ORIENTADOR_PRINCIPAL,NAO
+2003,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,Vanessa Baldochi Mateussi,ORIENTADOR_PRINCIPAL,NAO
+2002,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,Camila de Oliveira Coelho e Claudia Maria Liberalli Menon,ORIENTADOR_PRINCIPAL,NAO
+2003,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,Gabryelle Patriota,ORIENTADOR_PRINCIPAL,NAO
+2002,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Faculdade Paulista de Artes,Musicoterapia,Carla Carolina Salvatti Aiello,ORIENTADOR_PRINCIPAL,NAO
+2003,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,Talita Hanako Ikuma Nogueira,ORIENTADOR_PRINCIPAL,NAO
+2003,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,Rosanildo Ferreira de Queiroz,ORIENTADOR_PRINCIPAL,NAO
+2003,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,Alexandra Ribeiro Cursi,ORIENTADOR_PRINCIPAL,NAO
+2002,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Faculdade Paulista de Artes,Musicoterapia,Suzanne Lieseil Schulz,ORIENTADOR_PRINCIPAL,NAO
+2003,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,Fernanda Pádua Souza,ORIENTADOR_PRINCIPAL,NAO
+2004,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,Nelso Vieira Barreto,ORIENTADOR_PRINCIPAL,NAO
+2002,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Faculdade Paulista de Artes,Musicoterapia,Ana Carolina Baciotti Bernardino,ORIENTADOR_PRINCIPAL,NAO
+2003,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,Gustavo Andrade Carluccio,ORIENTADOR_PRINCIPAL,NAO
+2007,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Pedagogia,Daiana Oliveira de Paula Martins,CO_ORIENTADOR,NAO
+2007,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Pedagogia,Débora santos de Oliveira Mazelli,CO_ORIENTADOR,NAO
+2007,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Pedagogia,Fernanda Vilela Teodoro Alves,CO_ORIENTADOR,NAO
+2007,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Pedagogia,Ana Cristina Parente Sampaio,CO_ORIENTADOR,NAO
+2007,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Pedagogia,Bianca Zanato Barone,CO_ORIENTADOR,NAO
+2007,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Pedagogia,Renata Estevam Geraldo de Campos,CO_ORIENTADOR,NAO
+2007,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Pedagogia,Mainá Carolina Longo,CO_ORIENTADOR,NAO
+2006,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Pedagogia,Fabiana Regina Belezini,CO_ORIENTADOR,NAO
+2006,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Pedagogia,Natalia Borges de Mendonça,CO_ORIENTADOR,NAO
+2006,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Pedagogia,Juliana Maria Pereira,CO_ORIENTADOR,NAO
+2006,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Pedagogia,Roberta Regiane Pereira,CO_ORIENTADOR,NAO
+2008,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Pedagogia,Ana Carolina Marques Rosa,CO_ORIENTADOR,NAO
+2008,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Pedagogia,Andreia Aparecida Baldini,CO_ORIENTADOR,NAO
+2008,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,Talita Abreu Rodrigues,CO_ORIENTADOR,NAO
+2008,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,Tais Perticarrara Ferezin,CO_ORIENTADOR,NAO
+2008,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Musicoterapia,Josienne Guedes Franco,CO_ORIENTADOR,NAO
+2008,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Pedagogia,Sandra Cristina Ramos de Lima,CO_ORIENTADOR,NAO
+2008,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Pedagogia,Renusa Gomes de Souza,CO_ORIENTADOR,NAO
+2008,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Claretiano Centro Universitário,Especialização em Arte e Educação,Suzana Darque da Silva Cabral,CO_ORIENTADOR,NAO
+2008,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Claretiano Centro Universitário,Especialização em Arte e Educação,Maria Carolina Viccari de Oliveira,CO_ORIENTADOR,NAO
+2008,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Claretiano Centro Universitário,Especialização em Arte e Educação,Jack Assis,CO_ORIENTADOR,NAO
+2008,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Claretiano Centro Universitário,Especialização em Arte e Educação,Rosemary Martins Roque,CO_ORIENTADOR,NAO
+2009,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Pedagogia,Viviane Lopes Gonçalves de Souza,CO_ORIENTADOR,NAO
+2009,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Claretiano Centro Universitário,Especialização em Arte e Educação,ANDRÉA CRISTINA MARQUES SENEDESE,CO_ORIENTADOR,NAO
+2009,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Claretiano Centro Universitário,Especialização em Arte e Educação,EDITH RAQUEL BIGARELI,CO_ORIENTADOR,NAO
+2009,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Claretiano Centro Universitário,Especialização em Arte e Educação,MARCIA APARECIDA LEONEL,CO_ORIENTADOR,NAO
+2009,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Claretiano Centro Universitário,Especialização em Arte e Educação,MARIA FERNANDA CARVALHO GONÇALVES,CO_ORIENTADOR,NAO
+2009,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Claretiano Centro Universitário,Especialização em Arte e Educação,SUELY ASSUMPÇÃO,CO_ORIENTADOR,NAO
+2009,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Pedagogia,Marina Soriano de Paula,CO_ORIENTADOR,NAO
+2009,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Pedagogia,Rita de Cássia Aparecida de Souza Santos,CO_ORIENTADOR,NAO
+2009,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade de Ribeirão Preto,Pedagogia,Livia Castrechine de Barros,CO_ORIENTADOR,NAO
+2013,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Música - Habilitação em Musicoterapia,"Lilian Coimbra Faria, Andressa Rayane Lopes Oliveira",CO_ORIENTADOR,NAO
+2013,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Música - Habilitação em Musicoterapia,"Clitia Rodrigues, Ana Clara R N C Rocha",CO_ORIENTADOR,NAO
+2013,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Música - Habilitação em Musicoterapia,Beatriz Mourão,CO_ORIENTADOR,NAO
+2013,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Música - Habilitação em Musicoterapia,"Andreia Polignano Mendonça, Camila Nascimento de Castro",CO_ORIENTADOR,NAO
+2013,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Terapia Ocupacional,Raquel Motta e Renata Santos,CO_ORIENTADOR,NAO
+2013,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Música - Habilitação em Musicoterapia,Hozana Reis Passos; Mariana Batista Diniz Valério,CO_ORIENTADOR,NAO
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Música - Habilitação em Musicoterapia,"CAMILO, Carolina Cordeiro e CARVALHO, Bárbara",CO_ORIENTADOR,NAO
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Música - Musicoterapia,Larissa Andrade Botelho Silva,CO_ORIENTADOR,NAO
+2014,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Julia Pelúcio de Andrade Almada Quissak,CO_ORIENTADOR,NAO
+2013,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Lilian Coimbra Faria,CO_ORIENTADOR,SIM
+2012,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Lilian Coimbra Faria,CO_ORIENTADOR,SIM
+2013,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Carolina Cordeiro Camilo,CO_ORIENTADOR,SIM
+2014,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Carolina Cordeiro Camilo,CO_ORIENTADOR,SIM
+2014,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Arthur Bortolus,CO_ORIENTADOR,SIM
+2015,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Luiza de Carvalho Mariz,CO_ORIENTADOR,SIM
+2013,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Luiza de Carvalho Mariz,CO_ORIENTADOR,SIM
+2014,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Luiza de Carvalho Mariz,CO_ORIENTADOR,SIM
+2011,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Ana Clara Reis Nicole Carvalho Rocha,CO_ORIENTADOR,SIM
+2012,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Ana Clara Reis Nicole Carvalho Rocha,CO_ORIENTADOR,SIM
+2013,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Ana Clara Reis Nicole Carvalho Rocha,CO_ORIENTADOR,SIM
+2011,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Camila Nascimento de Castro,CO_ORIENTADOR,SIM
+2014,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Bárbara Carvalho,CO_ORIENTADOR,SIM
+2013,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Bárbara Carvalho,CO_ORIENTADOR,SIM
+2012,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Bárbara Carvalho,CO_ORIENTADOR,SIM
+2014,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Davi Oliveira Batista,CO_ORIENTADOR,SIM
+2013,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Davi Oliveira Batista,CO_ORIENTADOR,SIM
+2012,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Davi Oliveira Batista,CO_ORIENTADOR,SIM
+2012,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Camila Nascimento de Castro,CO_ORIENTADOR,SIM
+2013,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Camila Nascimento de Castro,CO_ORIENTADOR,SIM
+2011,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Clitia Rodrigues da Silva,CO_ORIENTADOR,SIM
+2012,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Clitia Rodrigues da Silva,CO_ORIENTADOR,SIM
+2013,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Clitia Rodrigues da Silva,CO_ORIENTADOR,SIM
+2015,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Maria Virgínia Silveira de Faria Gomes,CO_ORIENTADOR,SIM
+2015,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Música - Musicoterapia,Julia Pelucio de Andrade Almada Quissak,CO_ORIENTADOR,NAO
+2015,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal de São Paulo,"Educaçaõ Infantil, Infâncias e Arte","Ana Lúcia F de Lima, Andréia G Carvalho, Talita S Cotrim",CO_ORIENTADOR,SIM
+2015,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal de São Paulo,"Educaçaõ Infantil, Infâncias e Arte","Tatiane C L Bastos, Verônica A P Araújo,  Heloisa A P Louro",CO_ORIENTADOR,SIM
+2015,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal de São Paulo,"Educaçaõ Infantil, Infâncias e Arte","Giane A Silva, Suelene S Silva, Valéria C A A Oliveira",CO_ORIENTADOR,SIM
+2015,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal de São Paulo,"Educaçaõ Infantil, Infâncias e Arte","Maria Paulina S Monteiro, Marineide Araújo, Vanessa Furtado",CO_ORIENTADOR,SIM
+2015,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Música - Musicoterapia,Thalita Freire Amado de Oliveira,CO_ORIENTADOR,NAO
+2015,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Fonoaudiologia,Talita Caroline Alves da Silva,CO_ORIENTADOR,NAO
+2015,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Ivan Moria Borges Rodrigues,CO_ORIENTADOR,SIM
+2015,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Andresa Cristina Resende,CO_ORIENTADOR,SIM
+2016,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Música - Musicoterapia,Arthur Bortolus,CO_ORIENTADOR,NAO
+2016,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Música - Musicoterapia,Gabriel Estanislau Machado e Abner Davi Barbosa,CO_ORIENTADOR,NAO
+2016,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Música - Musicoterapia,Alexandra M. S. Ricardo e Emily Hanna P. Fonseca,CO_ORIENTADOR,NAO
+2016,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Música - Musicoterapia,Henriane Camile P. Souza e Larissa N. Gonçalves,CO_ORIENTADOR,NAO
+2016,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Ivan Moria Borges Rodrigues,CO_ORIENTADOR,SIM
+2016,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Andresa Cristina Rezende,CO_ORIENTADOR,NAO
+2016,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Música - Musicoterapia,Simone Presotti Tiburcio,CO_ORIENTADOR,NAO
+2017,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Andresa Cristina Resende,CO_ORIENTADOR,SIM
+2017,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Julia Bibiano,CO_ORIENTADOR,SIM
+2017,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Gabriel Estanislau Machado,CO_ORIENTADOR,NAO
+2018,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Música - Habilitação em Musicoterapia,Maria Angela Aparecida Rodrigues,CO_ORIENTADOR,NAO
+2018,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Taina Kethlen de Sousa,CO_ORIENTADOR,SIM
+2018,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Música - Musicoterapia,Cristina Guzman Siacara,CO_ORIENTADOR,NAO
+2018,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Música - Musicoterapia,Aline Amaral Silva Paixão,CO_ORIENTADOR,NAO
+2020,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal de Minas Gerais,Especialização em Neurociênciase suas Interfaces,Ailton Raimundo Moreira,CO_ORIENTADOR,NAO
+2019,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal de Minas Gerais,Especialização em Neurociênciase suas Interfaces,Cristiane Carvalho Moreira Pedrosa,CO_ORIENTADOR,NAO
+2015,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Música - Musicoterapia,Julia Pelucio de Andrade Almada Quissak,CO_ORIENTADOR,NAO

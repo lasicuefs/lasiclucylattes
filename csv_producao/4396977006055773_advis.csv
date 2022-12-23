@@ -1,0 +1,62 @@
+YEAR,NATURE,INSTITUTION,COURSE,STUDENT,TYPE,SPONSOR
+2014,Dissertação de mestrado,Universidade Federal de Ouro Preto,Programa de Pós-Graduação em Artes Cênicas,Paulo Ricardo Maffei de Araújo,ORIENTADOR_PRINCIPAL,SIM
+2016,Dissertação de mestrado,Universidade Federal de Ouro Preto,Programa de Pós-Graduação em Artes Cênicas,Felipe Eduardo Lopes da Cunha,ORIENTADOR_PRINCIPAL,SIM
+2016,Dissertação de mestrado,Universidade Federal de Ouro Preto,Programa de Pós-Graduação em Artes Cênicas,Winny da Silva Rocha,ORIENTADOR_PRINCIPAL,SIM
+2017,Dissertação de mestrado,Universidade Federal de Ouro Preto,Programa de Pós-Graduação em Artes Cênicas,Luciana Araújo Castro,ORIENTADOR_PRINCIPAL,SIM
+2017,Dissertação de mestrado,Universidade Federal de Ouro Preto,Programa de Pós-Graduação em Artes Cênicas,Frederico Levi Amorim,ORIENTADOR_PRINCIPAL,NAO
+2019,Dissertação de mestrado,Universidade Federal de Ouro Preto,Programa de Pós-Graduação em Artes Cênicas,Amanda Marcondes,ORIENTADOR_PRINCIPAL,SIM
+2015,Dissertação de mestrado,Universidade Federal de Ouro Preto,Programa de Pós-Graduação em Artes Cênicas,Thaiz Barros Cantasini,ORIENTADOR_PRINCIPAL,SIM
+2018,Dissertação de mestrado,Universidade Federal de Ouro Preto,Programa de Pós-Graduação em Artes Cênicas,Marcia Cristina da Silva Sousa,ORIENTADOR_PRINCIPAL,SIM
+2016,Tese de doutorado,Universidade Federal de Minas Gerais,Programa de Pós-Graduação de Artes Cênicas,Marcelo Eduardo Rocco de Gasperi,CO_ORIENTADOR,NAO
+2002,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,,Adélia Aparecida de Carvalho,CO_ORIENTADOR,SIM
+2004,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Bacharelado Em Direção Teatral,Maíra Lana de Araújo Souza,CO_ORIENTADOR,SIM
+2004,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Licenciatura Em Artes Cênicas,Brenno Jadvas Soares Ferreira e Fernando Shoitchi Yassuda,CO_ORIENTADOR,NAO
+2006,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Artes Cênicas,Clóvis Domingos dos Santos e Gisele Inácio da Silva,CO_ORIENTADOR,NAO
+2006,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Bacharelado Em Direção Teatral,Amaury Borges de Campos,CO_ORIENTADOR,SIM
+2007,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Licenciatura Em Artes Cênicas,Wallace Ruy Monteiro Fernandes,CO_ORIENTADOR,NAO
+2006,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Bacharelado Em Direção Teatral,Carina Maria Guimarães Moreira,CO_ORIENTADOR,NAO
+2005,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Bacharelado Em Direção Teatral,Túlio Drumond Chaves,CO_ORIENTADOR,NAO
+2007,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Bacharelado Em Direção Teatral,Alexis Nehemy,CO_ORIENTADOR,NAO
+2005,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Bacharelado Em Direção Teatral,Idelino Alves Barbosa Júnior,CO_ORIENTADOR,NAO
+2011,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Bacharelado em Direção Teatral,Josiane da Silva Reis,CO_ORIENTADOR,NAO
+2011,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Bacharelado em Interpretação,Haylla Gimenes Rissi,CO_ORIENTADOR,NAO
+2011,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Bacharelado em Interpretação,Elisa Sartori Prieto,CO_ORIENTADOR,NAO
+2012,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Artes Cênicas: Licenciatura,Weber Miranda Cooper Neto,CO_ORIENTADOR,NAO
+2012,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Artes Cênicas: Bacharelado em Direção Teatral,Aline de Andrade Gomes,CO_ORIENTADOR,SIM
+2012,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Artes Cênicas: Bacharelado em Interpretação,Everton Lampe de Araújo,CO_ORIENTADOR,SIM
+2012,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Bacharelado em Direção Teatral,Paulo Ricardo Maffei de Araújo,CO_ORIENTADOR,NAO
+2012,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Bacharelado em Interpretação,Thayany Toledo Muniz,CO_ORIENTADOR,NAO
+2013,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Artes Cênicas: Licenciatura,Phelippe Celestino Pereira dos Santos,CO_ORIENTADOR,SIM
+2013,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Bacharelado em Interpretação,Leonardo Oliveira Faria,CO_ORIENTADOR,NAO
+2013,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Bacharelado em Direção Teatral,Marlon Jeferson dos Santos,CO_ORIENTADOR,NAO
+2013,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Artes Cênicas,FREDERICO D PASCHOAL CONTARINI DA SILVA,CO_ORIENTADOR,SIM
+2013,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Bacharelado em Direção Teatral,Marlon Jeferson dos Santos,CO_ORIENTADOR,NAO
+2013,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Bacharelado em Direção Teatral,Felipe Tolentino Ferraz,CO_ORIENTADOR,NAO
+2013,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Bacharelado em Interpretação,Barbara Pavione,CO_ORIENTADOR,NAO
+2013,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Bacharelado em Direção Teatral,Felipe Tolentino Ferraz,CO_ORIENTADOR,NAO
+2013,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Bacharelado em Interpretação,Barbara Pavione,CO_ORIENTADOR,NAO
+2015,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Artes Cênicas: Bacharelado em Direção Teatral,Heloísa Daniele Silva,CO_ORIENTADOR,SIM
+2015,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Farmácia,Paula Soares dos Santos,CO_ORIENTADOR,NAO
+2015,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Bacharelado em Direção Teatral,Phelippe Celestino Pereira dos Santos,CO_ORIENTADOR,NAO
+2015,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Bacharelado em Direção Teatral,Phelippe Celestino Pereira dos Santos,CO_ORIENTADOR,NAO
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Licenciatura,Everton Lampe de Araújo,CO_ORIENTADOR,NAO
+2016,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Licenciatura,Thaissa Trancoso Gomes,CO_ORIENTADOR,NAO
+2016,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Licenciatura,Camila Fernandes Vendramini,CO_ORIENTADOR,NAO
+2016,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Bacharelado em Direção Teatral,Heloísa Danielle Silva,CO_ORIENTADOR,NAO
+2016,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Bacharelado Em Direção Teatral,Heloísa Danielle Silva,CO_ORIENTADOR,NAO
+2018,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Artes Cênicas: Licenciatura,Karla Silva Ribeiro,CO_ORIENTADOR,SIM
+2018,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Bacharelado em Interpretação,Ana Bárbara Pereira,CO_ORIENTADOR,NAO
+2018,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Bacharelado em Interpretação,Daniel Sandro Barboza,CO_ORIENTADOR,NAO
+2018,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Licenciatura,Isabella Mayrink Marcuci da Silveira,CO_ORIENTADOR,NAO
+2018,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Licenciatura,DIANA FELICORI TONELLI E TEIXEIRA LEITE,CO_ORIENTADOR,NAO
+2018,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Bacharelado em Interpretação,Isabela Freiria Yeda Macedo,CO_ORIENTADOR,NAO
+2019,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Licenciatura,Karla Silva Ribeiro,CO_ORIENTADOR,NAO
+2018,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Bacharelado em Direção Teatral,Théo Mantelato,CO_ORIENTADOR,NAO
+2017,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Licenciatura,Edgar de Barros Santos,CO_ORIENTADOR,NAO
+2020,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Artes Cênicas: Licenciatura,Keila Tamires Silva de Assis,CO_ORIENTADOR,NAO
+2020,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Bacharelado em Interpretação,Caio Vinícius Santos Vitor,CO_ORIENTADOR,NAO
+2020,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Bacharelado em Interpretação,Camila da Silva Prado,CO_ORIENTADOR,NAO
+2021,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Licenciatura,Caroline de Moraes Lima,CO_ORIENTADOR,NAO
+2021,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Licenciatura,Jackeline Moreira Análio,CO_ORIENTADOR,NAO
+2021,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Licenciatura,Keila Tamires Silva de Assis,CO_ORIENTADOR,NAO
+2011,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas: Bacharelado em Direção Teatral,Paulo Ricardo Maffei de Araújo,CO_ORIENTADOR,NAO

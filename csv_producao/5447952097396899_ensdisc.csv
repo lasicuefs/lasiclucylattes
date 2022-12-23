@@ -1,0 +1,9 @@
+INSTITUTION,YEAR_INI,YEAR_FIN,MONTH_INI,MONTH_FIN,COURSE,TYPE,DISC
+Banda de Música Estrela de São João,1994,01,01,01,,OUTRO,"['instrumento', 'teoria musical']"
+Centro Socioeducativo Alvorada,2004,2,2,2,,ENSINO-FUNDAMENTAL,"['Canto Coral', 'Instrumento']"
+Universidade Federal de Ouro Preto,2006,6,6,6,Licenciatura Em Música,GRADUACAO,"['Banda Universitária', 'História da Música e Apreciação Musical I - IV', 'História Geral da Arte', 'Instrumento ou Canto I - VIII', 'Música Brasileira I e II', 'Tópicos em História da Arte e Apreciação Artística', 'Tópicos em História da Música e Apreciação Musical']"
+Faculdade de Filosofia e Letras de Diamantina,2006,12,12,12,Música,GRADUACAO,"['Análise Musical I - III', 'Iniciação à Pesquisa Científica', 'Instrumento III - VIII', 'Música de Câmara', 'Percepção Musical']"
+Fundação Clóvis Salgado,2008,,ATUAL,ATUAL,,OUTRO,"['História da Música I e II', 'Introdução à Análise Musical', 'Música de Câmara']"
+Universidade Federal de Ouro Preto,2010,01,01,01,Licenciatura em Música,GRADUACAO,"['Flauta Transversal', 'Banda Universitária', 'História da Música A, B e C', 'Educação e Arranjo', 'Música Brasileira', 'Tópicos em História da Arte', 'Tópicos em Pesquisa Musicológica']"
+Universidade do Estado de Minas Gerais,2012,,ATUAL,ATUAL,Música,GRADUACAO,"['Arranjos e Transcrições', 'Elaboração de Projeto de TCC', 'Flauta Transversal', 'História da Música Brasileira A e B', 'História da Música e Apreciação Musical A e B', 'Metodologia da Pesquisa Científica', 'Oficina de Performance']"
+Universidade do Estado de Minas Gerais,2015,,ATUAL,ATUAL,Programa de Pós-Graduação em Artes,POS-GRADUACAO,"['Metodologia da Pesquisa em Arte', 'Seminário de Pesquisa - Processos de formação, mediação e recepção', 'Seminário de Pesquisa - Dimensões teóricas e práticas da produção artística']"

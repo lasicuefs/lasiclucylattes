@@ -1,0 +1,14 @@
+INSTITUTION,YEAR_INI,YEAR_FIN,MONTH_INI,MONTH_FIN,COURSE,TYPE,DISC
+Modern American Institut,1973,12,12,12,,OUTRO,['Inglês']
+Instituto Brasileiro de Línguas,1981,12,12,12,,OUTRO,['Inglês']
+Fundação de Educação Artística,1982,12,12,12,,OUTRO,"['Educação Musical', 'Piano']"
+Núcleo Villa Lobos de Educação Musical,1991,07,07,07,,OUTRO,"['Musicalização', 'Piano']"
+Núcleo Villa Lobos de Educação Musical,1994,12,12,12,Educação Musical,ESPECIALIZACAO,['Educação Musical']
+Universidade Federal de Minas Gerais,2009,12,12,12,Abi - Música,GRADUACAO,['Oficina Pedagógica']
+Universidade Federal de Minas Gerais,2010,12,12,12,Música/Licenciatura,GRADUACAO,"['Percepção I, II, III', 'Planejamento A - Musicalização do professor generalista', 'Prática de piano na Licenciatura - Instrumento complementar', 'Psicologia da Educação Musical', 'Tópicos em música de conjunto e praticas interpretativas  em grupo']"
+Universidade Federal de Minas Gerais,2010,07,07,07,Educação Musical,ESPECIALIZACAO,['Educação Musical Infantil: fundamentos e prática - 8 horas']
+Universidade Federal de Minas Gerais,2010,03,03,03,Abi - Música,GRADUACAO,['Planejamento C - aulas de música em escolas especializadas']
+Universidade Federal de Minas Gerais,2011,,ATUAL,ATUAL,Música,POS-GRADUACAO,"['Estudos Avançados em Música', 'Estudos orientados', 'Seminários  temáticos de Educação Musical', 'Seminários Música e Cognição']"
+Universidade Federal de Minas Gerais,2017,,ATUAL,ATUAL,Abi - Música,GRADUACAO,['Processos Musicalizadores - Educação Infantil']
+Universidade Federal de Minas Gerais,2017,,ATUAL,ATUAL,Abi - Música,GRADUACAO,['Psicologia e Sociologia da Educação Musical (juntamente com a Professora Heloísa Feichas))']
+Universidade Federal de Minas Gerais,2020,,ATUAL,ATUAL,Abi - Música,GRADUACAO,"['Prática de conjunto', 'Ensino do piano para crianças']"

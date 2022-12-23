@@ -1,0 +1,41 @@
+INSTITUTION,YEAR_INI,YEAR_FIN,MONTH_INI,MONTH_FIN,COURSE,TYPE,DISC
+Faculdade de Sabará,2001,02,02,02,Letras,GRADUACAO,"['Teoria da Literatura', 'Literatura Portuguesa']"
+Pitágoras Sistema de Educação Superior,2004,12,12,12,Letras,GRADUACAO,"['Humanidades: Literatura, Teoria da Literatura, Literatura Portuguesa , Literatura Brasileira']"
+Pitágoras Sistema de Educação Superior,2004,12,12,12,Pedagogia,GRADUACAO,"['Português I, Português II, Leitura e Redação']"
+Pitágoras Sistema de Educação Superior,2004,12,12,12,Engenharia,GRADUACAO,"['Metodologia e introdução ao pensamento científico, Literatura, Leitura e Redação']"
+Pitágoras Sistema de Educação Superior,2004,12,12,12,Psicologia,GRADUACAO,"['Literatura, Leitura e Redação']"
+Pitágoras Sistema de Educação Superior,2004,12,12,12,Fisioterapia,GRADUACAO,"['Literatura, Leitura e Redaçâo']"
+Pitágoras Sistema de Educação Superior,2004,12,12,12,Direito,GRADUACAO,"['Português I, Português II, Leitura e Redação, Literatura']"
+Pitágoras Sistema de Educação Superior,2004,12,12,12,Publicidade,GRADUACAO,"['Literatura, Redação']"
+Universidade do Estado de Minas Gerais,2013,12,12,12,Artes Plásticas,GRADUACAO,['História da Arte']
+Universidade do Estado de Minas Gerais,2014,06,06,06,Artes Plásticas,GRADUACAO,['Introdução à História do Cinema']
+Universidade do Estado de Minas Gerais,2014,07,07,07,Artes Plásticas,GRADUACAO,['História da Arte']
+Universidade do Estado de Minas Gerais,2015,12,12,12,Artes Plásticas,GRADUACAO,['História do Cinema Experimental']
+Universidade do Estado de Minas Gerais,2015,07,07,07,Artes Plásticas,GRADUACAO,['História da Arte']
+Universidade do Estado de Minas Gerais,2015,12,12,12,Artes Plásticas,GRADUACAO,['História da Arte no Brasil']
+Pós-Graduação em Artes da Univerdade do Estado de Minas Gerais,2015,12,12,12,Programa de Pós-Graduação em Artes - Universidade do Estado de Minas Gerais,POS-GRADUACAO,['Correspondência entre as artes: Comparações e reflexões estéticas']
+Universidade do Estado de Minas Gerais,2016,12,12,12,Artes Plásticas,GRADUACAO,['História da Arte no Brasil']
+Universidade do Estado de Minas Gerais,2016,07,07,07,Artes Plásticas,GRADUACAO,['História da Arte']
+Pós-Graduação em Artes da Univerdade do Estado de Minas Gerais,2016,07,07,07,Programa de Pós-Graduação em Artes - Universidade do Estado de Minas Gerais,POS-GRADUACAO,['Teorias da produção e recepção']
+Pós-Graduação em Artes da Univerdade do Estado de Minas Gerais,2017,07,07,07,Programa de Pós-Graduação em Artes - Universidade do Estado de Minas Gerais,POS-GRADUACAO,['Teorias da produção e recepção']
+Universidade do Estado de Minas Gerais,2017,12,12,12,Artes Plásticas,GRADUACAO,['História da Arte no Brasil']
+Pós-Graduação em Artes da Univerdade do Estado de Minas Gerais,2017,12,12,12,Programa de Pós-Graduação em Artes - Universidade do Estado de Minas Gerais,POS-GRADUACAO,['ARTE E CULTURA NO CONTEXTO CONTEMPORÂNEO: SUBSÍDIOS TEÓRICOS']
+Universidade do Estado de Minas Gerais,2017,07,07,07,Artes Plásticas,GRADUACAO,['História do Cinema Experimental']
+Pós-Graduação em Artes da Univerdade do Estado de Minas Gerais,2017,09,09,09,Programa de Pós-Graduação em Artes - Universidade do Estado de Minas Gerais,POS-GRADUACAO,['ATELIÊ DA ESCRITA']
+Escola Guignard,2018,06,06,06,Pós-Graduação em Artes,POS-GRADUACAO,['PRÁTICAS DA ARTE CONTEMPORÂNEA II: As linguagens da arte contemporânea']
+Pós-Graduação em Artes da Univerdade do Estado de Minas Gerais,2018,12,12,12,Programa de Pós-Graduação em Artes - Universidade do Estado de Minas Gerais,POS-GRADUACAO,['Teorias da Produção e Recepção']
+Pós-Graduação em Artes da Univerdade do Estado de Minas Gerais,2018,12,12,12,Programa de Pós-Graduação em Artes - Universidade do Estado de Minas Gerais,POS-GRADUACAO,['Redação de Dissertação I']
+Escola Guignard,2018,06,06,06,Licenciatura em Artes Plásticas,GRADUACAO,['TÓPICOS EM HISTÓRIA DA ARTE: HISTÓRIA DO CINEMA EXPERIMENTAL']
+Escola Guignard,2018,06,06,06,Licenciatura em Artes Plásticas,GRADUACAO,['HISTÓRIA DA ARTE NO BRASIL']
+Escola Guignard,2018,06,06,06,Licenciatura em Artes Plásticas,GRADUACAO,['HISTÓRIA DA ARTE']
+Escola Guignard,2018,12,12,12,Pós-Graduação em Artes,POS-GRADUACAO,['PRÁTICAS DA ARTE CONTEMPORÂNEA II: As linguagens da arte contemporânea']
+Pós-Graduação em Artes da Univerdade do Estado de Minas Gerais,2019,12,12,12,Programa de Pós-Graduação em Artes - Universidade do Estado de Minas Gerais,POS-GRADUACAO,['Arte e Cultura no Contexto Contemporâneo: Subsídios Teóricos']
+Pós-Graduação em Artes da Univerdade do Estado de Minas Gerais,2019,12,12,12,Programa de Pós-Graduação em Artes - Universidade do Estado de Minas Gerais,POS-GRADUACAO,['Tópicos Especiais III: Teorias e Reflexões sobre o Informe nas Artes']
+Escola Guignard,2019,06,06,06,Pós-Graduação em Artes,POS-GRADUACAO,['PRÁTICAS DA ARTE CONTEMPORÂNEA II: As linguagens da arte contemporânea']
+Escola Guignard,2019,06,06,06,Licenciatura em Artes Plásticas,GRADUACAO,['HISTÓRIA DA ARTE']
+Escola Guignard,2019,12,12,12,Pós-Graduação em Artes,POS-GRADUACAO,['PRÁTICAS DA ARTE CONTEMPORÂNEA II: As linguagens da arte contemporânea']
+Escola Guignard,2019,12,12,12,Licenciatura em Artes Plásticas,GRADUACAO,['HISTÓRIA  DA ARTE NO BRASIL']
+Escola Guignard,2019,06,06,06,Pós-Graduação em Artes,POS-GRADUACAO,['HISTÓRIA DA ARTE NO BRASIL']
+Pós-Graduação em Artes da Univerdade do Estado de Minas Gerais,2020,06,06,06,Programa de Pós-Graduação em Artes - Universidade do Estado de Minas Gerais,POS-GRADUACAO,['redação da dissertação']
+Escola Guignard,2020,06,06,06,Licenciatura em Artes Plásticas,GRADUACAO,['HISTÓRIA DA ARTE NO BRASIL']
+Escola Guignard,2020,06,06,06,Licenciatura em Artes Plásticas,GRADUACAO,['TÓPICOS  EM HISTÓRIA DO CINEMA: Cinema. Experimental']

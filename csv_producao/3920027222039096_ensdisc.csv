@@ -1,0 +1,9 @@
+INSTITUTION,YEAR_INI,YEAR_FIN,MONTH_INI,MONTH_FIN,COURSE,TYPE,DISC
+Faculdade Senac de Moda,2004,12,12,12,Moda,GRADUACAO,['História da Moda no Brasil']
+Centro Universitário Senac,2005,12,12,12,moda,GRADUACAO,"['História da Indumentária I e II', 'História da Indumentária III', 'História da moda no Brasil', 'Orientação de TCC']"
+Centro Universitário Senac,2005,06,06,06,"Mestrado em Moda, Cultura e Arte",POS-GRADUACAO,"['História e Cultura', 'Moda e Sociedade', 'Seminário Temático em Moda, cultura e sociedade']"
+Centro Universitário Senac,2008,12,12,12,"Mestrado em Moda, Cultura e Arte",POS-GRADUACAO,['Tópicos em Ciências Humanas']
+Universidade Federal de Juiz de Fora,2013,,ATUAL,ATUAL,Interdisciplinar em Artes e Design,GRADUACAO,"['História da Moda I', 'História da Moda no Brasil', 'Metodologia de Pesquisa', 'História da Moda II']"
+Universidade Federal de Juiz de Fora,2014,,ATUAL,ATUAL,"Artes, Cultura e Linguagens",POS-GRADUACAO,"['Metodologia de Pesquisa', 'Teorias da Moda', 'Tópicos em Artes, Cultura e Linguagens II', 'Cultura Visual']"
+Universidade Federal de Juiz de Fora,2014,09,09,09,"Moda, Cultura de Moda e Arte",ESPECIALIZACAO,['História e Cultura de Moda']
+Universidade Federal de Juiz de Fora,2018,03,03,03,Ensino de Artes Visuais,ESPECIALIZACAO,['Linguagens visuais III']

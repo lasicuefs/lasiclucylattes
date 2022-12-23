@@ -1,0 +1,78 @@
+YEAR,NATURE,INSTITUTION,COURSE,STUDENT,TYPE,SPONSOR
+2012,Dissertação de mestrado,Universidade Federal de Uberlândia,Mestrado em Artes,Ruth de Sousa Ferreira Silva,ORIENTADOR_PRINCIPAL,SIM
+2011,Dissertação de mestrado,Universidade Federal de Uberlândia,Mestrado em Artes,Jaqueline Soares Marques,ORIENTADOR_PRINCIPAL,SIM
+2013,Dissertação de mestrado,Universidade Federal de Uberlândia,Mestrado em Artes,Maíra Andriani Scarpelini,ORIENTADOR_PRINCIPAL,SIM
+2014,Dissertação de mestrado,Universidade Federal de Uberlândia,Mestrado em Artes,Hosana Rodrigues Ferreira da Mata,ORIENTADOR_PRINCIPAL,NAO
+2015,Dissertação de mestrado,Universidade Federal de Uberlândia,Mestrado em Artes,Livia Roberta Oliveira,ORIENTADOR_PRINCIPAL,NAO
+2016,Dissertação de mestrado,Universidade Federal de Uberlândia,Programa de Pós-Graduação - Mestrado em Artes,Murilo Silva Rezende,ORIENTADOR_PRINCIPAL,NAO
+2016,Dissertação de mestrado,Universidade Federal de Uberlândia,Programa de Pós-Graduação - Mestrado em Artes,Fernando de Sousa Mota,ORIENTADOR_PRINCIPAL,NAO
+2018,Dissertação de mestrado,Universidade Federal de Uberlândia,Mestrado em  Música - Universidade Federal de Uber,Karla Beatriz Soares de Souza,ORIENTADOR_PRINCIPAL,NAO
+2018,Dissertação de mestrado,Universidade Federal de Uberlândia,Mestrado em Música,Mariana Faria Scandar,ORIENTADOR_PRINCIPAL,NAO
+2019,Dissertação de mestrado,Universidade Federal de Uberlândia,Mestrado em Música,Diego Caaobi dos Santos Simão,ORIENTADOR_PRINCIPAL,NAO
+2019,Dissertação de mestrado,Universidade Federal de Uberlândia,Mestrado em Música,Jennifer Gonzaga,ORIENTADOR_PRINCIPAL,SIM
+2019,Dissertação de mestrado,Universidade Federal de Uberlândia,Mestrado em Música,Bruno Caldeira,ORIENTADOR_PRINCIPAL,SIM
+2014,Dissertação de mestrado,Universidade Federal de Uberlândia,Mestrado em Artes,Daniela Carrijo Franco Cunha,ORIENTADOR_PRINCIPAL,NAO
+2014,Tese de doutorado,Universidade de Aveiro,Doutorado em Música,Eduardo Fraga Tullio,CO_ORIENTADOR,SIM
+1994,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Jane Clair Garcia,ORIENTADOR_PRINCIPAL,NAO
+1994,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Maria Tereza B Rezende,ORIENTADOR_PRINCIPAL,NAO
+1996,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Thays Cristina Resende Santana,ORIENTADOR_PRINCIPAL,NAO
+1996,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Andréa Mara Benaventana,ORIENTADOR_PRINCIPAL,NAO
+1997,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Ana Cláudia Castilho Curi,ORIENTADOR_PRINCIPAL,NAO
+1998,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Cláudia Pereira Dias,ORIENTADOR_PRINCIPAL,NAO
+1998,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Maria Teresa Beaumont,ORIENTADOR_PRINCIPAL,NAO
+1999,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Bernadete Correia e Souza,ORIENTADOR_PRINCIPAL,NAO
+1999,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Daniela Carrijo Franco,ORIENTADOR_PRINCIPAL,NAO
+2000,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Fernanda de Assis Oliveira,ORIENTADOR_PRINCIPAL,NAO
+1999,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Fernanda de Assis Oliveira,CO_ORIENTADOR,SIM
+1999,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Daniela Carrijo Franco,CO_ORIENTADOR,SIM
+2000,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Rosângela da Cunha Santos e Gláucia Osório Ribeiro,ORIENTADOR_PRINCIPAL,NAO
+2000,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Rita de Cássia Fracon Borges,ORIENTADOR_PRINCIPAL,NAO
+2000,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Lilia Regina de Melo,ORIENTADOR_PRINCIPAL,NAO
+2001,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Edna Pereira de Melo,ORIENTADOR_PRINCIPAL,NAO
+2001,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Sandra Carvalho de Castro Ferreira,ORIENTADOR_PRINCIPAL,NAO
+2001,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Andréia Aparecida Floriano,ORIENTADOR_PRINCIPAL,NAO
+2002,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Rita de Cássia Bertoni,ORIENTADOR_PRINCIPAL,NAO
+2002,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Leíse Sanches Muniz,ORIENTADOR_PRINCIPAL,NAO
+2002,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Marilda das Dores Vieira,ORIENTADOR_PRINCIPAL,NAO
+2001,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Uberlândia,,Cláudia Mara Costa Perfeito Gemésio,ORIENTADOR_PRINCIPAL,NAO
+1995,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Maria Teresa Beaumont,CO_ORIENTADOR,SIM
+2007,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Raquel da Silva Mendes Martins,CO_ORIENTADOR,NAO
+2008,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura em Música,Jaqueline Soares Marques,CO_ORIENTADOR,NAO
+2009,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Bacharelado em Música,José Luís Moreira Rodrigues,CO_ORIENTADOR,SIM
+2010,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Licenciatura em Música,Igor Luis Medeiros,CO_ORIENTADOR,SIM
+2008,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Valter Roberto Gonzaga da Silva,CO_ORIENTADOR,NAO
+2008,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Giordan Benfica Mendes,CO_ORIENTADOR,NAO
+2010,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Bacharelado em Música,Murilo Silva Rezende,CO_ORIENTADOR,SIM
+2009,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Severino Ramos de Lima,CO_ORIENTADOR,NAO
+2009,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Manoel Luiz Duarte,CO_ORIENTADOR,NAO
+2010,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura em Instrumento,Davi Faris Câmara,CO_ORIENTADOR,NAO
+2010,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Genoveva Pereira,CO_ORIENTADOR,NAO
+2010,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura em Instrumento,José Luís Moreira Rodrigues,CO_ORIENTADOR,NAO
+2010,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura em Instrumento,Reinaldo Honório Toledo,CO_ORIENTADOR,NAO
+2009,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura em Instrumento,Esther Carvalho Varoto Souza Tonini,CO_ORIENTADOR,NAO
+2011,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura em Música - Habilitação em Instrument,Thais Medeiros Floriano,CO_ORIENTADOR,NAO
+2012,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Licenciatura em Música - Habilitação em Instrument,Diego Caaobi dos Santos Simão,CO_ORIENTADOR,SIM
+2011,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura em Música - Habilitação em Instrument,Rose Dayane Silva Amorim,CO_ORIENTADOR,NAO
+2010,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Romes Faustino de Medeiros Júnior,CO_ORIENTADOR,NAO
+2012,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Licenciatura em Música,Diego Caobi dos Santos Simão,CO_ORIENTADOR,SIM
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura em Música - Habilitação em Instrument,Diego Caobi dos Santos Simão,CO_ORIENTADOR,NAO
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura em Música - Habilitação em Instrument,Mariana Faria Scandar,CO_ORIENTADOR,NAO
+2015,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura em Música,Lucas Fonseca Naves,CO_ORIENTADOR,NAO
+2015,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura em Música,Daniel Macedo de Lima,CO_ORIENTADOR,NAO
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de São João Del-Rei,Licenciatura em Música,William de Freitas Neres,CO_ORIENTADOR,NAO
+2015,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Música - Licenciatura Ou Bacharelado,Elias Jacob da Silva Ferreira,CO_ORIENTADOR,NAO
+2015,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Música - Licenciatura Ou Bacharelado,Letícia da Fonseca Novaes,CO_ORIENTADOR,NAO
+2016,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Música - Licenciatura Ou Bacharelado,Ezequiel Urbano da Silva,CO_ORIENTADOR,NAO
+2017,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Graduação em Música,Paloma Felício Monteiro,CO_ORIENTADOR,NAO
+2016,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura em Instrumento,Eliézio Peixoto da Silva,CO_ORIENTADOR,NAO
+2016,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura em Música - Habilitação em Instrument,Paulo Jorge Gonçalves Valadão,CO_ORIENTADOR,NAO
+2019,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Bacharelado em Música,Julio Luz da Silva,CO_ORIENTADOR,NAO
+2018,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura em Música - Habilitação em Instrument,Wellingston Pereira Alves,CO_ORIENTADOR,NAO
+2018,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Música - Licenciatura Ou Bacharelado,Natalia Costa Fernandes dos Santos,CO_ORIENTADOR,SIM
+2018,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Música - Licenciatura Ou Bacharelado,Samuel Alexandre Alves de Lima,CO_ORIENTADOR,SIM
+2019,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Música - Licenciatura Ou Bacharelado,Bruno Caldeira,CO_ORIENTADOR,NAO
+2020,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura em Música - Habilitação em Instrument,Samuel Alexandre Alves de Lima,CO_ORIENTADOR,SIM
+2019,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Licenciatura em Música - Habilitação em Instrument,Lara Coelho Pelli,CO_ORIENTADOR,SIM
+2018,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura em Música - Habilitação em Instrument,Paulo Jorge Gonçalves Valadão,CO_ORIENTADOR,NAO
+2020,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Licenciatura em Música - Habilitação em Instrument,Samuel Alves de Lima,CO_ORIENTADOR,SIM
+2002,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Educação Artística Habilitação Em Música,Roberta Tahan,CO_ORIENTADOR,NAO

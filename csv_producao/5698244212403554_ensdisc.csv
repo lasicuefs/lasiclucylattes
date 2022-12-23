@@ -1,0 +1,6 @@
+INSTITUTION,YEAR_INI,YEAR_FIN,MONTH_INI,MONTH_FIN,COURSE,TYPE,DISC
+Universidade Federal de Minas Gerais,1995,12,12,12,Psicologia,GRADUACAO,['PSICOMOTRICIDADE']
+Universidade Federal de Ouro Preto,2000,7,7,7,Licenciaturas,GRADUACAO,"['Psicologia da Educação I', 'Psicologia da Educação II', 'Práticas Pedagógicas', 'Introdução à Educação', 'Introdução à Metodologia Científica']"
+Universidade do Estado de Minas Gerais,2001,12,12,12,Psicopedagogia,ESPECIALIZACAO,"['Psicologia da Educação', 'Psicanálise e Educação']"
+Universidade Federal de Ouro Preto,2003,10,10,10,Formação de Orientadores Acadêmicos - EAD,ESPECIALIZACAO,['O Orientador Acadêmico na Educação a Distância']
+Universidade Federal de Ouro Preto,2004,,ATUAL,ATUAL,Licenciatura em Artes Cênicas,GRADUACAO,"['Educação Teatral no Ensino Fundamental e Médio', 'Estágio Supervisionado', 'Jogos Dramáticos e Práticas Psicomotoras na Educação Infantil']"

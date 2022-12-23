@@ -1,0 +1,6 @@
+INSTITUTION,YEAR_INI,YEAR_FIN,MONTH_INI,MONTH_FIN,COURSE,TYPE,DISC
+Universidade Federal do Rio de Janeiro,1995,12,12,12,Música,GRADUACAO,['Violão I a VIII']
+Universidade Federal de Minas Gerais,1997,,ATUAL,ATUAL,Música,GRADUACAO,"['Didática do instrumento', 'História e Música D', 'Música de Câmara', 'Tópicos em Música de Conjunto e Práticas Interpretativas', 'Tópicos em Teoria da Música: Música, cultura e nação', 'Violão', 'Violão Complementar']"
+Università Degli Studi Di Bologna,2005,6,6,6,Lettere e Letterature Straniere Moderne,POS-GRADUACAO,"['Letteratura Portoghese e Brasiliana', 'Lingua Portoghese']"
+Università Degli Studi Di Bologna,2005,6,6,6,Lettere e Letterature Straniere Moderne,GRADUACAO,['Lingua Portoghese']
+Universidade Federal de Minas Gerais,2007,,ATUAL,ATUAL,Música,POS-GRADUACAO,"['Estudos Orientados', 'História do pensamento musical no Brasil', 'Prática Instrumental I, II e III', 'Seminário de Música e Cultura', 'Seminário de Pesquisa', 'Seminário Interartes', 'Seminário Multidisciplinar: Colóquio da Pós-Graduação']"

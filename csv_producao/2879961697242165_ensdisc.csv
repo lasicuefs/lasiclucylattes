@@ -1,0 +1,10 @@
+INSTITUTION,YEAR_INI,YEAR_FIN,MONTH_INI,MONTH_FIN,COURSE,TYPE,DISC
+Universidade do Estado de Minas Gerais,2000,07,07,07,Programação Visual,GRADUACAO,"['Fotografia I', 'Fotografia II', 'Fotografia III', 'Técnicas de Animação']"
+Centro Universitário de Belo Horizonte,2002,07,07,07,Produção Editorial,GRADUACAO,"['Orientação de Monografias', 'Fotografia Aplicada à Produção Editorial', 'Técnicas de Histórias em Quadrinhos e Animação']"
+Faculdade Promove - Sete Lagoas,2003,02,02,02,Publicidade e Propaganda,GRADUACAO,"['Fotografia', 'Laboratório de Imagens em Movimento']"
+Centro Universitário de Belo Horizonte,2005,12,12,12,Tecnólogo em Comunicação Digital e Hipermídia,GRADUACAO,['Ilustração e Animação 2D']
+Universidade Federal de Minas Gerais,2006,08,08,08,Belas Artes,GRADUACAO,"['Ateliê de Cinema de Animação II', 'Ateliê A']"
+Universidade Federal de Minas Gerais,2006,06,06,06,Artes Visuais,GRADUACAO,"['Ateliê A', 'Ateliê B', 'Ateliê de Cinema de Animação II']"
+Universidade Federal de Minas Gerais,2008,02,02,02,Ensino de Artes Visuais a Distância,ESPECIALIZACAO,"['Cinema e Víddeo', 'Orientação de monografia']"
+Universidade Federal de Minas Gerais,2009,,ATUAL,ATUAL,Cinema de Animação e Artes Digitais,GRADUACAO,"['Fundamentos da Animação', 'Animação de Personagens', 'Animação Experimental']"
+Universidade Federal de Minas Gerais,2010,,ATUAL,ATUAL,Artes,POS-GRADUACAO,['Tópicos especiais em artes']

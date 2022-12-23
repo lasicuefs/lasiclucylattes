@@ -1,0 +1,6 @@
+INSTITUTION,YEAR_INI,YEAR_FIN,MONTH_INI,MONTH_FIN,COURSE,TYPE,DISC
+Escola Pastor Dohms,1996,02,02,02,,ENSINO-MEDIO,"['Teoria Musical', 'Saxofone', 'Violão']"
+Universidade Federal do Rio Grande do Sul,2000,04,04,04,Música,GRADUACAO,"['Instrumento  - violão', 'Música de Câmara']"
+Universidade Federal de Pelotas,2005,,ATUAL,ATUAL,Curso de Música,GRADUACAO,"['Acústica Musical', 'Composição Musical I - VIII', 'Contraponto I a III', 'Harmonia I a IV', 'Instrumento - Violão', 'Processos e estruturas de Análise Musical I - IV', 'Técnicas Composicionais dos séculos XX e XXI - (I a IV)']"
+Universidade Federal de São João Del-Rei,2016,04,04,04,Música,GRADUACAO,"['Composição musical', 'Contraponto', 'Harmonia funcional']"
+Universidade Federal de São João Del-Rei,2019,,ATUAL,ATUAL,Música,POS-GRADUACAO,['Orientação de mestrado']

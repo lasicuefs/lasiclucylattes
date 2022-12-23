@@ -1,0 +1,16 @@
+INSTITUTION,YEAR_INI,YEAR_FIN,MONTH_INI,MONTH_FIN,COURSE,TYPE,DISC
+Universidade Iguaçu,2001,2,2,2,Pedagogia,GRADUACAO,"['História da Educação 1', 'História da Educação 2', 'Métodos e Técnicas de pesquisa']"
+Universidade Federal do Estado do Rio de Janeiro,2004,10,10,10,Teatro,GRADUACAO,"['Atores, Grupos e Companhias do Teatro Brasileiro', 'Dramaturgia Brasileira', 'Análise do texto teatral', 'Escrita cênica e dramaturgica do século XX']"
+Universidade Estácio de Sá,2004,09,09,09,Pedagogia,GRADUACAO,"['Corpo e Movimento', 'Filosofia da Educação', 'Políticas Públicas da Educação']"
+Universidade Federal de Ouro Preto,2016,07,07,07,Artes Cênicas,GRADUACAO,"['Critica Teatral', 'TEatro Brasileiro do Descobrimento ao Seculo XIX', 'Teatro Brasileiro do Seculo XX', 'Teatro dos Seculos XVIII-XIX', 'Trabalho de Conclusao de Curso - Portfolio']"
+Universidade Federal de Ouro Preto,2016,12,12,12,Artes Cênicas,GRADUACAO,"['Dramaturgia B', 'Teatro Brasileiro do Descobrimento ao Seculo XIX', 'Teatro Brasileiro do Seculo XX', 'Teatro do Seculo XX']"
+Universidade Federal de Ouro Preto,2016,12,12,12,Artes Cênicas,POS-GRADUACAO,['Tópicos Especiais em História e Historiografia das Artes Cênicas']
+Universidade Federal de Ouro Preto,2017,08,08,08,Artes Cênicas,GRADUACAO,"['Dramaturgia B', 'Teatro Brasileiro do Descobrimento ao Seculo XIX', 'Teatro do Medieval ao Barroco', 'Teatro Grego e Romano']"
+Universidade Federal de Ouro Preto,2017,08,08,08,Artes Cênicas,POS-GRADUACAO,"['Tópicos Especiais em Estética, Critica e Historia das Artes']"
+Universidade Federal de Ouro Preto,2017,12,12,12,Artes Cênicas,GRADUACAO,"['Dramaturgia B', 'Dramaturgia A', 'Teatro Grego e Romano', 'Teoria Geral da Arte']"
+Universidade Federal de Ouro Preto,2018,08,08,08,Artes Cênicas,GRADUACAO,"['Dramaturgia B', 'Teatro do Seculo XX', 'Teatro dos Seculos XVIII-XIX', 'Teatro Medieval ao Barroco', 'Trabalho de Conclusao de Curso - Portfolio', 'Pesquisa de Linguagem em Interpretacao', 'Atuacao em Montagem e Apresentacao']"
+Universidade Federal de Ouro Preto,2018,12,12,12,Artes Cênicas,GRADUACAO,"['Dramaturgia B', 'Teatro Brasileiro do Descobrimento ao Seculo XIX', 'Teatro Brasileiro do Seculo XX', 'Teoria Geral da Arte', 'Trabalho de Conclusao de Curso - Portfolio', 'Pesquisa de Linguagem em Interpretacao', 'Atuacao em Montagem e Apresentacao']"
+Universidade Federal de Ouro Preto,2019,08,08,08,Artes Cênicas,GRADUACAO,"['Dramaturgia B', 'Estudos Teatrais B', 'Pesquisa de LInguagem e Encenacao', 'Pratica de Montagem e Apresentacao', 'Teatro Brasileiro do Descobrimento ao Seculo XX', 'Teatro Brasileiro do Seculo XX', 'Trabalho de Conclusao de Curso - Portfolio']"
+Universidade Federal de Ouro Preto,2019,,ATUAL,ATUAL,Artes Cênicas,GRADUACAO,"['Dramaturgia B', 'Dramaturgia Moderna e Teatro Epico', 'Teatro Brasileiro do Descobrimento ao Seculo XX', 'Teatro Brasileiro do Seculo XX']"
+Universidade Federal de Ouro Preto,2019,07,07,07,Artes Cênicas,POS-GRADUACAO,"['Tópicos de Pesquisa em Estética, Critica e Historia das Artes']"
+Universidade Federal de Ouro Preto,2019,12,12,12,Artes Cênicas,GRADUACAO,"['Dramaturgia B', 'Dramaturgia A', 'Teatro Grego e Romano', 'Teoria Geral da Artes']"

@@ -1,0 +1,52 @@
+INSTITUTION,YEAR_INI,YEAR_FIN,MONTH_INI,MONTH_FIN,COURSE,TYPE,DISC
+Centro Universitário de Belo Horizonte,2005,8,8,8,Turismo,GRADUACAO,"['Fundamentos da História Cultural e do Turismo', 'História da Cultura Universal']"
+Centro Universitário de Belo Horizonte,2005,06,06,06,Turismo,GRADUACAO,['Orientador de TCC']
+Pontifícia Universidade Católica de Minas Gerais,2005,8,8,8,turismo,GRADUACAO,['Estudos Históricos e Turísticos em Minas Gerais']
+Pontifícia Universidade Católica de Minas Gerais,2005,12,12,12,História,GRADUACAO,['Música e Modernismo no Brasil']
+Centro Universitário de Belo Horizonte,2006,06,06,06,Turismo,GRADUACAO,"['História da Arte', 'Turismo e patrimonio']"
+Centro Universitário de Belo Horizonte,2007,12,12,12,História,GRADUACAO,['História Regional']
+Centro Universitário de Belo Horizonte,2007,07,07,07,História,GRADUACAO,"['História, Sociedade e Cultura']"
+Centro Universitário de Belo Horizonte,2007,06,06,06,História,GRADUACAO,"['Historiografia Brasileira II', 'Metodos e Tecnicas da Pesquisa Histórica', 'Monografia II', 'Orientador de monografia', 'Teoria da História']"
+Centro Universitário UNA,2009,07,07,07,História,GRADUACAO,"['História do Brasil', 'Introduçao aos estudos históricos', 'Teoria da História']"
+Centro Universitário UNA,2009,12,12,12,História,GRADUACAO,"['Historiografia e trabalho docente', 'História do Brasil Império']"
+Centro Universitário UNA,2010,12,12,12,História,GRADUACAO,"['Tópicos Especiais em teoria da História', 'Brasil Império']"
+Centro Universitário UNA,2010,07,07,07,História,GRADUACAO,"['Brasil Império', 'Introduçao aos estudos Históricos']"
+Centro Universitário UNA,2011,12,12,12,História,GRADUACAO,['Brasil Império']
+Centro Universitário de Belo Horizonte,2011,07,07,07,História,GRADUACAO,"['Historiografia Brasileira II', 'Historiografia Contemporânea', 'Monografia II']"
+Centro Universitário de Belo Horizonte,2011,12,12,12,História,GRADUACAO,"['Historiografia Brasileira II', 'Monografia II']"
+Universidade do Estado de Minas Gerais,2012,07,07,07,Música,GRADUACAO,"['Antropologia Cultural', 'Estética', 'Filosofia da Educação']"
+Centro Universitário UNA,2012,02,02,02,História,GRADUACAO,['Tópicos especiais em Teoria da História']
+Centro Universitário de Belo Horizonte,2012,02,02,02,História,GRADUACAO,"['Historiografia Brasileira II', 'Teoria da História']"
+Universidade do Estado de Minas Gerais,2012,07,07,07,Música,GRADUACAO,"['Estética', 'Filosofia da Educação I']"
+Universidade do Estado de Minas Gerais,2013,12,12,12,Música,GRADUACAO,"['Antropologia Cultural', 'Estética', 'Filosofia e Educação']"
+Centro Universitário de Belo Horizonte,2013,12,12,12,História,GRADUACAO,"['História da América II', 'Historiografia Contemporânea', 'Introdução aos Estudos Históricos', 'Tópicos Especiais em Teoria da História: Nietzsche, Freud e a historiografia pós-moderna']"
+Universidade do Estado de Minas Gerais,2013,07,07,07,Música,GRADUACAO,['Filosofia e Educação']
+Centro Universitário de Belo Horizonte,2013,12,12,12,História,GRADUACAO,['Teoria da História; Historiografia Contemporânea; Métodos e Técnicas da Pesquisa Histórica; Monografia; História oral']
+Universidade do Estado de Minas Gerais,2014,07,07,07,Música,GRADUACAO,"['Antropologia Cultural', 'Estética Musical', 'História da Musica Brasileira B']"
+Universidade do Estado de Minas Gerais,2014,12,12,12,Música,GRADUACAO,"['História da Musica Brasileira IV', 'Antropologia Cultural', 'Estética Musical']"
+Centro Universitário de Belo Horizonte,2014,12,12,12,História,GRADUACAO,"['História da América II', 'Historiografia Brasileira', 'Introdução aos Estudos Históricos']"
+Centro Universitário de Belo Horizonte,2015,07,07,07,História,GRADUACAO,"['Historiografia Contemporanea', 'Teoria da História', 'Histforiografia Brasileira']"
+Universidade do Estado de Minas Gerais,2015,07,07,07,Música,GRADUACAO,['Filosofia e Educação']
+Centro Universitário de Belo Horizonte,2015,07,07,07,Pedagogia,GRADUACAO,['Cidadania e questões contemporaneas']
+Universidade do Estado de Minas Gerais,2016,07,07,07,Música,GRADUACAO,"['História da Música Brasileira A', 'Filosofia e Educação']"
+Universidade do Estado de Minas Gerais,2016,12,12,12,Música,GRADUACAO,"['Antropologia Cultural', 'Historia da Música Brasileira B']"
+Centro Universitário de Belo Horizonte,2016,07,07,07,História,GRADUACAO,"['História Regional', 'Historiografia Brasileira II', 'Fundamentos Filosóficos da Educação', 'Cidadania e Questões Contemporaneas']"
+Centro Universitário de Belo Horizonte,2016,12,12,12,História,GRADUACAO,"['Historiografia Brasileira II', 'Historiografia Brasileira I', 'Fundamentos Filosóficos da Educação', 'Introdução aos Estudos Históricos']"
+Centro Universitário de Belo Horizonte,2017,07,07,07,História,GRADUACAO,"['Historiografia Brasileira II', 'Historiografia Brasileira I', 'Fundamentos Sociológicos e Filosóficos da Educação', 'Introdução aos Estudos Históricos']"
+Universidade do Estado de Minas Gerais,2017,07,07,07,Música,GRADUACAO,"['Filosofia e Edcação', 'História da Música Brasileira A', 'Estética musical e contemporaneidade: música, mediação e tecnologia']"
+Universidade do Estado de Minas Gerais,2017,12,12,12,Música,GRADUACAO,"['Antropologia Cultural', 'História da Música Brasileira B']"
+Universidade Federal de Minas Gerais,2017,07,07,07,Pós-graduação em Música (Mestrado/Doutorado),POS-GRADUACAO,"['Musica, Musicologia e História: reflexões teórico metodológicas']"
+Universidade Federal de Minas Gerais,2018,12,12,12,Música,POS-GRADUACAO,['Musicologia Histórica Brasileira']
+Universidade do Estado de Minas Gerais,2018,12,12,12,Música,GRADUACAO,"['Antropologia Cultural', 'História da Arte']"
+Centro Universitário de Belo Horizonte,2018,12,12,12,História,GRADUACAO,"['História da Arte', 'Introdução aos estudos históricos', 'Teoria da História']"
+Universidade do Estado de Minas Gerais,2018,07,07,07,Música,GRADUACAO,['Filosofia e Educação']
+Centro Universitário de Belo Horizonte,2019,02,02,02,Gestão do Patrimônio Histórico,ESPECIALIZACAO,['História da Arte']
+Centro Universitário de Belo Horizonte,2019,12,12,12,História,GRADUACAO,"['História da Arte', 'Historiografia Contemporânea', 'Introdução aos Estudos Históricos', 'Orientação de Trabalho de Conlusão de Curso', 'Teoria da História']"
+Universidade do Estado de Minas Gerais,2019,07,07,07,Música,GRADUACAO,"['Filosofia e Educação', 'História da Arte', 'Orientação de Trabalho Final']"
+Universidade do Estado de Minas Gerais,2019,12,12,12,Música,GRADUACAO,"['Antropologia Cultural', 'História da Arte']"
+Universidade do Estado de Minas Gerais,2020,07,07,07,Música,GRADUACAO,"['Filosofia e Educação', 'Tópicos Especiais:  Villa-Lobos: perspectivas historiográficas e musicológicas']"
+Universidade do Estado de Minas Gerais,2020,12,12,12,Artes,POS-GRADUACAO,"['História e fontes áudio-visuais: experiências, linguagens e regimes de historicidade']"
+Universidade do Estado de Minas Gerais,2020,,ATUAL,ATUAL,Música,GRADUACAO,['Orientação de TCC']
+Universidade do Estado de Minas Gerais,2020,12,12,12,Música,GRADUACAO,"['Antropologia Cultural', 'Villa-Lobos: Entre a musicologia e a história da música']"
+Universidade do Estado de Minas Gerais,2021,,ATUAL,ATUAL,Música,GRADUACAO,"['História da Arte', 'Antropologia Cultural']"
+Universidade do Estado de Minas Gerais,2021,,ATUAL,ATUAL,Artes,POS-GRADUACAO,['Sons e Imagens na Pesquisa Histórica']

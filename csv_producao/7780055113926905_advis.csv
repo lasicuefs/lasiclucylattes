@@ -1,0 +1,45 @@
+YEAR,NATURE,INSTITUTION,COURSE,STUDENT,TYPE,SPONSOR
+2011,Dissertação de mestrado,Universidade Federal de Minas Gerais,Programa de Pós-Graduação em Artes da UFMG,Camila Vitti Mariano,CO_ORIENTADOR,NAO
+2015,Dissertação de mestrado,Universidade Federal de Minas Gerais,Programa de Pós-Graduação em Artes da UFMG,Alice Gontijo,ORIENTADOR_PRINCIPAL,SIM
+2018,Dissertação de mestrado,Universidade Federal de Minas Gerais,Programa de Pós-Graduação em Artes da UFMG,Stefânia  paula Fernandes,ORIENTADOR_PRINCIPAL,NAO
+2019,Dissertação de mestrado,Universidade Federal de Minas Gerais,Programa de Pós-Graduação em Artes da UFMG,Camilla Ayla Oliveira dos Anjos,ORIENTADOR_PRINCIPAL,SIM
+2015,Dissertação de mestrado,Universidade Federal de Minas Gerais,Programa de Pós-Graduação em Artes da UFMG,Vanessa Magalhães Pinto,ORIENTADOR_PRINCIPAL,SIM
+2013,Tese de doutorado,Universidade Federal de Minas Gerais,Programa de Pós-Graduação em Artes da UFMG,OTILIA APARECIDA SILVA SOUZA,CO_ORIENTADOR,NAO
+2017,Tese de doutorado,Universidade Federal de Minas Gerais,Programa de Pós-Graduação em Artes da UFMG,Tatiana Duarte Penna,ORIENTADOR_PRINCIPAL,SIM
+2005,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Faculdades Santa Marcelina,Graduação Em Artes Plásticas,Tatiana Russo,ORIENTADOR_PRINCIPAL,NAO
+2011,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Conservação-Restauração de Bens Móveis,Giulia Villela Giovani,CO_ORIENTADOR,NAO
+2011,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Conservação-Restauração de Bens Móveis,Raquel Aguiar,CO_ORIENTADOR,SIM
+2011,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Conservação-Restauração de Bens Móveis,Iara Ribeiro,CO_ORIENTADOR,SIM
+2011,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Conservação-Restauração de Bens Móveis,Carolina Vieira,CO_ORIENTADOR,SIM
+2011,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Conservação-Restauração de Bens Móveis,Letícia Guimarães,CO_ORIENTADOR,NAO
+2011,ORIENTACAO-DE-OUTRA-NATUREZA,Centro Cultural da UFMG,,Guilerme Garcia e  Dania Lima,CO_ORIENTADOR,SIM
+2013,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Conservação e Restauração de Bens Culturais Móveis,Gerusa de Alkimin RadIchi,CO_ORIENTADOR,NAO
+2013,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Conservação e Restauração de Bens Culturais Móveis,Marcella Ferraz de Oliveira,CO_ORIENTADOR,NAO
+2013,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Pós-Graduação,Giulia Villela,CO_ORIENTADOR,SIM
+2013,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Conservação e Restauração de Bens Culturais Móveis,Cybele Nascimento,CO_ORIENTADOR,NAO
+2013,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Conservação e Restauração de Bens Culturais Móveis,Fernado Luigi Vulgo,CO_ORIENTADOR,NAO
+2013,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Conservação e Restauração de Bens Culturais Móveis,Carolina Consesso,CO_ORIENTADOR,NAO
+2013,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Curso de Conservação-Restauração de Bens Móveis,Giulia Vilela,CO_ORIENTADOR,SIM
+2014,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Conservação-Restauração de Bens Móveis,"Raquel Franca Augustin,",CO_ORIENTADOR,NAO
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Curso de Conservação-Restauração de Bens Móveis,Vanessa  Magalhães,CO_ORIENTADOR,NAO
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Conservação e Restauração de Bens Culturais Móveis,Matheus Rocha,CO_ORIENTADOR,NAO
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Conservação e Restauração de Bens Culturais Móveis,"Raquel Franca Augustin,",CO_ORIENTADOR,NAO
+2013,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Conservação e Restauração de Bens Culturais Móveis,Carolina Concesso,CO_ORIENTADOR,NAO
+2013,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Conservação e Restauração de Bens Culturais Móveis,Margarida de Souza,CO_ORIENTADOR,NAO
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Conservação e Restauração de Bens Culturais Móveis,Carolina Concesso,CO_ORIENTADOR,NAO
+2015,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Conservação-Restauração de Bens Móveis,Aline Rabello Ferreira,CO_ORIENTADOR,NAO
+2016,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Artes Visuais - Cinema de Animação,Guinlherme Souto,CO_ORIENTADOR,SIM
+2015,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Conservação e Restauração de Bens Culturais Móveis,Vanessa Magalhães,CO_ORIENTADOR,SIM
+2015,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Conservação e Restauração de Bens Culturais Móveis,Alice Gontijo,CO_ORIENTADOR,SIM
+2016,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Curso de Conservação-Restauração de Bens Móveis,HELOISA mARIA nASCIMENTO mARTINS,CO_ORIENTADOR,NAO
+2017,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Conservação e Restauração de Bens Culturais Móveis,Tatiana Penna,CO_ORIENTADOR,NAO
+2018,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Conservação e Restauração de Bens Culturais Móveis,Luiza Brito,CO_ORIENTADOR,NAO
+2018,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Conservação e Restauração de Bens Culturais Móveis,Thaiz COSTA,CO_ORIENTADOR,NAO
+2017,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Conservação e Restauração de Bens Culturais Móveis,Camila Ayla,CO_ORIENTADOR,NAO
+2018,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Conservação e Restauração de Bens Culturais Móveis,Laura Fonseca Fiorini,CO_ORIENTADOR,NAO
+2018,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Curso de Conservação-Restauração de Bens Móveis,Daniel Muzzi,CO_ORIENTADOR,NAO
+2019,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Curso de Conservação-Restauração de Bens Móveis,Giulia Alcântara Cavalcante,CO_ORIENTADOR,SIM
+2021,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Curso de Conservação-Restauração de Bens Móveis,Marta Sofia da Fonseca Safaneta,CO_ORIENTADOR,NAO
+2021,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Curso de Conservação-Restauração de Bens Móveis,Juliana Pereira Sales Caetano,CO_ORIENTADOR,SIM
+2021,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Conservação e Restauração de Bens Culturais Móveis,Nayane Coelho de Laia,CO_ORIENTADOR,SIM
+2019,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Curso de Conservação-Restauração de Bens Móveis,Marcela Belo Gonçalves,CO_ORIENTADOR,SIM

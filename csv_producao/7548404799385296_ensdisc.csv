@@ -1,0 +1,20 @@
+INSTITUTION,YEAR_INI,YEAR_FIN,MONTH_INI,MONTH_FIN,COURSE,TYPE,DISC
+Escola de Música Teclado,1994,12,12,12,,OUTRO,['Violão']
+Escola de Música Dinilsons,1995,12,12,12,,OUTRO,"['Violão popular', 'Violao Clássico']"
+Prefeitura Municipal de Belo Horizonte,1998,12,12,12,Oficina de Mùsica,APERFEICOAMENTO,['Teoria Musical']
+Prefeitura Municipal de Belo Horizonte,2000,7,7,7,,ENSINO-FUNDAMENTAL,['Musicalização Infantil']
+Prefeitura Municipal de Belo Horizonte,2000,11,11,11,,ENSINO-MEDIO,['Origami arquitetônico e criação em papel']
+Prefeitura Municipal de Belo Horizonte,2000,11,11,11,Oficina de Cordas Dedilhadas,APERFEICOAMENTO,['Cordas dedilhadas']
+Fundação Clóvis Salgado,2001,3,3,3,,ENSINO-MEDIO,['Violão']
+Universidade do Estado de Minas Gerais,2001,8,8,8,Licenciatura Em Música,GRADUACAO,"['Pedagogia do Violão', 'Violão', 'Violão Complementar']"
+Universidade do Estado de Minas Gerais,2001,8,8,8,Bacharelado Em Música,GRADUACAO,['Acústica Musical']
+Universidade FUMEC,2004,7,7,7,Design Gráfico,GRADUACAO,['Sonoplastia']
+Universidade do Estado de Minas Gerais,2004,11,11,11,Princípios e Recursos Pedagógicos em Musica,ESPECIALIZACAO,['Instrumento Complementar']
+Universidade Vale do Rio Verde de Três Corações,2005,11,11,11,Licenciatura Em Música,GRADUACAO,['Pedagogia do Violão']
+Universidade FUMEC,2005,12,12,12,Design Gráfico,GRADUACAO,['Orientação para trabalho final de Graduação']
+Faculdade de Filosofia e Letras de Diamantina,2005,6,6,6,Licenciatura Em Música,GRADUACAO,['Violão']
+Universidade do Estado de Minas Gerais,2014,11,11,11,Licenciatura Em Educação Artística-Ênfase  Música,GRADUACAO,['Sistemas Interativos 1']
+Universidade do Estado de Minas Gerais,2014,,ATUAL,ATUAL,Licenciatura Em Educação Artística-Ênfase  Música,GRADUACAO,['Ciências cognitivas e música']
+Universidade do Estado de Minas Gerais,2014,,ATUAL,ATUAL,Música,GRADUACAO,['Elaboração de projeto de TCC']
+Universidade do Estado de Minas Gerais,2015,,ATUAL,ATUAL,Mestrado em Artes,POS-GRADUACAO,"['Coleta, Análise E Registro Multimídia', 'Ferramentas e Estratégias para a Produção Acadêmica em Arte', 'Fundamentos das Artes Digitais', 'Metodologia da Pesquisa em Artes']"
+Norwegian University of Science and Technology,2019,05,05,05,Choreomundus - Erasmus Mundus Joint Master Degree,POS-GRADUACAO,['Movement analysys workshops']
