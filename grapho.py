@@ -26,8 +26,12 @@ def comparar_Titulos(dfPaperAuthor1, dfPaperAuthor2):
     interac = 0 #Contador de número de interações
     for i in range(len(dfPaperAuthor1)): #Percorre todos artigos do primeiro autor
         titulo1 = dfPaperAuthor1['TITULO AJUSTADO'].iloc[i]
-        for j in range(len(dfPaperAuthor2)): #Percorre todos artigos do segundo autor
-            titulo2 = dfPaperAuthor2['TITULO AJUSTADO'].iloc[j]
+        ano = dfPaperAuthor1['YEAR'].iloc[i]
+        print(f"Titulo1 {titulo1} Ano {ano}")
+        df2 = dfPaperAuthor2[dfPaperAuthor2['YEAR'] == ano]
+        for j in range(len(df2)): #Percorre todos artigos do segundo autor
+            titulo2 = df2['TITULO AJUSTADO'].iloc[j]
+            print(f"Titulo2 {titulo2} Ano {df2['YEAR'].iloc[j]}")
             if(comparar_String(titulo1, titulo2) == 1): print(f"Titulo1: {titulo1}\nTitulo2: {titulo2}")
             interac += comparar_String(titulo1, titulo2) #Chama a função que retorna 1 se houve interação, ou 0 senão, incrementando o retorno ao valor de interac
     return interac 
