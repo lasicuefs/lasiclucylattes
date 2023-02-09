@@ -27,11 +27,11 @@ def comparar_Titulos(dfPaperAuthor1, dfPaperAuthor2):
     for i in range(len(dfPaperAuthor1)): #Percorre todos artigos do primeiro autor
         titulo1 = dfPaperAuthor1['TITULO AJUSTADO'].iloc[i]
         ano = dfPaperAuthor1['YEAR'].iloc[i]
-        print(f"Titulo1 {titulo1} Ano {ano}")
+        #print(f"Titulo1 {titulo1} Ano {ano}")
         df2 = dfPaperAuthor2[dfPaperAuthor2['YEAR'] == ano]
-        for j in range(len(df2)): #Percorre todos artigos do segundo autor
+        for j in range(len(df2)): #Percorre todos artigos do segundo autor publicados no mesmo ano que o artigo do primeiro autor
             titulo2 = df2['TITULO AJUSTADO'].iloc[j]
-            print(f"Titulo2 {titulo2} Ano {df2['YEAR'].iloc[j]}")
+            #print(f"Titulo2 {titulo2} Ano {df2['YEAR'].iloc[j]}")
             if(comparar_String(titulo1, titulo2) == 1): print(f"Titulo1: {titulo1}\nTitulo2: {titulo2}")
             interac += comparar_String(titulo1, titulo2) #Chama a função que retorna 1 se houve interação, ou 0 senão, incrementando o retorno ao valor de interac
     return interac 
