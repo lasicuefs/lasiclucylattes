@@ -1,0 +1,75 @@
+YEAR,NATURE,INSTITUTION,COURSE,STUDENT,TYPE,SPONSOR
+2006,Dissertação de mestrado,Universidade Federal do Estado do Rio de Janeiro,Artes Cênicas,Felipe Campo Dall'orto,CO_ORIENTADOR,NAO
+2009,Dissertação de mestrado,Universidade Federal de Uberlândia,Programa de Pós-Graduação em Artes,Vanilto Alves de Freitas,ORIENTADOR_PRINCIPAL,NAO
+2010,Dissertação de mestrado,Universidade Federal de Uberlândia,Artes,Marcial de Asevedo,ORIENTADOR_PRINCIPAL,NAO
+2010,Dissertação de mestrado,Universidade Federal de Uberlândia,Artes,Getulio Góis de Araújo,ORIENTADOR_PRINCIPAL,NAO
+2011,Dissertação de mestrado,Universidade Federal de Uberlândia,Artes,Adriana Moreira Silva,ORIENTADOR_PRINCIPAL,NAO
+2011,Dissertação de mestrado,Universidade Federal de Uberlândia,Artes,Luana Maftoum Proença,ORIENTADOR_PRINCIPAL,SIM
+2012,Dissertação de mestrado,Universidade Federal de Uberlândia,Artes,Valéria Gianechini de Araújo,ORIENTADOR_PRINCIPAL,NAO
+2013,Dissertação de mestrado,Universidade Federal de Uberlândia,Educação,Paloma  Bezerra,ORIENTADOR_PRINCIPAL,SIM
+2013,Dissertação de mestrado,Universidade Federal de Uberlândia,Artes,Rafael de Souza,ORIENTADOR_PRINCIPAL,NAO
+2013,Dissertação de mestrado,Universidade Federal de Uberlândia,Artes,José Raphael Brito dos Santos,ORIENTADOR_PRINCIPAL,NAO
+2014,Dissertação de mestrado,Universidade Federal de Uberlândia,Artes,Luiz Eduardo Rodrigues Gasperin,ORIENTADOR_PRINCIPAL,NAO
+2014,Dissertação de mestrado,Universidade Federal de Uberlândia,Mestrado Profissional em Artes,Ernane Fernandes do Nascimento,ORIENTADOR_PRINCIPAL,SIM
+2014,Dissertação de mestrado,Universidade Federal de Uberlândia,Artes,Brenno Jadvas Soares Ferreira,ORIENTADOR_PRINCIPAL,NAO
+2014,Dissertação de mestrado,Universidade Federal de Uberlândia,Artes,Marcio Dias Pereira,ORIENTADOR_PRINCIPAL,NAO
+2013,Dissertação de mestrado,Universidade Federal de Uberlândia,Educação,Dalma Nelly A. Nunes,ORIENTADOR_PRINCIPAL,SIM
+2015,Dissertação de mestrado,Universidade Federal de Uberlândia,Artes,Barbara Leite Matias,ORIENTADOR_PRINCIPAL,NAO
+2015,Dissertação de mestrado,Universidade Federal de Uberlândia,Artes Cênicas,Diana Alves de Souza Magalhães,ORIENTADOR_PRINCIPAL,SIM
+2015,Dissertação de mestrado,Universidade Federal de Uberlândia,Artes Cênicas,Guilherme Conrado Pereira Ríspolli,ORIENTADOR_PRINCIPAL,NAO
+2017,Dissertação de mestrado,Universidade Federal de Uberlândia,Artes Cênicas,Alana Georgina Ferreira de Araújo,ORIENTADOR_PRINCIPAL,NAO
+2018,Dissertação de mestrado,Universidade Federal de Uberlândia,Artes Cênicas,Isis Beatriz Anunciato,ORIENTADOR_PRINCIPAL,NAO
+2018,Dissertação de mestrado,Universidade Federal de Uberlândia,Artes Cênicas,Nicolle Silva Machado,ORIENTADOR_PRINCIPAL,SIM
+2019,Dissertação de mestrado,Universidade Federal de Uberlândia,Artes Cênicas,Mario Lucio Cortes Junior,ORIENTADOR_PRINCIPAL,SIM
+2015,Dissertação de mestrado,Universidade Federal de Uberlândia,Mestrado Profissional em Artes,Massuel dos Reis Bernardi,ORIENTADOR_PRINCIPAL,SIM
+2017,Tese de doutorado,Universidade Federal do Estado do Rio de Janeiro,Artes Cênicas,Jarbas Ramos Siqueira,ORIENTADOR_PRINCIPAL,NAO
+2014,Tese de doutorado,Universidade Federal de Uberlândia,Educação,Antonio Neto Ferreira dos Santos,ORIENTADOR_PRINCIPAL,NAO
+2019,Tese de doutorado,Universidade Federal de Uberlândia,Educação,Clara Angélica Contreras Camacho,ORIENTADOR_PRINCIPAL,SIM
+2015,Tese de doutorado,Universidade Federal de Uberlândia,Educação,Dickson  Duarte Pires,ORIENTADOR_PRINCIPAL,NAO
+2013,Tese de doutorado,Universidade Federal do Estado do Rio de Janeiro,Artes Cênicas,Bruna Bellinazzi Peres,ORIENTADOR_PRINCIPAL,NAO
+2001,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Licenciatura Em Artes Cênicas,Vanilton Alves Freitas,CO_ORIENTADOR,SIM
+2003,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Licenciatura Em Artes Cênicas,Luciana do Carmo Fontes,CO_ORIENTADOR,SIM
+2002,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura Em Artes Cênicas,Daniela Ribeiro da Silva,ORIENTADOR_PRINCIPAL,NAO
+2002,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura Em Artes Cênicas,Valéria Gianechini de Araújo,ORIENTADOR_PRINCIPAL,NAO
+2002,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura Em Artes Cênicas,Camila Delfino da Silva,ORIENTADOR_PRINCIPAL,NAO
+2002,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura Em Artes Cênicas,Marcelo Batista Gomes,ORIENTADOR_PRINCIPAL,NAO
+2003,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Licenciatura Em Artes Cênicas,Lilian Morais de Paiva,CO_ORIENTADOR,SIM
+2002,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura Em Artes Cênicas,Ederval Monte,ORIENTADOR_PRINCIPAL,NAO
+2002,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura Em Artes Cênicas,Divina Maria de Jesus,ORIENTADOR_PRINCIPAL,NAO
+2007,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Licenciatura e Bacharelado em Teatro,Nádia Yoshi Ribeiro Higa,CO_ORIENTADOR,SIM
+2007,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Licenciatura e Bacharelado em Teatro,Monique Alves Ferreira,CO_ORIENTADOR,NAO
+2007,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura Em Artes Cênicas,Amanda Cássia dos Reis,CO_ORIENTADOR,NAO
+2007,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal Fluminense,Pedagogia - Angra dos Reis,Lila Lima de Melo,CO_ORIENTADOR,NAO
+2008,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Licenciatura e Bacharelado em Teatro,Camila Barbosa Tiago,CO_ORIENTADOR,SIM
+2008,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura e Bacharelado em Teatro,Josimar de Araújo Faria,CO_ORIENTADOR,NAO
+2008,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura e Bacharelado em Teatro,Cláudia Cristina Miranda,CO_ORIENTADOR,NAO
+2008,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura e Bacharelado em Teatro,Ulisses Alexandre Silveira,CO_ORIENTADOR,NAO
+2009,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura Em Artes Cênicas,Ilmara Batista Damasceno,CO_ORIENTADOR,NAO
+2008,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Uberlândia,Licenciatura e Bacharelado em Teatro,Vinicius de Castro Fonseca,CO_ORIENTADOR,NAO
+2009,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Licenciatura e Bacharelado em Teatro,Marcella Prado Ferreira,CO_ORIENTADOR,NAO
+2009,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura Em Artes Cênicas,Samuel Antonio Santana,CO_ORIENTADOR,NAO
+2009,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura e Bacharelado em Teatro,Nádia Yoshi Ribeiro Higa,CO_ORIENTADOR,NAO
+2009,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Ensino Médio,Fabricio Bittencourt Godoi,CO_ORIENTADOR,SIM
+2009,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Ensino Médio,Helena Dermorsk Franco,CO_ORIENTADOR,SIM
+2009,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Licenciatura e Bacharelado em Teatro,Priscilla Kelly Silva Vieira,CO_ORIENTADOR,NAO
+2011,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Licenciatura e Bacharelado em Teatro,Thábatta Nayara Ferreira,CO_ORIENTADOR,NAO
+2011,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Uberlândia,Licenciatura e Bacharelado em Teatro,Eluhara Resende Videira,CO_ORIENTADOR,SIM
+2011,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Ensino Médio,Andressa Santana Araújo,CO_ORIENTADOR,SIM
+2011,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Ensino Médio,Vinicius Silva de Oliveira Ribeiro,CO_ORIENTADOR,SIM
+2012,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Teatro - Licenciatura Ou Bacharelado,Marina Ferreira Andrade,CO_ORIENTADOR,SIM
+2013,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Teatro - Licenciatura Ou Bacharelado,Eluhara Resende,CO_ORIENTADOR,SIM
+2012,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Teatro - Licenciatura Ou Bacharelado,Felipe Braccialli,CO_ORIENTADOR,NAO
+2013,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Uberlândia,Teatro - Licenciatura Ou Bacharelado,Elton Jorge Fonseca Sequeira,CO_ORIENTADOR,SIM
+2014,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Teatro,Hellen Batista de Souza,CO_ORIENTADOR,SIM
+2014,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Dança,Paula Poltronieri,CO_ORIENTADOR,SIM
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Teatro - Licenciatura Ou Bacharelado,Guilherme Conrado Pereira Ríspolli,CO_ORIENTADOR,NAO
+2016,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Teatro - Licenciatura Ou Bacharelado,Tamara dos Anjos Garcia,CO_ORIENTADOR,SIM
+2015,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Teatro - Licenciatura Ou Bacharelado,Maria Amélia Ribeiro Garcia Duarte,CO_ORIENTADOR,SIM
+2016,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Teatro - Licenciatura Ou Bacharelado,Juliana Marques dos Santos,CO_ORIENTADOR,SIM
+2016,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Teatro - Licenciatura Ou Bacharelado,Gleison Santos,CO_ORIENTADOR,SIM
+2019,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Teatro - Licenciatura Ou Bacharelado,Lara dos Santos Pires,CO_ORIENTADOR,SIM
+2019,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Teatro - Licenciatura Ou Bacharelado,Dennys Roberty Meneses Evangelista,CO_ORIENTADOR,SIM
+2019,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Uberlândia,Teatro - Licenciatura Ou Bacharelado,Beatriz Andrade Vergara,CO_ORIENTADOR,SIM
+2019,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Uberlândia,Teatro - Licenciatura Ou Bacharelado,Carla Almeida Luz,CO_ORIENTADOR,NAO
+2020,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Teatro - Licenciatura Ou Bacharelado,Maria Eduarda Borges de Paulo,CO_ORIENTADOR,SIM
+2012,INICIACAO_CIENTIFICA,Universidade Federal de Uberlândia,Teatro - Licenciatura Ou Bacharelado,Guilherme Conrado Pereira Ríspolli,CO_ORIENTADOR,SIM

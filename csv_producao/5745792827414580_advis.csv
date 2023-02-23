@@ -1,0 +1,85 @@
+YEAR,NATURE,INSTITUTION,COURSE,STUDENT,TYPE,SPONSOR
+2006,Dissertação de mestrado,Escola de Belas Artes/UFMG,Mestrado em Artes,Luiz Carlos Garrocho,ORIENTADOR_PRINCIPAL,NAO
+2010,Dissertação de mestrado,Escola de Belas Artes da UFMG,Mestrado em Artes,Paola Rettore,ORIENTADOR_PRINCIPAL,NAO
+2009,Dissertação de mestrado,Escola de Belas Artes da UFMG,Mestrado em Artes,João Marcos Machado Gontijo,ORIENTADOR_PRINCIPAL,NAO
+2007,Dissertação de mestrado,Escola de Belas Artes da UFMG,Mestrado em Artes,Alexander Evaristo Araújo de Moraes,ORIENTADOR_PRINCIPAL,SIM
+2010,Dissertação de mestrado,Escola de Belas Artes da UFMG,Mestrado em Artes,Rita de Cássia Pinho Maia,CO_ORIENTADOR,NAO
+2007,Dissertação de mestrado,Escola de Belas Artes da UFMG,Mestrado em Artes,Ricardo Carvalho de Figueiredo,ORIENTADOR_PRINCIPAL,SIM
+2011,Dissertação de mestrado,Escola de Belas Artes da UFMG,Mestrado em Artes,Geraldo Ângelo Octaviano de Alvarenga,ORIENTADOR_PRINCIPAL,NAO
+2014,Dissertação de mestrado,Escola de Belas Artes da UFMG,Mestrado em Artes,Soraya Beatriz Luciano Silva,ORIENTADOR_PRINCIPAL,NAO
+2014,Dissertação de mestrado,Escola de Belas Artes da UFMG,Mestrado em Artes,Marcos César Coletta Pereira,ORIENTADOR_PRINCIPAL,NAO
+2014,Dissertação de mestrado,Escola de Belas Artes da UFMG,Mestrado em Artes,Priscilla de Queiroz Duarte,ORIENTADOR_PRINCIPAL,SIM
+2017,Dissertação de mestrado,Escola de Belas Artes da UFMG,Mestrado em Artes,Karen Cristine Veloso Mateus,ORIENTADOR_PRINCIPAL,NAO
+2020,Dissertação de mestrado,Escola de Belas Artes da UFMG,Mestrado em Artes,Rafaela Kênia Alves da Silva,ORIENTADOR_PRINCIPAL,SIM
+2020,Dissertação de mestrado,Escola de Belas Artes da UFMG,Mestrado em Artes,Vânia Pereira Silvério,ORIENTADOR_PRINCIPAL,NAO
+2011,Dissertação de mestrado,Escola de Belas Artes/UFMG,Mestrado em Artes,Cristiano Peixoto Gonçalves,ORIENTADOR_PRINCIPAL,SIM
+2012,Tese de doutorado,Escola de Belas Artes da UFMG,Doutorado em Artes,Mauro Rodrigues,ORIENTADOR_PRINCIPAL,NAO
+2012,Tese de doutorado,Escola de Belas Artes da UFMG,Doutorado em Artes,Aline Mendes de Oliveira,ORIENTADOR_PRINCIPAL,NAO
+2012,Tese de doutorado,Escola de Belas Artes da UFMG,Doutorado em Artes,Carla Andréa Silva Lima,ORIENTADOR_PRINCIPAL,SIM
+2014,Tese de doutorado,Escola de Belas Artes da UFMG,Doutorado em Artes,Gilson Brandão Costa,ORIENTADOR_PRINCIPAL,NAO
+2013,Tese de doutorado,Escola de Belas Artes da UFMG,Doutorado em Artes,Marcelo Farias Costa,ORIENTADOR_PRINCIPAL,SIM
+2018,Tese de doutorado,Escola de Belas Artes da UFMG,Doutorado em Artes,Nerina Raquel Dip,ORIENTADOR_PRINCIPAL,SIM
+2018,Tese de doutorado,Escola de Belas Artes da UFMG,Doutorado em Artes,Maximo Jose Gomez,ORIENTADOR_PRINCIPAL,SIM
+2020,Tese de doutorado,Escola de Belas Artes da UFMG,Doutorado em Artes,Valéria Frota de Andrade,ORIENTADOR_PRINCIPAL,SIM
+2019,Tese de doutorado,Escola de Belas Artes da UFMG,Doutorado em Artes,Andréa Bentes Flores,ORIENTADOR_PRINCIPAL,SIM
+2020,Tese de doutorado,Escola de Belas Artes da UFMG,Doutorado em Artes,Alberto da Cunha e Silva Neto,ORIENTADOR_PRINCIPAL,SIM
+2019,Tese de doutorado,Universidade Federal de Minas Gerais,Artes,Priscilla de Queiroz Duarte,ORIENTADOR_PRINCIPAL,SIM
+2003,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Artes Cênicas,Michele Cristina Alves,CO_ORIENTADOR,SIM
+1998,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Artes Plásticas,Tarcísio Ribeiro junior,CO_ORIENTADOR,SIM
+2003,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,,Michele Cristina Alves,ORIENTADOR_PRINCIPAL,NAO
+2004,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,,Lucilene França,ORIENTADOR_PRINCIPAL,NAO
+2004,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,,Michelle Christina Alves da Silva,ORIENTADOR_PRINCIPAL,NAO
+2002,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,,Raquel Pedras,ORIENTADOR_PRINCIPAL,NAO
+2002,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,,Simone Salles,ORIENTADOR_PRINCIPAL,NAO
+2003,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,,Leonardo Lessa,ORIENTADOR_PRINCIPAL,NAO
+2004,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,,Carolina Ferreira,ORIENTADOR_PRINCIPAL,NAO
+2004,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,,Rosana Machado,ORIENTADOR_PRINCIPAL,NAO
+2003,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,,Elisa Belém,ORIENTADOR_PRINCIPAL,NAO
+2006,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Pontifícia Universidade Católica de Minas Gerais,Cultura Produção e Crítica,Maíra Cesarino Soares,CO_ORIENTADOR,NAO
+2007,INICIACAO_CIENTIFICA,Escola de Belas Artes da UFMG,Teatro,Poliana Tuchia,CO_ORIENTADOR,SIM
+2007,INICIACAO_CIENTIFICA,Escola de Belas Artes da UFMG,Teatro,Gabriela Guerra,CO_ORIENTADOR,SIM
+2007,INICIACAO_CIENTIFICA,Escola de Belas Artes/UFMG,Teatro,Frederico Ramos Oliveira,CO_ORIENTADOR,SIM
+1997,ORIENTACAO-DE-OUTRA-NATUREZA,Cenex - Teatro Universitário da UFMG,Formação de Ator,Janice Silva,CO_ORIENTADOR,SIM
+1997,ORIENTACAO-DE-OUTRA-NATUREZA,Cenex - Teatro Universitário da UFMG,Formação de Ator,Teresa Santos,CO_ORIENTADOR,SIM
+1994,ORIENTACAO-DE-OUTRA-NATUREZA,Cenex - Teatro Universitário da UFMG,Formação de Ator,Janice Silva,CO_ORIENTADOR,SIM
+1994,ORIENTACAO-DE-OUTRA-NATUREZA,Cenex - Teatro Universitário da UFMG,Formação de Ator,Teresa Santos,CO_ORIENTADOR,SIM
+2008,INICIACAO_CIENTIFICA,Escola de Belas Artes da UFMG,Teatro,Pedro Laponês do Amaral Gontijo Cunha,CO_ORIENTADOR,NAO
+2009,INICIACAO_CIENTIFICA,Escola de Belas Artes da UFMG,Teatro,Marco Nepomuceno,CO_ORIENTADOR,SIM
+2009,INICIACAO_CIENTIFICA,Escola de Belas Artes/UFMG,Teatro,Marcos Coletta,CO_ORIENTADOR,SIM
+2009,INICIACAO_CIENTIFICA,Escola de Belas Artes/UFMG,Teatro,Marcos Coletta,CO_ORIENTADOR,SIM
+2011,INICIACAO_CIENTIFICA,Escola de Belas Artes/UFMG,Teatro,Décio Cristiano Miranda de Souza Nogueira,CO_ORIENTADOR,SIM
+2010,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Escola de Belas Artes/UFMG,Teatro,Marcos Coletta,CO_ORIENTADOR,NAO
+2011,INICIACAO_CIENTIFICA,Escola de Belas Artes/UFMG,Teatro,Marina Braga,CO_ORIENTADOR,SIM
+2016,ORIENTACAO-DE-OUTRA-NATUREZA,Université Sorbonne Nouvelle - Paris 3,Doutorado,Juliana Coelho de Souza Ladeira,CO_ORIENTADOR,SIM
+2007,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Escola de Belas Artes/UFMG,Teatro,Poliana Tuchia,CO_ORIENTADOR,NAO
+1997,ORIENTACAO-DE-OUTRA-NATUREZA,Teatro Universitário - UFMG,Formação de Ator,Luis García-Araus Iglesias,CO_ORIENTADOR,SIM
+2012,INICIACAO_CIENTIFICA,Escola de Belas Artes da UFMG,Teatro,Charles Valadares Tomaz de Araújo,CO_ORIENTADOR,SIM
+2016,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade da Antuérpia,Doutorado,Aline Veiga Loureiro,CO_ORIENTADOR,SIM
+2014,INICIACAO_CIENTIFICA,Escola de Belas Artes da UFMG,Teatro,Jesus Lataliza Cezar Campos,CO_ORIENTADOR,SIM
+2013,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Escola de Belas Artes da UFMG,Teatro,Tamira Mantovani Gomes Barbosa Pizarro,CO_ORIENTADOR,NAO
+2013,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Escola de Belas Artes da UFMG,Teatro,Juliana de Lima Birchal,CO_ORIENTADOR,NAO
+2013,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Escola de Belas Artes da UFMG,Teatro,Camila Rodrigues Vaz Chaves,CO_ORIENTADOR,NAO
+2014,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Antropologia,Lorena Braga Alves,CO_ORIENTADOR,SIM
+2013,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Escola de Belas Artes da UFMG,Teatro,Thales Brener,CO_ORIENTADOR,NAO
+2013,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Faculdade Angel Vianna,Pós-graduação Lato Sensu em Performance,Sandra Bonomini,CO_ORIENTADOR,NAO
+2013,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Faculdade Angel Vianna,Pós-graduação Lato Sensu em Performance,Danilo Curtiss,CO_ORIENTADOR,NAO
+2013,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Faculdade Angel Vianna,Pós-graduação Lato Sensu em Performance,Glaucia Marilia Ferreira,CO_ORIENTADOR,NAO
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Escola de Belas Artes da UFMG,Teatro,Lucas Fabricio,CO_ORIENTADOR,NAO
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Escola de Belas Artes da UFMG,Teatro,Gaya Dandara,CO_ORIENTADOR,NAO
+2015,INICIACAO_CIENTIFICA,Escola de Belas Artes da UFMG,Teatro,Ana Jessica Reis,CO_ORIENTADOR,SIM
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Escola de Belas Artes da UFMG,Teatro,Nicoli Valério Fabrini,CO_ORIENTADOR,NAO
+2015,ORIENTACAO-DE-OUTRA-NATUREZA,Diretoria de Ação Cultural/UFMG,Extensão,Wesley Fernando Pereira,CO_ORIENTADOR,SIM
+2015,ORIENTACAO-DE-OUTRA-NATUREZA,Diretoria de Ação Cultural/UFMG,Extensão,Adrielle Hister da Silva,CO_ORIENTADOR,SIM
+2015,ORIENTACAO-DE-OUTRA-NATUREZA,Diretoria de Ação Cultural/UFMG,Extensão,Amanda Moreira de Almeida,CO_ORIENTADOR,SIM
+2014,ORIENTACAO-DE-OUTRA-NATUREZA,Escola de Belas Artes/UFMG,Teatro,Guilherme Augusto Diniz,CO_ORIENTADOR,SIM
+2014,ORIENTACAO-DE-OUTRA-NATUREZA,Diretoria de Ação Cultural/UFMG,Extensão,Sara Meynard Begname,CO_ORIENTADOR,SIM
+2014,ORIENTACAO-DE-OUTRA-NATUREZA,Diretoria de Ação Cultural/UFMG,Extensão,Maria Izabel Nagib Kilson,CO_ORIENTADOR,SIM
+2014,ORIENTACAO-DE-OUTRA-NATUREZA,Diretoria de Ação Cultural/UFMG,Extensão,Agatha Andrade Val Goulart,CO_ORIENTADOR,SIM
+2016,ORIENTACAO-DE-OUTRA-NATUREZA,Escola de Belas Artes da UFMG,Teatro,Meige Esytelle Caroline de LIma Laurent,CO_ORIENTADOR,NAO
+2016,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Escola de Belas Artes/UFMG,Teatro,Flavia Arvelos,CO_ORIENTADOR,NAO
+2018,ORIENTACAO-DE-OUTRA-NATUREZA,Escola de Belas Artes da UFMG,Teatro,Nina Aragón,CO_ORIENTADOR,SIM
+2017,ORIENTACAO-DE-OUTRA-NATUREZA,Teatro Varasanta,Nucleo de Investigación,Fernando Montes,CO_ORIENTADOR,NAO
+2018,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Escola de Belas Artes da UFMG,Teatro,Michelle Barreto dos Santos,CO_ORIENTADOR,NAO
+2018,ORIENTACAO-DE-OUTRA-NATUREZA,Escola de Belas Artes da UFMG,Teatro,Sabrina Mellikèche,CO_ORIENTADOR,NAO
+2019,ORIENTACAO-DE-OUTRA-NATUREZA,Teatro Varasanta,Nucleo de Investigación,Fernando Montes,CO_ORIENTADOR,NAO
+2014,ORIENTACAO-DE-OUTRA-NATUREZA,Escola de Belas Artes/UFMG,Teatro,Alexandre Hugo de Souza,CO_ORIENTADOR,SIM

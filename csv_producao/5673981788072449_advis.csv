@@ -1,0 +1,54 @@
+YEAR,NATURE,INSTITUTION,COURSE,STUDENT,TYPE,SPONSOR
+2014,Dissertação de mestrado,Universidade Federal de Juiz de Fora,"Mestrado em Artes, Cultura e Linguagens",Guilherme Lunhani,ORIENTADOR_PRINCIPAL,NAO
+2017,Dissertação de mestrado,Universidade Federal de Juiz de Fora,Comunicação,Denise Mendes de Souza Gonçalves,CO_ORIENTADOR,NAO
+2020,Dissertação de mestrado,Universidade Federal de Juiz de Fora,"Artes, Cultura e Linguagens",Isabela Bianchi Bottaro de Andrade,ORIENTADOR_PRINCIPAL,SIM
+2021,Dissertação de mestrado,Universidade Federal de Juiz de Fora,"Mestrado em Artes, Cultura e Linguagens",Charles K. Neimog,ORIENTADOR_PRINCIPAL,SIM
+2014,Dissertação de mestrado,Universidade Federal de Juiz de Fora,"Mestrado em Artes, Cultura e Linguagens",Rafael Gonçalves,ORIENTADOR_PRINCIPAL,NAO
+2012,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Juiz de Fora,Bacharelado em música,Adriano Campos Tavares,CO_ORIENTADOR,NAO
+2010,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Juiz de Fora,Bacharelado em música,Rafael Gonçalves,CO_ORIENTADOR,SIM
+2010,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Bacharelado em música,Grazielle Elis Magalhães de Souza,CO_ORIENTADOR,SIM
+2010,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Bacharelado em música,Leandro José Renó Esteves,CO_ORIENTADOR,SIM
+2011,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Bacharelado em música,Vinicius Faza Paiva,CO_ORIENTADOR,SIM
+2010,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Bacharelado em música,João Paulo Faria Alves de Souza,CO_ORIENTADOR,SIM
+2010,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Juiz de Fora,Bacharelado em música,Iara Mageste Romualdo,CO_ORIENTADOR,SIM
+2011,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,,Lucas Alves Damasceno,CO_ORIENTADOR,SIM
+2011,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Ciência da Computação,Pedro Henrique Fialho,CO_ORIENTADOR,SIM
+2011,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Juiz de Fora,Bacharelado em música,Ana Paula Fialho,CO_ORIENTADOR,SIM
+2011,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Bacharelado em Tradução,Talita Silva Sant? Ana de Oliveira,CO_ORIENTADOR,SIM
+2011,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Bacharelado em música,Yago Rezende Franco,CO_ORIENTADOR,SIM
+2011,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Juiz de Fora,Bacharelado em música,Vinicius Faza Paiva,CO_ORIENTADOR,SIM
+2011,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Juiz de Fora,Bacharelado em música,Ana Paula Andrade Fialho,CO_ORIENTADOR,SIM
+2011,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Bacharelado interdisciplinar em Artes,Alessandra Fonseca Braga da Cunha,CO_ORIENTADOR,SIM
+2012,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Ciência da Computação,Luiz Eduardo Mendes Matheus,CO_ORIENTADOR,SIM
+2012,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Juiz de Fora,Bacharelado em música,João Paulo Faria Alves de Souza,CO_ORIENTADOR,SIM
+2012,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Estadual de Goiás,Pedagogia,Izabel Cristina Félix Mendes,CO_ORIENTADOR,NAO
+2012,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Bacharelado em música,João Paulo Faria Alves de Souza,CO_ORIENTADOR,NAO
+2012,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Bacharelado em música,Bruna Caroline de Souza,CO_ORIENTADOR,SIM
+2012,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Ciências Exatas,Talita Silva Sant' Ana,CO_ORIENTADOR,SIM
+2012,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Juiz de Fora,Música - Flauta Transversal,Yago Franco,CO_ORIENTADOR,NAO
+2013,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Juiz de Fora,Música - Violão,Rafael Gonçalves,CO_ORIENTADOR,SIM
+2013,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Bacharelado em Música,Bruna Caroline de Souza,CO_ORIENTADOR,SIM
+2013,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Bacharelado em Música,Maria Fernanda de Moraes Santos,CO_ORIENTADOR,SIM
+2013,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Bacharelado em Música,Jonatas Augusto da Silveira,CO_ORIENTADOR,SIM
+2013,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Juiz de Fora,Ciência da Computação,Talita Silva Sant' Ana de Oliveira,CO_ORIENTADOR,SIM
+2014,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Juiz de Fora,Música - Violão,André Matuk Salomé,CO_ORIENTADOR,SIM
+2014,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Música - Piano,Guilherme Braga Veroneze,CO_ORIENTADOR,SIM
+2014,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Música - Violino,Vivian Oliveira Vignoli,CO_ORIENTADOR,SIM
+2014,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Música - Violoncelo,Maria Fernanda de Moraes Santos,CO_ORIENTADOR,SIM
+2014,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Música - Violino,Jonatas Augusto da Silveira,CO_ORIENTADOR,SIM
+2015,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Juiz de Fora,Música - Composição,Felipe Arruda,CO_ORIENTADOR,NAO
+2015,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Música - Violino,Bruna Caroline de Souza,CO_ORIENTADOR,SIM
+2015,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Música - Canto,Lucas Miranda,CO_ORIENTADOR,SIM
+2015,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Música - Flauta Transversal,Nara Pinheiro,CO_ORIENTADOR,SIM
+2017,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Bacharelado em Música,Sara Rosa Ramos Fraga,CO_ORIENTADOR,SIM
+2018,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Bacharelado em Música,Henrique Oliveira Guilhem,CO_ORIENTADOR,SIM
+2018,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Bacharelado em Música,Marcelo Henrique da Silva Fernandes,CO_ORIENTADOR,SIM
+2019,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Música - Composição,Henrique Silva Villela,CO_ORIENTADOR,NAO
+2019,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Música - Composição,João Paulo Cordeiro Soares Silva,CO_ORIENTADOR,SIM
+2018,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Juiz de Fora,Música - Composição,Tulio Edson Bessa Andrade,CO_ORIENTADOR,NAO
+2020,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Juiz de Fora,Música - Composição,Alice Werneck,CO_ORIENTADOR,SIM
+2020,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Juiz de Fora,Música - Composição,Hélio Castro Lopes de Albuquerque,CO_ORIENTADOR,NAO
+2020,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Juiz de Fora,Música - Composição,Alexandre Leal Martins,CO_ORIENTADOR,NAO
+2021,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Juiz de Fora,Música - Composição,Sara Fraga,CO_ORIENTADOR,NAO
+2022,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Juiz de Fora,Música - Composição,Anna Lamha,CO_ORIENTADOR,NAO
+2020,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Juiz de Fora,Música - Composição,Pedro Gabriel Lima,CO_ORIENTADOR,SIM

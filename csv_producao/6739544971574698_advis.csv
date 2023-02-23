@@ -1,0 +1,63 @@
+YEAR,NATURE,INSTITUTION,COURSE,STUDENT,TYPE,SPONSOR
+2014,Dissertação de mestrado,Universidade Federal de Minas Gerais,Artes,Priscila de Queiroz Duarte,CO_ORIENTADOR,NAO
+2016,Dissertação de mestrado,Universidade Federal de Minas Gerais,Artes,Rosana Machado de Souza,ORIENTADOR_PRINCIPAL,NAO
+2018,Dissertação de mestrado,Universidade Federal de Minas Gerais,Artes,Gustavo Falabella Rocha,ORIENTADOR_PRINCIPAL,NAO
+2018,Dissertação de mestrado,Universidade Federal de Minas Gerais,Artes,Marcia Regina Fabiano Neves,ORIENTADOR_PRINCIPAL,NAO
+2018,Dissertação de mestrado,Universidade Federal de Minas Gerais,Artes,Camila Rodrigues Vaz Chaves,ORIENTADOR_PRINCIPAL,NAO
+2019,Dissertação de mestrado,Universidade Federal de Minas Gerais,Artes,Lourenço Marques,ORIENTADOR_PRINCIPAL,SIM
+2017,Dissertação de mestrado,Universidade Federal de Minas Gerais,Artes,Dayane Lacerda Queiroz,ORIENTADOR_PRINCIPAL,SIM
+2017,Tese de doutorado,Universidade Federal de Minas Gerais,Artes,Altemar Gomes Monteiro,ORIENTADOR_PRINCIPAL,SIM
+2017,Tese de doutorado,Universidade Federal de Minas Gerais,Artes,Verônica Pimenta,ORIENTADOR_PRINCIPAL,NAO
+2021,Tese de doutorado,Universidade Federal de Minas Gerais,Artes,Altemar Gomes Monteiro,ORIENTADOR_PRINCIPAL,SIM
+2021,Tese de doutorado,Universidade Federal de Minas Gerais,Artes,VERÔNICA TEODORA PIMENTA,ORIENTADOR_PRINCIPAL,NAO
+2005,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Artes Cênicas,Daniela Bastos Cruz,CO_ORIENTADOR,NAO
+2005,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Artes Cênicas,Rogério Oliveira Araújo,CO_ORIENTADOR,NAO
+2006,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Artes Cênicas,Henais Cristina da Cunha Deslandes,CO_ORIENTADOR,NAO
+2006,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Artes Cênicas,Marina Pinto Souza,CO_ORIENTADOR,NAO
+2007,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Teatro,André Pastore,CO_ORIENTADOR,NAO
+2007,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Teatro,Frederico Ramos,CO_ORIENTADOR,NAO
+2008,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Teatro,Gabriela Laviñas,CO_ORIENTADOR,NAO
+2008,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Teatro,André Pastore,CO_ORIENTADOR,NAO
+2008,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Verônica Tanure,CO_ORIENTADOR,NAO
+2009,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal de Minas Gerais,Curso de Especialização em Ensino de Artes Visuais,Edinalva Araújo Faria,CO_ORIENTADOR,NAO
+2009,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal de Minas Gerais,Curso de Especialização em Ensino de Artes Visuais,Gisela Velela de Figueiredo,CO_ORIENTADOR,NAO
+2009,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal de Minas Gerais,Curso de Especialização em Ensino de Artes Visuais,Norma Maria de Oliveira Assis,CO_ORIENTADOR,NAO
+2009,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal de Minas Gerais,Curso de Especialização em Ensino de Artes Visuais,Yara maria Becker dos Reis,CO_ORIENTADOR,NAO
+2009,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Teatro,Marina Clara,CO_ORIENTADOR,NAO
+2010,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal de Minas Gerais,Ensino de Artes Visuais,Claudia Silva Ribeiro Cruz,CO_ORIENTADOR,NAO
+2010,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal de Minas Gerais,Ensino de Artes Visuais,Elizane de Souza Marques Silva,CO_ORIENTADOR,NAO
+2010,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal de Minas Gerais,Ensino de Artes Visuais,Lismar Antonio Alves Santos Vilela,CO_ORIENTADOR,NAO
+2010,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal de Minas Gerais,Ensino de Artes Visuais,Maria Cristina Froes,CO_ORIENTADOR,NAO
+2010,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal de Minas Gerais,Ensino de Artes Visuais,Marileia da Silva Salvador,CO_ORIENTADOR,NAO
+2013,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Mariana Teixeira de Paula,CO_ORIENTADOR,NAO
+2013,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Letras - Inglês,Mariana Silva Câmara,CO_ORIENTADOR,SIM
+2013,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Teatro,Dayane Lacerda Queiroz,CO_ORIENTADOR,SIM
+2013,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Mayara Dornas,CO_ORIENTADOR,NAO
+2013,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Artes Visuais,Izabella Lorene Murta Ribeiro,CO_ORIENTADOR,SIM
+2013,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Jésus Lataliza Cezar Campos,CO_ORIENTADOR,NAO
+2014,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Dança,Fabricio Ribeiro Costa,CO_ORIENTADOR,SIM
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Rafael Severino dos Santos,CO_ORIENTADOR,NAO
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Marcella Santos de Araújo,CO_ORIENTADOR,NAO
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Anna Carolina Alvim Gomes,CO_ORIENTADOR,NAO
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Dayane Lacerda Queiroz,CO_ORIENTADOR,NAO
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Laís Andrade Preres,CO_ORIENTADOR,NAO
+2014,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Teatro,Diego Poça dos Santos,CO_ORIENTADOR,SIM
+2015,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,LIRA BASTOS MOREIRA RIBAS,CO_ORIENTADOR,NAO
+2015,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Pierre Pereira Rodrigues,CO_ORIENTADOR,NAO
+2016,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Michelli Barreto dos Santos,CO_ORIENTADOR,NAO
+2016,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Carlos Caetano,CO_ORIENTADOR,NAO
+2016,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Abi - Letras,Samuel de Jesus Menezes,CO_ORIENTADOR,SIM
+2016,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Abi - Artes Visuais,Izabella Murta Ribeiro,CO_ORIENTADOR,SIM
+2017,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Daniela de Castro Lima,CO_ORIENTADOR,NAO
+2018,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Geraldo Lucio Alves,CO_ORIENTADOR,NAO
+2018,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Gabriella Hedegaard,CO_ORIENTADOR,NAO
+2018,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Bruno Cesar Burin Maracia,CO_ORIENTADOR,NAO
+2018,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Abi - Teatro,Carolina Kathleen Souza Cândido,CO_ORIENTADOR,NAO
+2018,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Abi - Teatro,Aline Luciano dos Santos,CO_ORIENTADOR,NAO
+2019,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Fernanda Kelly Quintão Signorini,CO_ORIENTADOR,NAO
+2019,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Eduardo Iunes Camillo Soares,CO_ORIENTADOR,NAO
+2014,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Teatro,Geraldo Lúcio Alves,CO_ORIENTADOR,NAO
+2015,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Minas Gerais,Teatro,Geraldo Lúcio Alves,CO_ORIENTADOR,NAO
+2021,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Lohanye Samara Coelho  Garcia,CO_ORIENTADOR,NAO
+2021,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Rafael Soares de Sousa,CO_ORIENTADOR,NAO
+2015,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Teatro,Geraldo Lucio Alves,CO_ORIENTADOR,SIM

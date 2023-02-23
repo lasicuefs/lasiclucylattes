@@ -1,0 +1,96 @@
+YEAR,NATURE,INSTITUTION,COURSE,STUDENT,TYPE,SPONSOR
+2011,Dissertação de mestrado,Universidade Federal do Rio Grande do Norte,Artes Cênicas,Raimundo Nonato Santos da Costa,ORIENTADOR_PRINCIPAL,SIM
+2012,Dissertação de mestrado,Universidade Federal do Rio Grande do Norte,Artes Cênicas,Rodrigo César do Nascimento Xavier,ORIENTADOR_PRINCIPAL,SIM
+2010,Dissertação de mestrado,Universidade Federal do Rio Grande do Norte,Artes Cênicas,Tatiana de Morais Barbosa.,ORIENTADOR_PRINCIPAL,SIM
+2013,Dissertação de mestrado,Universidade Federal do Rio Grande do Norte,Artes Cênicas,Yuri de Andrade Magalhães,ORIENTADOR_PRINCIPAL,NAO
+2013,Dissertação de mestrado,Universidade Federal do Rio Grande do Norte,Artes Cênicas,Camila Maria Grazielle Freitas,ORIENTADOR_PRINCIPAL,SIM
+2013,Dissertação de mestrado,Universidade Federal do Rio Grande do Norte,Artes Cênicas,Marina Madeira de Toledos,ORIENTADOR_PRINCIPAL,NAO
+2011,Dissertação de mestrado,Universidade Federal do Rio Grande do Norte,Estudos da Linguagem,José Mariano Tavares Júnior,ORIENTADOR_PRINCIPAL,SIM
+2014,Dissertação de mestrado,Universidade Federal do Rio Grande do Norte,Artes Cênicas,Edilberto da Silva Mendes,ORIENTADOR_PRINCIPAL,NAO
+2015,Dissertação de mestrado,Universidade Federal do Rio Grande do Norte,Programa de Pós-graduação em Estudos da Linguagem,Wagner Guedes Kerller,ORIENTADOR_PRINCIPAL,NAO
+2014,Dissertação de mestrado,Universidade Federal do Rio Grande do Norte,Estudos da Linguagem,Antônio Lázaro Vieira Barbosa Junior,ORIENTADOR_PRINCIPAL,SIM
+2016,Dissertação de mestrado,Universidade Federal do Rio Grande do Norte,Artes Cênicas,Aldair Rodrigues da Silva,ORIENTADOR_PRINCIPAL,NAO
+2020,Dissertação de mestrado,Universidade Federal de Ouro Preto,Artes Cênicas,Thaís Alessandra Martins da Cruz,ORIENTADOR_PRINCIPAL,SIM
+2021,Dissertação de mestrado,Universidade Federal de Ouro Preto,Artes Cênicas,Gustavo Ferreira de Oliveira Sampaio,ORIENTADOR_PRINCIPAL,SIM
+2016,Tese de doutorado,Universidade Federal do Rio Grande do Norte,Programa de Pós-graduação em Estudos da Linguagem,Rummenigge Medeiros de Araújo,ORIENTADOR_PRINCIPAL,SIM
+2017,Tese de doutorado,Universidade Federal do Rio Grande do Norte,Estudos da Linguagem,Isamabéli Barbosa Candido,ORIENTADOR_PRINCIPAL,SIM
+2017,Tese de doutorado,Universidade Federal do Rio Grande do Norte,Estudos da Linguagem,Edilson Floriano Souza Serra,ORIENTADOR_PRINCIPAL,NAO
+2017,Tese de doutorado,Universidade Federal do Rio Grande do Norte,Estudos da Linguagem,Maria da Luz Duarte Leite Silva,ORIENTADOR_PRINCIPAL,NAO
+2016,Tese de doutorado,Universidade Federal do Rio Grande do Norte,Programa de Pós-graduação em Estudos da Linguagem,Rebeka Caroça Seixas,ORIENTADOR_PRINCIPAL,SIM
+2001,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade do Estado da Bahia,Pedagogia,"NUNES, Dulciene Silva; et alli",CO_ORIENTADOR,NAO
+2001,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade do Estado da Bahia,Pedagogia,"JESUS, Marineuza Pereira de; et alli",CO_ORIENTADOR,NAO
+2001,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade do Estado da Bahia,Pedagogia,"MIRANDA, Adriana Rocha de Souza; et alli.",CO_ORIENTADOR,NAO
+2001,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade do Estado da Bahia,Pedagogia,"ANJOS, Isabel Augusta Souza dos; et alli",CO_ORIENTADOR,NAO
+2001,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade do Estado da Bahia,Pedagogia,"SANTOS, Sueli Alves Mendonça; et alli",CO_ORIENTADOR,NAO
+2001,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade do Estado da Bahia,Pedagogia,"ALVES, Juscélia Rosa do Nascimento; et alli",CO_ORIENTADOR,NAO
+2001,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade do Estado da Bahia,Pedagogia,"LEÃO, Rosângela Souza dos Santos; et alli",CO_ORIENTADOR,NAO
+2001,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade do Estado da Bahia,Pedagogia,"ANJOS, Duscinélia Maria dos; et alli",CO_ORIENTADOR,NAO
+2001,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade do Estado da Bahia,Pedagogia,"ARAÚJO, Joseane Evangelista; et alli",CO_ORIENTADOR,NAO
+2006,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal do Rio Grande do Norte,Educação Artística,Eduardo Augusto de Andrade Galvão,CO_ORIENTADOR,NAO
+2006,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal do Rio Grande do Norte,Educação Artística,Frank Rodrix Gomes,CO_ORIENTADOR,NAO
+2006,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal do Rio Grande do Norte,Educação Artística,Jeane Cristina de Souza,CO_ORIENTADOR,NAO
+2007,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal do Rio Grande do Norte,Educação Artística,"FREIRE, Gisele Cristina Cruz.",CO_ORIENTADOR,NAO
+2007,INICIACAO_CIENTIFICA,Universidade Federal do Rio Grande do Norte,Licenciatura Em Teatro,SANTOS. Catarina Alice dos.,CO_ORIENTADOR,SIM
+2007,INICIACAO_CIENTIFICA,Universidade Federal do Rio Grande do Norte,,"NETO, Paulo Tarcísio de Albuquerque Cavalcanti.",CO_ORIENTADOR,NAO
+2007,INICIACAO_CIENTIFICA,Universidade Federal do Rio Grande do Norte,Licenciatura Em Teatro,"FAGUNDES, Felipe Cabral de Araújo.",CO_ORIENTADOR,SIM
+2008,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal do Rio Grande do Norte,Educação Artística,"SILVA, Gisele Carvalho da.",CO_ORIENTADOR,NAO
+2008,INICIACAO_CIENTIFICA,Universidade Federal do Rio Grande do Norte,Licenciatura Em Teatro,Camila Maria Grazelle Freitas,CO_ORIENTADOR,NAO
+2009,INICIACAO_CIENTIFICA,Universidade Federal do Rio Grande do Norte,Licenciatura Em Teatro,"FREITAS,Camila Maria Grazielle.",CO_ORIENTADOR,SIM
+2008,INICIACAO_CIENTIFICA,Universidade Federal do Rio Grande do Norte,Educação Artística,"CASTRO, Isis Camara de.",CO_ORIENTADOR,SIM
+2009,INICIACAO_CIENTIFICA,Universidade Federal do Rio Grande do Norte,Comunicação Social,Mateus da Silva Cardoso,CO_ORIENTADOR,SIM
+2009,INICIACAO_CIENTIFICA,Universidade Eduardo Modlane,Direito,"FAZENDA, Luís josé Jobe.",CO_ORIENTADOR,SIM
+2010,INICIACAO_CIENTIFICA,Universidade Federal do Rio Grande do Norte,Licenciatura Em Teatro,Camila Maria Grazielle Freitas,CO_ORIENTADOR,SIM
+2010,INICIACAO_CIENTIFICA,Universidade Federal do Rio Grande do Norte,Licenciatura Em Teatro,Arlindo Bezerra da Silva Junior,CO_ORIENTADOR,NAO
+2010,INICIACAO_CIENTIFICA,Universidade Federal do Rio Grande do Norte,Comunicação Social,Mateus da Silva Cardoso,CO_ORIENTADOR,SIM
+2010,INICIACAO_CIENTIFICA,Universidade Federal do Rio Grande do Norte,Licenciatura Em Teatro,Heloísa Helena Pacheco de Souza),CO_ORIENTADOR,SIM
+2010,INICIACAO_CIENTIFICA,Universidade Federal do Rio Grande do Norte,Licenciatura Em Teatro,Heloísa Helena Pacheco de Souza,CO_ORIENTADOR,SIM
+2010,INICIACAO_CIENTIFICA,Universidade Federal do Rio Grande do Norte,Licenciatura Em Teatro,Heloísa Helena Pacheco de Souza,CO_ORIENTADOR,SIM
+2010,INICIACAO_CIENTIFICA,Universidade Federal do Rio Grande do Norte,,Eduardo Ailson da Cruz,CO_ORIENTADOR,NAO
+2011,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal do Rio Grande do Norte,Licenciatura Em Teatro,Camila Maria Grazielle Freitas,CO_ORIENTADOR,NAO
+2011,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal do Rio Grande do Norte,Licenciatura Em Teatro,Yuri de Andrade Magalhães,CO_ORIENTADOR,NAO
+2011,INICIACAO_CIENTIFICA,Universidade Federal do Rio Grande do Norte,Licenciatura Em Teatro,Moiséis José Sousa Ferreira,CO_ORIENTADOR,SIM
+2012,INICIACAO_CIENTIFICA,Universidade Federal do Rio Grande do Norte,Teatro,Carlos Alberto da Costa Junior,CO_ORIENTADOR,SIM
+2013,INICIACAO_CIENTIFICA,Universidade Federal do Rio Grande do Norte,Teatro,Nathália Christine da Silva Morais,CO_ORIENTADOR,SIM
+2014,INICIACAO_CIENTIFICA,Universidade Federal do Rio Grande do Norte,Teatro,Eric Inacio de Medeiros,CO_ORIENTADOR,SIM
+2015,INICIACAO_CIENTIFICA,Universidade Federal do Rio Grande do Norte,Teatro,Clarena Nunes Graebner,CO_ORIENTADOR,SIM
+2015,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,Ernani Alves da Silveira Neto,CO_ORIENTADOR,NAO
+2015,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,Daniel Felix Cirino,CO_ORIENTADOR,NAO
+2015,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,José Antonio Coelho,CO_ORIENTADOR,NAO
+2015,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,Shirley Souza de Araújo,CO_ORIENTADOR,NAO
+2015,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,Breno Inácio  Freire Lamartine de Faria,CO_ORIENTADOR,NAO
+2015,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,Edson Collet Ibiapina,CO_ORIENTADOR,NAO
+2015,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,Danielle Borges da Silva,CO_ORIENTADOR,NAO
+2015,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,Rafael Heitor Nunes de Rubim Costa,CO_ORIENTADOR,NAO
+2015,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,Gustavo Fillipe Guedes de Melo,CO_ORIENTADOR,NAO
+2015,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,Daniella Karina de Melo,CO_ORIENTADOR,NAO
+2015,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,Samara Taiana de Lima Silva,CO_ORIENTADOR,NAO
+2015,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,Nathália Zulmira Cavalcanti de Macêdo,CO_ORIENTADOR,NAO
+2015,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,Pedro Augusto Soares Fiuza,CO_ORIENTADOR,NAO
+2015,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,Leila de Melo Dantas,CO_ORIENTADOR,NAO
+2017,INICIACAO_CIENTIFICA,Universidade Federal do Rio Grande do Norte,Teatro,Leonardo Medeiros da Silva,CO_ORIENTADOR,SIM
+2017,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,Anne Jacqueline Julião da Penha,CO_ORIENTADOR,NAO
+2017,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,Luiz Antonio Dias Borges,CO_ORIENTADOR,NAO
+2017,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,José Roberto de Morais,CO_ORIENTADOR,NAO
+2017,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,Gustavo Henrique Lima de Alcântara,CO_ORIENTADOR,NAO
+2017,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,Breno Edon Câmara de Lima,CO_ORIENTADOR,NAO
+2017,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,Jocylena Bandeira Dantas,CO_ORIENTADOR,NAO
+2017,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,Jofran Cesar Ferreira batista,CO_ORIENTADOR,NAO
+2017,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,Rafael Barros de Alencar,CO_ORIENTADOR,NAO
+2017,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,Anderson Kley Baumgartner Câmara Pinheiro,CO_ORIENTADOR,NAO
+2017,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,Liene Titan de Lima Mendes,CO_ORIENTADOR,NAO
+2017,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,Epitácio de Andrade Filho,CO_ORIENTADOR,NAO
+2017,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,Anderson Augusto Reis Barbosa,CO_ORIENTADOR,NAO
+2017,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,Joião Pedro da Silva Reouças,CO_ORIENTADOR,NAO
+2017,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,Pablo Ribeiro,CO_ORIENTADOR,NAO
+2017,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,Ricardo Krusty Moreira,CO_ORIENTADOR,NAO
+2017,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal do Rio Grande do Norte,Teatro,Liliane da Silva Bezerra,CO_ORIENTADOR,NAO
+2017,INICIACAO_CIENTIFICA,Universidade Federal do Rio Grande do Norte,,Leonardo Medeiros da Silva,CO_ORIENTADOR,SIM
+2018,INICIACAO_CIENTIFICA,Universidade Federal do Rio Grande do Norte,Teatro,Thales Lopes da Silva,CO_ORIENTADOR,SIM
+2018,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Dança,Eliete Oliveira Monteiro,CO_ORIENTADOR,NAO
+2018,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Dança,Ariadna Medeiros Cardoso,CO_ORIENTADOR,NAO
+2019,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Dança,Andressa Karla da Silva,CO_ORIENTADOR,NAO
+2019,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Dança,Laysa Bárbara Felipe da Silva Galvão,CO_ORIENTADOR,NAO
+2019,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Dança,Taniela Maria Ferreira,CO_ORIENTADOR,NAO
+2019,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas,Olívia Cristina Coelho Viana,CO_ORIENTADOR,NAO
+2020,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Abi - Artes Cênicas,Júlio Mourão de Paiva,CO_ORIENTADOR,SIM
+2015,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal do Rio Grande do Norte,Especialização em Cinema,Débora Josana da Silva Medeiros,CO_ORIENTADOR,NAO

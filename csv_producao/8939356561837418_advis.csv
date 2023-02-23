@@ -1,0 +1,37 @@
+YEAR,NATURE,INSTITUTION,COURSE,STUDENT,TYPE,SPONSOR
+2017,Dissertação de mestrado,UFOP,Estética e Filosofia da Arte,Eliza Albuquerque,ORIENTADOR_PRINCIPAL,SIM
+2016,Dissertação de mestrado,Universidade Federal de Ouro Preto,Artes Cênicas,Matheus Silva,ORIENTADOR_PRINCIPAL,SIM
+2017,Dissertação de mestrado,Universidade Federal de Ouro Preto,Artes Cênicas,Andréa Sannazzaro Ribeiro,ORIENTADOR_PRINCIPAL,SIM
+2018,Dissertação de mestrado,Universidade Federal de Ouro Preto,Mestrado em Artes Cênicas,Paola Cynthia Moreira Bonuti,ORIENTADOR_PRINCIPAL,SIM
+2019,Dissertação de mestrado,Universidade Federal de Ouro Preto,Artes Cênicas,Tamira Mantovani Gomes Barbosa,ORIENTADOR_PRINCIPAL,SIM
+2019,Dissertação de mestrado,Universidade Federal de Ouro Preto,Artes Cênicas,Eduardo  Miele Dal  Secco Junior,ORIENTADOR_PRINCIPAL,SIM
+2021,Dissertação de mestrado,Universidade Federal de Ouro Preto,Mestrado em Artes Cênicas,Luis Gustavo Ferigati Pereira,ORIENTADOR_PRINCIPAL,SIM
+2020,Dissertação de mestrado,Universidade Federal de Ouro Preto,Mestrado em Artes Cênicas,Ricardo José Correia Maia,ORIENTADOR_PRINCIPAL,NAO
+2017,Dissertação de mestrado,Universidade Federal de Ouro Preto,Estética e Filosofia da Arte,Thiago Gandra do Vale,ORIENTADOR_PRINCIPAL,SIM
+2021,Tese de doutorado,Universidade Federal de Ouro Preto,História,Andréa Sannazzaro Ribeiro,ORIENTADOR_PRINCIPAL,NAO
+2011,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Artes Cênicas,Márcio Oliveira Souza da Silva,CO_ORIENTADOR,SIM
+2012,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,História - Licenciatura Ou Bacharelado,Andrea Sannazzaro Ribeiro,CO_ORIENTADOR,SIM
+2012,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Abi - Artes Cênicas,Júlia Santanna dos Santos Veras,CO_ORIENTADOR,NAO
+2012,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas,Rachel Saldanha Mitidiere,CO_ORIENTADOR,NAO
+2013,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,História - Licenciatura Ou Bacharelado,Andrea Sannazzaro Ribeiro,CO_ORIENTADOR,SIM
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas,Gabriel Miranda Coelho,CO_ORIENTADOR,NAO
+2014,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Artes Cênicas,Dalila David Xavier,CO_ORIENTADOR,SIM
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas,Felipe Eduardo Lopes da Cunha,CO_ORIENTADOR,NAO
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas,Jackeline Martins Leandro,CO_ORIENTADOR,NAO
+2014,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Artes Cênicas,Bruna Massaro,CO_ORIENTADOR,NAO
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas,Fernando Augusto da Silva,CO_ORIENTADOR,NAO
+2015,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas,Bruna Massaro,CO_ORIENTADOR,NAO
+2016,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Abi - Artes Cênicas,Eduardo Macena Damasceno,CO_ORIENTADOR,SIM
+2015,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Artes Cênicas,Dalila David Xavier,CO_ORIENTADOR,NAO
+2016,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Abi - Artes Cênicas,Dalila David Xavier,CO_ORIENTADOR,SIM
+2016,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Abi - Artes Cênicas,Almiro Ebani de Mello Neto,CO_ORIENTADOR,NAO
+2018,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Abi - Artes Cênicas,Karina Stefani de Sá Teles,CO_ORIENTADOR,SIM
+2017,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Abi - Artes Cênicas,Eduardo Macena Damasceno,CO_ORIENTADOR,SIM
+2017,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Abi - Artes Cênicas,Lilian Colombari,CO_ORIENTADOR,SIM
+2017,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas,Marrione Warley da Silva,CO_ORIENTADOR,NAO
+2018,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Artes Cênicas,Karina Stefani de Sa Teles Fernandes,CO_ORIENTADOR,SIM
+2018,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Artes Cênicas,Glaucia Santos de Oliveira Venancio,CO_ORIENTADOR,SIM
+2018,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Artes Cênicas,Luis Gustavo Ferigati Pereira,CO_ORIENTADOR,NAO
+2019,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Abi - Artes Cênicas,Marianna Mariha Silva de Gouvea,CO_ORIENTADOR,NAO
+2020,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Artes Cênicas,Pedro Methner Baldin,CO_ORIENTADOR,SIM
+2014,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Artes Cênicas,Júlia Santanna dos Santos Veras,CO_ORIENTADOR,NAO

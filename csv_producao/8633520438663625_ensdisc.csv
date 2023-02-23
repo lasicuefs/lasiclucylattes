@@ -1,0 +1,24 @@
+INSTITUTION,YEAR_INI,YEAR_FIN,MONTH_INI,MONTH_FIN,COURSE,TYPE,DISC
+Secretaria Municipal de Educação de Bocaiúva,2003,12,12,12,,ENSINO-FUNDAMENTAL,['Educação Artística']
+Secretaria Municipal de Cultura de Bocaiúva,2003,12,12,12,,OUTRO,['Teatro']
+Universidade do Norte do Paraná,2004,12,12,12,Normal Superior,GRADUACAO,['Ludicidade e Corporeidade']
+Centro Educacional de Bocaiúva,2004,12,12,12,,ENSINO-FUNDAMENTAL,"['Oficina de Teatro', 'Arte - Séries Iniciais']"
+Universidade Estadual de Montes Claros,2004,12,12,12,,OUTRO,"['Projeto Unimontes Solidária nos Municípios de Jequitaí e Montalvânia', 'Projeto Uniarte nos municípios de Catuti, Porteirinha, São João das Missões e Urucuia', 'Ação Integrada nas Comunidades do Delfino Magalhães e Eldorado', 'Oficina Corpo Tambor', 'Oficina Dança para Todos', 'Oficina de Clown', 'Oficina Teatro: Prática e Discussão na Educação']"
+Ateliê Márcia Prates,2005,01,01,01,,OUTRO,['Curso de Teatro Infantil']
+Secretaria do Estado da Educação,2006,04,04,04,,ENSINO-FUNDAMENTAL,['Educação Artística']
+Secretaria do Estado da Educação,2006,04,04,04,,ENSINO-MEDIO,['Arte']
+Universidade Federal de Uberlândia,2011,01,01,01,Dança,GRADUACAO,"['Introdução aos Conceitos de Linguagens e Processos Identitários', 'Introdução aos Conceitos de Tradição, Cultura e Memória', 'Teatro-Dança em Contextos Interdisciplinares ou Transdisciplinares', 'Arte e Contemporaneidade I', 'Dramaturgia do Corpo II', 'Expressão Corporal']"
+Universidade Federal de Uberlândia,2014,09,09,09,Dança,GRADUACAO,"['Arte e Contemporaneidade II', 'Corpo, Ritmo e Musicalidade I', 'Corpo-Voz I', 'Práticas em Dança I: Interculturalismo']"
+Universidade Federal de Uberlândia,2014,02,02,02,Dança,GRADUACAO,"['Corpo, Ritmo e Musicalidade II', 'Dramaturgia do Corpo II: Gramáticas Corporais', 'Introdução aos Conceitos de Linguagem e Processos Identitários', 'Pesquisa em Artes Cênicas']"
+Universidade Federal de Uberlândia,2015,12,12,12,Dança,GRADUACAO,"['Corpo-Voz II', 'Corpo, Ritmo e Musicalidade II', 'Introdução aos Conceitos de Linguagem e Processos Identitários', 'Tópicos Especiais em Danças Brasileiras']"
+Universidade Federal de Uberlândia,2015,08,08,08,Dança,GRADUACAO,"['Corpo-Voz I', 'Introdução aos Conceitos de Tradição, Cultura e Memória', 'Práticas em Dança I: Interculturalismo', 'Teatro-Dança em Contextos Transdisciplinares']"
+Universidade Federal de Uberlândia,2017,03,03,03,Dança,GRADUACAO,"['Corpo, Ritmo, Musicalidade II', 'Pesquisa em Artes Cênicas']"
+Universidade Federal de Uberlândia,2017,08,08,08,Dança,GRADUACAO,"['Corpo, Ritmo e Musicalidade I', 'Práticas em Dança I: Interculturalismo']"
+Universidade Federal de Uberlândia,2017,12,12,12,Dança,GRADUACAO,"['Corpo, Ritmo e Musicalidade II', 'Corpo-Voz II', 'Defesa de TCC', 'Elaboração de TCC', 'Pesquisa em Artes Cênicas']"
+Universidade Federal de Uberlândia,2018,07,07,07,Artes Cênicas,POS-GRADUACAO,['Pesquisa em Artes Cênicas']
+Universidade Federal de Uberlândia,2018,12,12,12,Dança,GRADUACAO,"['Corpo-Voz II', 'Defesa de TCC', 'Elaboração de TCC', 'Pesquisa em Artes Cênicas']"
+Universidade Federal de Uberlândia,2018,07,07,07,Dança,GRADUACAO,"['Defesa de TCC', 'Práticas em Dança I: Interculturalismo']"
+Universidade Federal de Uberlândia,2019,07,07,07,Dança,GRADUACAO,"['Defesa de TCC', 'Elaboração de TCC', 'Introdução aos Conceitos de Tradição, Cultura e Memória', 'Pesquisa I', 'Pesquisa III', 'Práticas em Dança I: Interculturalismo']"
+Universidade Federal de Uberlândia,2019,07,07,07,Artes Cênicas,POS-GRADUACAO,['Tópicos Especiais em Processos Formativos em Artes Cênicas']
+Universidade Federal de Uberlândia,2019,12,12,12,Dança,GRADUACAO,"['Defesa de Trabalho de Conclusão de Curso', 'Elaboração de Trabalho de Conclusão de Curso', 'Introdução aos Conceitos de Linguagens e Processos Identitários', 'Pesquisa III', 'Práticas Corporais III']"
+Universidade Federal de Uberlândia,2021,06,06,06,Dança,GRADUACAO,"['Corpo, Ritmo e Musicalidade I', 'Introdução aos Conceitos de Cultura, Tradição e Memória']"

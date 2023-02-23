@@ -1,0 +1,62 @@
+YEAR,NATURE,INSTITUTION,COURSE,STUDENT,TYPE,SPONSOR
+2017,Dissertação de mestrado,Universidade do Estado de Minas Gerais,Programa de Pós-Graduação em Artes,Tadeus Mariano Mucelli Motta,ORIENTADOR_PRINCIPAL,SIM
+2017,Dissertação de mestrado,Universidade do Estado de Minas Gerais,Programa de Pós-Graduação em Artes,Daniela Ramos Garcia,ORIENTADOR_PRINCIPAL,NAO
+2019,Dissertação de mestrado,Universidade do Estado de Minas Gerais,Programa de Pós-Graduação em Artes,Antônio Henrique Mascarenhas Mozelli,ORIENTADOR_PRINCIPAL,NAO
+2018,Dissertação de mestrado,Universidade do Estado de Minas Gerais,Artes,Luiz Carlos de Oliveira Ferreira,ORIENTADOR_PRINCIPAL,NAO
+2018,Dissertação de mestrado,Universidade do Estado de Minas Gerais,Artes,Paulo Henrique Pereira Silva,ORIENTADOR_PRINCIPAL,NAO
+2019,Dissertação de mestrado,Universidade do Estado de Minas Gerais,Programa de Pós-Graduação em Artes,Adeilson William da Silva,ORIENTADOR_PRINCIPAL,NAO
+2020,Dissertação de mestrado,Universidade Federal de Minas Gerais,GESTÃO &amp; ORGANIZAÇÃO DO CONHECIMENTO,Juliana Martins de Castro Barroso,CO_ORIENTADOR,NAO
+2018,Dissertação de mestrado,Universidade do Estado de Minas Gerais,Programa de Pós-Graduação em Artes,Fernanda de Cássia Lima Corrêa,ORIENTADOR_PRINCIPAL,NAO
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade do Estado de Minas Gerais,Educação Artística,Junior Souza Rodrigues,CO_ORIENTADOR,NAO
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade do Estado de Minas Gerais,Educação Artística,Silvana Maria Gabriel,CO_ORIENTADOR,NAO
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade do Estado de Minas Gerais,Educação Artística,Fábio Correa de Carvalho,CO_ORIENTADOR,NAO
+2014,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes Plásticas,Raphael Prota Spegar Fonseca,CO_ORIENTADOR,SIM
+2013,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes Plásticas,Jairo Martins Neto,CO_ORIENTADOR,NAO
+2014,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes Plásticas,Ana Catarina Schirmer Marçal,CO_ORIENTADOR,SIM
+2014,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Gestão das Organizações do Terceiro Setor,Tadeus Mariano Mucelli Motta,CO_ORIENTADOR,SIM
+2014,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade do Estado de Minas Gerais,Artes Plásticas,Fernanda de Cássia Lima Corrêa,CO_ORIENTADOR,SIM
+2014,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade do Estado de Minas Gerais,Gestão das Organizações do Terceiro Setor,Karla Danitza de Almeida,CO_ORIENTADOR,SIM
+2014,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes Plásticas,Débora Santos Nogueira,CO_ORIENTADOR,SIM
+2014,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade do Estado de Minas Gerais,Artes Plásticas e Contemporaneidade,Samuel Martins,CO_ORIENTADOR,NAO
+2015,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes Plásticas,Fernanda de Cássia Lima Corrêa,CO_ORIENTADOR,SIM
+2015,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes Plásticas,William Fernando de Melo Silva,CO_ORIENTADOR,SIM
+2015,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade do Estado de Minas Gerais,Licenciatura em Artes Plásticas,Nathália Galvão de Souza Mesquita,CO_ORIENTADOR,SIM
+2015,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade do Estado de Minas Gerais,Artes Plásticas,Frances Gonçalves Amaral de Lima e Silva,CO_ORIENTADOR,SIM
+2015,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade do Estado de Minas Gerais,Licenciatura em Artes Plásticas,Isabela Cristina Mendes Cesário,CO_ORIENTADOR,SIM
+2015,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes Plásticas,Antônio Henrique Mascarenhas Mozelli,CO_ORIENTADOR,SIM
+2015,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade do Estado de Minas Gerais,Gestão das Organizações do Terceiro Setor,Karla Danitza de Almeida,CO_ORIENTADOR,SIM
+2015,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Sistemas de Informação,Sandro Miccoli,CO_ORIENTADOR,SIM
+2016,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Licenciatura em Artes Plásticas,Thaís Geckseni Rosa,CO_ORIENTADOR,SIM
+2016,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Engenharia de Controle e Automação,Gabriel Figueiredo Becker,CO_ORIENTADOR,SIM
+2016,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes Plásticas,Antônio Henrique Mascarenhas Mozelli,CO_ORIENTADOR,SIM
+2016,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Licenciatura em Artes Plásticas,Adeilson William da Silva,CO_ORIENTADOR,SIM
+2016,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes Plásticas,Fernanda de Cássia Lima Corrêa,CO_ORIENTADOR,SIM
+2016,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade do Estado de Minas Gerais,Licenciatura em Artes Plásticas,Isabela Cristina Mendes Cesário,CO_ORIENTADOR,SIM
+2017,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Licenciatura em Artes Plásticas,Adeilson William da Silva,CO_ORIENTADOR,SIM
+2017,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Licenciatura em Artes Plásticas,Isabela Cristina Mendes Cesário,CO_ORIENTADOR,SIM
+2017,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade do Estado de Minas Gerais,Licenciatura em Artes Plásticas,Adeilson William da Silva,CO_ORIENTADOR,NAO
+2017,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade do Estado de Minas Gerais,Artes Plásticas,Pedro Ismar Silva Souto,CO_ORIENTADOR,SIM
+2017,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes Plásticas,Maria Lima de Andrade,CO_ORIENTADOR,SIM
+2017,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Engenharia de Controle e Automação,Gabriel Figueiredo Becker,CO_ORIENTADOR,SIM
+2018,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade do Estado de Minas Gerais,Licenciatura em Artes Plásticas,Isabela Cristina Mendes Cesário,CO_ORIENTADOR,SIM
+2018,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade do Estado de Minas Gerais,Artes Plásticas,Luiza Rabello Nery,CO_ORIENTADOR,SIM
+2018,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade do Estado de Minas Gerais,Artes Plásticas,Luis Roberto Napoli,CO_ORIENTADOR,SIM
+2018,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes Plásticas,Emanuelle de Oliveira Silva,CO_ORIENTADOR,SIM
+2018,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Licenciatura em Artes Plásticas,Adeilson William da Silva,CO_ORIENTADOR,SIM
+2018,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes Plásticas,Priscila Rezende Portugal,CO_ORIENTADOR,SIM
+2019,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes Plásticas,Priscila Rezende Portugal,CO_ORIENTADOR,SIM
+2019,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes Plásticas,Emanuelle de Oliveira Silva,CO_ORIENTADOR,SIM
+2019,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade do Estado de Minas Gerais,Licenciatura em Artes Plásticas,Hillary Miranda Mascena,CO_ORIENTADOR,SIM
+2019,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade do Estado de Minas Gerais,Licenciatura em Artes Plásticas,Isabela Cristina Mendes Cesário,CO_ORIENTADOR,SIM
+2019,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade do Estado de Minas Gerais,Artes Plásticas e Contemporaneidade,Luiza Hermeto Mascarenhas,CO_ORIENTADOR,NAO
+2020,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade do Estado de Minas Gerais,Licenciatura em Artes Plásticas,Isabela Cristina Mendes Cesário,CO_ORIENTADOR,NAO
+2019,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade do Estado de Minas Gerais,Artes Plásticas e Contemporaneidade,Victor Tavares de Oliveira Endo,CO_ORIENTADOR,NAO
+2020,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes Plásticas,Zaika dos Santos,CO_ORIENTADOR,SIM
+2020,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade do Estado de Minas Gerais,Licenciatura em Artes Plásticas,Zaika dos Santos,CO_ORIENTADOR,NAO
+2020,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes Plásticas,Carolina Antunes Curvello Araújo,CO_ORIENTADOR,SIM
+2020,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes Plásticas,Julia Maria Teixeira Costa,CO_ORIENTADOR,SIM
+2020,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes Plásticas,Anahí Poty Corteletti Jiménez,CO_ORIENTADOR,SIM
+2020,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes Plásticas,Priscila Rezende Portugal,CO_ORIENTADOR,SIM
+2020,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes Plásticas,Maria Lima de Andrade,CO_ORIENTADOR,SIM
+2021,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes Plásticas,Vinícius Viana Rafael,CO_ORIENTADOR,SIM
+2014,INICIACAO_CIENTIFICA,Universidade do Estado de Minas Gerais,Artes Plásticas,Luiz Carlos de Oliveira Ferreira,CO_ORIENTADOR,SIM

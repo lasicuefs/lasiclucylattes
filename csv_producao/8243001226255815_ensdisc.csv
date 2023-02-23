@@ -1,0 +1,26 @@
+INSTITUTION,YEAR_INI,YEAR_FIN,MONTH_INI,MONTH_FIN,COURSE,TYPE,DISC
+Centro Marista de Educação e Cidadania,2004,,ATUAL,ATUAL,,ENSINO-MEDIO,"['Língua Portuguesa', 'Literatura', 'Redação']"
+Pontifícia Universidade Católica de Minas Gerais,2005,12,12,12,Ciências Sociais,GRADUACAO,"['Temas transversais para a educação popular', 'Educação popular']"
+Centro Marista de Educação e Cidadania,2005,,ATUAL,ATUAL,Formação de graduandos,GRADUACAO,"['Formação de graduandos para aula de TEMAS TRANSVERSAIS', 'Formação de graduandos para aula de REDAÇÃO', 'Formação de graduandos para aula de LITERATURA', 'Formação de graduandos para aula de PORTUGUÊS']"
+Pontifícia Universidade Católica de Minas Gerais,2013,07,07,07,Produção Multimídia,GRADUACAO,"['Composição e Autoração', 'Sistemas colaborativos']"
+Universidade do Estado de Minas Gerais,2013,07,07,07,Pós-graduação em Políticas Públicas,ESPECIALIZACAO,['Redação Instrumental']
+Universidade do Estado de Minas Gerais,2013,12,12,12,Artes Plásticas,GRADUACAO,"['Crítica de arte II', 'Cultura, arte e tecnologia: um panorama']"
+Universidade do Estado de Minas Gerais,2013,07,07,07,Tecnologia em Processos Gerenciais (Terceiro Setor,GRADUACAO,"['Mobilização e Formação de Equipes do Terceiro  Setor', 'Recrutamento, seleção e integração']"
+Universidade do Estado de Minas Gerais,2014,12,12,12,Pós-graduação em Políticas Públicas,ESPECIALIZACAO,['Redação Instrumental']
+Universidade do Estado de Minas Gerais,2014,12,12,12,Artes Plásticas,GRADUACAO,"['Arte e Vanguardas do Século XX', 'Instalações Interativas em Arte Digital', 'Arte e Vanguardas do Século XX [turma A]', 'Arte e Vanguardas do Século XX [turma B]']"
+Universidade do Estado de Minas Gerais,2015,12,12,12,Artes Plásticas,GRADUACAO,"['Curadoria em Arte Digital [1/2015] [Turma A]', 'Curadoria em Arte Digital [1/2015] [Turma B]', 'Arte e vanguardas no século XX [2/2015]', 'Curadoria em Arte Digital [2/2015]']"
+Universidade do Estado de Minas Gerais,2015,12,12,12,Pós-graduação em Políticas Públicas,ESPECIALIZACAO,"['Redação Instrumental [Turma A]', 'Redação Instrumental [Turma B]']"
+Universidade do Estado de Minas Gerais,2015,04,04,04,Pós-Graduação em Gestão Cultural,ESPECIALIZACAO,['Economia da cultura e Economia criativa']
+Universidade do Estado de Minas Gerais,2016,12,12,12,Artes Plásticas,GRADUACAO,"['Arte e vanguardas no século XX', 'Curadoria em arte digital']"
+Universidade do Estado de Minas Gerais,2016,07,07,07,Artes Plásticas,GRADUACAO,['Tópicos em Crítica de arte - Teorias Críticas das Artes']
+Universidade do Estado de Minas Gerais,2016,07,07,07,Programa de Pós-Graduação em Artes,POS-GRADUACAO,['Teorias Críticas das Artes']
+Universidade do Estado de Minas Gerais,2017,07,07,07,Artes Plásticas,GRADUACAO,['Ateliê transartes: hibridismos e apropriações artísticas em realidades diversas']
+Universidade do Estado de Minas Gerais,2017,07,07,07,Programa de Pós-Graduação em Artes,POS-GRADUACAO,['Ateliê transartes: experimentos híbridos e apropriações artísticas em realidades diversas']
+Universidade do Estado de Minas Gerais,2018,09,09,09,Artes Plásticas e Contemporaneidade,ESPECIALIZACAO,['Práticas da Arte Contemporânea 1 - Arte e tecnologia']
+Universidade do Estado de Minas Gerais,2018,07,07,07,Artes Plásticas,GRADUACAO,['Arte e Vanguardas do Século XX']
+Universidade do Estado de Minas Gerais,2018,12,12,12,Artes Plásticas,GRADUACAO,"['Arte e Vanguardas do Século XX', 'Curadoria em Arte Digital']"
+Universidade do Estado de Minas Gerais,2018,07,07,07,Artes,POS-GRADUACAO,['Fundamentos das Artes Digitais']
+Universidade do Estado de Minas Gerais,2019,5,5,5,Artes Plásticas e Contemporaneidade,ESPECIALIZACAO,['Crítica de arte']
+Universidade do Estado de Minas Gerais,2019,07,07,07,Artes Plásticas,GRADUACAO,['Curadoria em arte digital']
+Universidade do Estado de Minas Gerais,2019,07,07,07,Programa de Pós-Graduação em Artes,POS-GRADUACAO,['Ateliê transartes: gênese e biografia no campo das artes']
+Universidade do Estado de Minas Gerais,2019,12,12,12,Artes Plásticas,GRADUACAO,"['Curadoria em arte digital', 'Walter Benjamin: Lado B']"

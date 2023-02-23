@@ -1,0 +1,12 @@
+INSTITUTION,YEAR_INI,YEAR_FIN,MONTH_INI,MONTH_FIN,COURSE,TYPE,DISC
+Colégio Anglo Latino,2001,12,12,12,,ENSINO-FUNDAMENTAL,"['Jazz', 'Técnica clássica']"
+Faculdade Anhembi Morumbi,2003,6,6,6,Dança e Movimento,GRADUACAO,['Técnicas de Dança']
+Universidade Federal da Bahia,2005,06,06,06,Dança,GRADUACAO,"['Estudos do Corpo I', 'Estudos do Corpo II', 'Expressão Corporal II', 'Laboratório de Corpo II']"
+Universidade Federal de Juiz de Fora,2014,12,12,12,Letras: Estudos Literários,POS-GRADUACAO,['Disciplina: &amp;amp;quot;Intermidialidade ? literatura e outras artes?']
+Universidade Federal de Juiz de Fora,2015,10,10,10,Comunicação,POS-GRADUACAO,['Intermidialidade e Tradução Intersemiótica']
+Universidade Federal de Uberlândia,2016,01,01,01,Dança,GRADUACAO,"['Estágio Supervisionado  de Ateliê do corpo e  Atuação I,', 'Metodologia de  pesquisa']"
+Universidade Federal de Uberlândia,2016,,ATUAL,ATUAL,Artes,POS-GRADUACAO,"['Disciplina ministrada 2017.1: TÓPICOS ESPECIAIS EM ESTUDOS DA DANÇA', 'Professora permanente do Programa de Pós-Graduação em Artes Cênicas, linha de pesquisa &amp;amp;quot;Estudos em Artes Cênicas: Conhecimentos e Interfaces da Cena&amp;amp;quot;']"
+Universidade Federal de Uberlândia,2016,07,07,07,Dança,GRADUACAO,"['Introdução aos conceitos de tradição, cultura e memória', 'Prática em Dança I: Interculturalismo', 'Teatro-dança em contextos inter e transdisciplinares']"
+Universidade Federal de Uberlândia,2017,08,08,08,Dança,GRADUACAO,['Estágio de Ateliê de Corpo e Criação II']
+Universidade Federal de Uberlândia,2017,07,07,07,Dança,GRADUACAO,['Orientação de monitoria na disciplina Educação Somática I']
+Universidade Federal de Uberlândia,2018,,ATUAL,ATUAL,Dança,GRADUACAO,['Dança Contemporânea - Técnica e Composição I']

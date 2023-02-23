@@ -1,0 +1,56 @@
+YEAR,NATURE,INSTITUTION,COURSE,STUDENT,TYPE,SPONSOR
+1999,Dissertação de mestrado,Universidade Estadual de Campinas,Artes,Renata de Almeida Lucas,ORIENTADOR_PRINCIPAL,SIM
+2001,Dissertação de mestrado,Universidade Estadual de Campinas,Artes,Ronaldo Macedo Brandão,ORIENTADOR_PRINCIPAL,SIM
+2002,Dissertação de mestrado,Universidade Estadual de Campinas,Artes,Jaqueline Martins Fernandes,ORIENTADOR_PRINCIPAL,NAO
+2004,Dissertação de mestrado,Universidade Estadual de Campinas,Artes,Elizabeth de Melo Camargo Moysés,ORIENTADOR_PRINCIPAL,NAO
+2008,Dissertação de mestrado,Centro Universitario Senac,"Mestrado em Moda, Cultura e Arte",Rui Gonçalves de Souza,ORIENTADOR_PRINCIPAL,NAO
+2009,Dissertação de mestrado,Centro Universitario Senac,"Mestrado em Moda, Cultura e Arte",Elizete Menezes Messias,ORIENTADOR_PRINCIPAL,SIM
+2007,Dissertação de mestrado,Centro Universitario Senac,"Mestrado em Moda, Cultura e Arte",Adriana Regen,ORIENTADOR_PRINCIPAL,SIM
+2009,Dissertação de mestrado,Universidade Estadual de Campinas,Multimeios,Fernanda Junqueira Rodrigues,ORIENTADOR_PRINCIPAL,SIM
+2012,Dissertação de mestrado,Universidade Federal do Recôncavo da Bahia,Pós-Graduação em Ciências Sociais,Rafael de Almeida Silva,ORIENTADOR_PRINCIPAL,SIM
+2015,Dissertação de mestrado,Universidade Federal de Juiz de Fora,"Programa Pós-Graduação Artes, Cultura e Linguagens",Elisiana Frizzoni Candian,CO_ORIENTADOR,SIM
+2015,Dissertação de mestrado,Universidade Federal de Juiz de Fora,"Programa Pós-Graduação:Artes, Cultura e Linguagens",Talisson Melo de Souza,ORIENTADOR_PRINCIPAL,NAO
+2016,Dissertação de mestrado,Universidade Federal de Juiz de Fora,"Programa Pós-Graduação Artes, Cultura e Linguagens",Clecius Campos Correa,ORIENTADOR_PRINCIPAL,NAO
+2016,Dissertação de mestrado,Universidade Federal de Juiz de Fora,"Programa Pós-Graduação Artes, Cultura e Linguagens",Anna Flavia Souza e Silva,ORIENTADOR_PRINCIPAL,NAO
+2017,Dissertação de mestrado,Universidade Federal de Juiz de Fora,"Artes, Cultura e Linguagens",Jocasta Antonio Ferraz,ORIENTADOR_PRINCIPAL,NAO
+2017,Dissertação de mestrado,Universidade Federal de Juiz de Fora,"Artes, Cultura e Linguagens",Thamara Venancio de Almeida,ORIENTADOR_PRINCIPAL,SIM
+2017,Dissertação de mestrado,Universidade Federal de Juiz de Fora,Ciências Sociais,Leonardo Ribeiro Barbosa,ORIENTADOR_PRINCIPAL,NAO
+2018,Dissertação de mestrado,Universidade Federal de Juiz de Fora,"Artes, Cultura e Linguagens",Henrique Grimaldi,ORIENTADOR_PRINCIPAL,SIM
+2019,Dissertação de mestrado,Universidade Federal de Juiz de Fora,"Artes, Cultura e Linguagens",Leticia Fonseca Braga Machado,ORIENTADOR_PRINCIPAL,NAO
+2019,Dissertação de mestrado,Universidade Federal de Juiz de Fora,"Artes, Cultura e Linguagens",Thalita de Castro,ORIENTADOR_PRINCIPAL,NAO
+2021,Dissertação de mestrado,Universidade Federal de Juiz de Fora,"Artes, Cultura e Linguagens",Selma Caetano,ORIENTADOR_PRINCIPAL,NAO
+2021,Dissertação de mestrado,Universidade Federal de Juiz de Fora,"Artes, Cultura e Linguagens",Giovana Guisard,ORIENTADOR_PRINCIPAL,SIM
+2021,Dissertação de mestrado,Universidade Federal de Juiz de Fora,"Programa Pós-Graduação:Artes, Cultura e Linguagens",Amanda Mazzoni Marcato,ORIENTADOR_PRINCIPAL,SIM
+2008,Dissertação de mestrado,Centro Universitario Senac,"Mestrado em Moda, Cultura e Arte",Cristiane Von Atzingen Gurgel,ORIENTADOR_PRINCIPAL,NAO
+2016,Tese de doutorado,Universidade Federal de Juiz de Fora,Ciências Sociais,Virginia  Rodrigues Strack,ORIENTADOR_PRINCIPAL,SIM
+2015,Tese de doutorado,Universidade do Porto,Doutorado em Artes e Design,Ronaldo Macedo Brandão,CO_ORIENTADOR,SIM
+1999,INICIACAO_CIENTIFICA,Universidade Estadual de Campinas,Educação Artistica,Marcelo Edmilson Moscheta,CO_ORIENTADOR,SIM
+2003,INICIACAO_CIENTIFICA,Senac,Moda,Paula Carpi,CO_ORIENTADOR,SIM
+2005,INICIACAO_CIENTIFICA,Faculdade Senac de Moda,,Paula Carpi,CO_ORIENTADOR,SIM
+2005,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Faculdade de Artes Plásticas da Fundação Armando Alvares Penteado,Desenho industrial,Juliana Murad,CO_ORIENTADOR,NAO
+2006,INICIACAO_CIENTIFICA,Centro Universitario Senac,Moda,Celia Auxiliadora Fernandes,CO_ORIENTADOR,SIM
+2007,INICIACAO_CIENTIFICA,Centro Universitario Senac,Moda,Raquel Abramant Souza,CO_ORIENTADOR,SIM
+2007,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Centro Universitario Senac,Design de Moda,Monica Chang,CO_ORIENTADOR,NAO
+2008,INICIACAO_CIENTIFICA,Centro Universitario Senac,design de moda,Ana Carolina Florez,CO_ORIENTADOR,SIM
+2008,INICIACAO_CIENTIFICA,Centro Universitario Senac,design de moda,Raquel Abramant de Souza,CO_ORIENTADOR,SIM
+2008,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Centro Universitario Senac,desig de moda,Patricia Mari Karuka,CO_ORIENTADOR,NAO
+2009,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Fundação Armando Álvares Penteado,Desenho industrial,Fernando Altavista,CO_ORIENTADOR,NAO
+2010,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Faculdade de Artes Plásticas da Fundação Armando Alvares Penteado,Desenho industrial,Larissa Valério,CO_ORIENTADOR,NAO
+2012,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Bacharelado Interdisciplinar de Artes e Design,Anna Flávia Silva de Souza,CO_ORIENTADOR,SIM
+2011,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Bacharelado Interdisciplinar de Artes e Design,Juliana de Oliveira Gomes,CO_ORIENTADOR,SIM
+2013,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Juiz de Fora,Artes,Thais Alves Ribeiro Matos,CO_ORIENTADOR,NAO
+2012,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Bacharelado Interdisciplinar de Artes e Design,Talisson Melo de Souza,CO_ORIENTADOR,SIM
+2012,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Bacharelado Interdisciplinar de Artes e Design,Elisiana Frizzoni Candian,CO_ORIENTADOR,SIM
+2013,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Bacharelado Interdisciplinar de Artes e Design,Daiana de Lima Ferreira,CO_ORIENTADOR,SIM
+2013,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Bacharelado Interdisciplinar de Artes e Design,Helena Martins de Lacerda,CO_ORIENTADOR,SIM
+2013,MONOGRAFIA_DE_CONCLUSAO_DE_CURSO_APERFEICOAMENTO_E_ESPECIALIZACAO,Universidade Federal de Juiz de Fora,"Especialização em Moda, Cultura de Moda e Arte",Clecius Campos Corrêa,CO_ORIENTADOR,NAO
+2014,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Bacharelado Interdisciplinar de Artes e Design,Nathalia Machado Montes,CO_ORIENTADOR,SIM
+2014,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Bacharelado Interdisciplinar de Artes e Design,Jordana Maria de souza Lopes,CO_ORIENTADOR,SIM
+2017,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Bacharelado Interdisciplinar de Artes e Design,Larissa Noriega,CO_ORIENTADOR,SIM
+2018,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Bacharelado Interdisciplinar de Artes e Design,Giovanna Guisard,CO_ORIENTADOR,SIM
+2018,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Bacharelado Interdisciplinar de Artes e Design,Tamares Hagar da Silva,CO_ORIENTADOR,SIM
+2018,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Bacharelado Interdisciplinar de Artes e Design,Alisson Soari de Souza Quintino,CO_ORIENTADOR,SIM
+2017,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Juiz de Fora,Bacharelado Interdisciplinar de Artes e Design,Janaina Ferreira Condé de Melo,CO_ORIENTADOR,SIM
+2020,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,Bacharelado Interdisciplinar de Artes e Design,Tiago Santos Paula Gabina,CO_ORIENTADOR,SIM
+2020,INICIACAO_CIENTIFICA,Universidade Federal de Juiz de Fora,,Ivo Lazarevitch Filho,CO_ORIENTADOR,SIM
+2004,INICIACAO_CIENTIFICA,Faculdade Senac de Moda,,Rita Vidal,CO_ORIENTADOR,SIM

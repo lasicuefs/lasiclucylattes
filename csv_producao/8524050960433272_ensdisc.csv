@@ -1,0 +1,71 @@
+INSTITUTION,YEAR_INI,YEAR_FIN,MONTH_INI,MONTH_FIN,COURSE,TYPE,DISC
+Sociedade Cultural de Belo Horizonte,1974,8,8,8,,OUTRO,['Balé clássico']
+Colégio Pio XII,1977,12,12,12,,OUTRO,"['Dança Moderna', 'Balé Clássico']"
+Studio Núcleo Artístico Ltda.,1983,2,2,2,,OUTRO,"['Balé clássico', 'Jazz']"
+Primeiro Ato Escola de Dança,1990,12,12,12,,OUTRO,['Jazz']
+Meia Ponta Studio de Dança,1991,3,3,3,,OUTRO,['Jazz']
+Academia Marta Guerra,1993,3,3,3,,OUTRO,['Jazz']
+Colégio Nossa Senhora das Dores,1997,12,12,12,,OUTRO,"['Balé clássico', 'Jazz']"
+Centro Universitário de Belo Horizonte,2002,12,12,12,Pedagogia,GRADUACAO,"['Coordenação do Trabalho Pedagógico I - PT4 - PN4', 'Organização Funcional do Ensino - LM3']"
+Centro Universitário de Belo Horizonte,2003,12,12,12,Pedagogia,GRADUACAO,"['Técnicas e Processos de Criação - PM7', 'Organização do Trabalho Pedagógico Escolar - PT4 - PN4', 'Organização Funcional do Ensino - LM3']"
+Centro Universitário de Belo Horizonte,2003,06,06,06,Pedagogia,GRADUACAO,"['Organização do Trabalho Pedagógico Escolar - PT4 - PN4', 'Organização Funcional do Ensino - LM3', 'Análise de Processos Curriculares e de Avaliação - PN6']"
+Centro Universitário de Belo Horizonte,2004,12,12,12,Pedagogia,GRADUACAO,"['Seminário de Estágio - PN8A - PN8B - PDT8A - PDT8B', 'Técnicas e Processos de Criação - PM7', 'Prática Educativa Não-Escolar V - PM7', 'Organização de Projetos Educativos - PM4', 'Organização Funcional da escola - LM3', 'Planejamento e Projetos Educacionais - PN6U']"
+Centro Universitário de Belo Horizonte,2004,06,06,06,Pedagogia,GRADUACAO,"['Planejamento e Projetos Educacionais - PN6U', 'Prática Educativa Não-Escolar IV - PM6', 'Seminário de Estágio - PN8A - PN8B - PT8A - PT8B', 'Técnicas e Processos de Criação - PM7']"
+Centro Universitário de Belo Horizonte,2005,12,12,12,Normal Superior,GRADUACAO,"['Educação Física e Lazer - NSN6', 'Corpo Cultura e Lazer - NSN6A']"
+Centro Universitário de Belo Horizonte,2005,12,12,12,Pedagogia,GRADUACAO,"['Estágio Supervisionado IV - Orientação Educacional - PT8B', 'Estágio Supervisionado II - PM6A', 'Planejamento e Projetos Educacionais - PN6U', 'Estágio Supervisionado IV - Administração Escolar - PN8A', 'Prática Educativa IV - Estágio de Supervisão - PM6A', 'Técnicas e processos de criação, Seminário de Estágio - Administração Escolar - PN8A']"
+Centro Universitário de Belo Horizonte,2005,12,12,12,Psicopedagogia,ESPECIALIZACAO,['Arte Educação']
+Centro Universitário de Belo Horizonte,2005,06,06,06,Normal Superior,GRADUACAO,"['Coordenação Pedagógica - PT6', 'Prática Educativa IV - Estágio de Supervisão - PM6A', 'Estágio Supervisionado IV - Orientação Educacional - PT8B', 'Estágio Supervisionado IV - Administração Escolar - PN8A', 'Seminário de Estágio - Administração Escolar - PN8A', 'Técnicas e Processos de Criação - PM7U', 'Planejamento e Projetos Educacionais - PN6U']"
+Centro Universitário de Belo Horizonte,2005,06,06,06,Normal Superior,GRADUACAO,"['Educação Física e Lazer - NSN6', 'Corpo Cultura e Lazer - NSN6A']"
+Centro Universitário de Belo Horizonte,2006,12,12,12,Normal Superior,GRADUACAO,"['Educação Física e Lazer - NSN6', 'Corpo Cultura e Lazer - NSN6A']"
+Centro Universitário de Belo Horizonte,2006,12,12,12,Pedagogia,GRADUACAO,"['Estágio Curricular I - PM5 - PN5', 'Tópicos Especiais VI - PN6', 'Arte Educação - PM4 - PT4 - PN4', 'Orientação de Estágio - PM8', 'Seminário de Estágio - PM8']"
+Centro Universitário de Belo Horizonte,2006,06,06,06,Pedagogia,GRADUACAO,"['Tópicos Especiais V PN 5', 'Arte Educação - PM4 - PN4', 'Orientação de Estágio - PT8 - PN8', 'Seminário de Estágio - PN8A e PN8', 'Técnicas e Processos de Criação - PM7(B)', 'Planejamento e Projetos Educacionais - PN6']"
+Universidade Federal de Minas Gerais,2006,12,12,12,Dança,OUTRO,['Curso de Extensão em Pedagogia do Movimento para o Ensino da Dança']
+Centro Universitário de Belo Horizonte,2007,12,12,12,Psicopedagogia,ESPECIALIZACAO,['Arte Educação Ambiental']
+Centro Universitário de Belo Horizonte,2007,07,07,07,Pedagogia,GRADUACAO,"['Tópicos Especiais VII - PN7', 'Seminário de Estágio - PM8', 'Orientação de Estágio - PM8', 'Estágio Curricular I - PT5 - PN5', 'Arte Educação - PM4 - PN4']"
+Centro Universitário de Belo Horizonte,2007,12,12,12,Pedagogia,GRADUACAO,"['Arte e Educação - PM4/PN4', 'Ensino e Pesquisa II - PN5', 'Estágio Curricular II - PT6/PN6', 'Orientação de Estágio - PT6/PN6', 'Seminário de pesquisa - PN8']"
+Centro Universitário de Belo Horizonte,2008,07,07,07,Pedagogia,GRADUACAO,"['Ensino e Pesquisa II - PM5/PN5', 'Ensino e Pesquisa III - PM6', 'Estágio Curricular III - PT7/PN7']"
+Centro Universitário de Belo Horizonte,2008,06,06,06,Psicopedagogia,ESPECIALIZACAO,['Psicopedagogia e Terceira Idade']
+Centro Universitário de Belo Horizonte,2008,12,12,12,Docência no Ensino Superior,ESPECIALIZACAO,['Arte e Docência: Alternativas Metodológicas de Formação']
+Centro Universitário de Belo Horizonte,2008,12,12,12,Pedagogia,GRADUACAO,"['Gerontologia Social - PDM8', 'Estágio Curricular IV - PDT8', 'Ensino em Pesquisa III - PDM6 - PDN6', 'Ensino em Pesquisa IV - PDN7']"
+Centro Universitário de Belo Horizonte,2009,02,02,02,Pedagogia,GRADUACAO,"['Arte Educação - PDM5 e PDM6', 'Arte Educação - PDN5 e PDN6', 'Ensino Pesquisa IV - PDN7']"
+Centro Universitário de Belo Horizonte,2009,12,12,12,Pedagogia,GRADUACAO,"['Arte Educação - PDM6 e PDN6', 'Ensino Pesquisa II - PDN5', 'Ensino Pesquisa IV - PDM 7']"
+Centro Universitário de Belo Horizonte,2009,02,02,02,Psicopedagogia,ESPECIALIZACAO,['Arte Educação']
+Universidade Federal de Minas Gerais,2011,12,12,12,Programa de Mestrado Profissional em Artes,POS-GRADUACAO,['A experiência artística e a prática do ensino de artes na escola']
+Universidade Federal de Minas Gerais,2011,07,07,07,Dança,GRADUACAO,"['Corpo e Contemporaneidade', 'Metodologia de Pesquisa em Arte: Dança']"
+Universidade Federal de Minas Gerais,2012,07,07,07,Programa de Pós-Graduação em Artes,POS-GRADUACAO,['Analogias e Metáforas na Construção do Movimento Artístico da Dança']
+Universidade Federal de Minas Gerais,2012,07,07,07,Dança,GRADUACAO,"['Ética e Crítica de Dança', 'Metodologia de Pesquisa em Arte: Dança']"
+Universidade Federal de Minas Gerais,2012,12,12,12,Dança,GRADUACAO,"['Corpo e Sociedade', 'Teorias da Dança']"
+Universidade Federal de Minas Gerais,2013,12,12,12,Dança,GRADUACAO,"['Corpo e Sociedade I', 'Mediação dos Processos Educativos em dança: Didática', 'Teorias da Dança']"
+Universidade Federal de Minas Gerais,2013,07,07,07,Dança,GRADUACAO,"['Análise da Prática de Estágio Supervisionado em Dança I', 'Metodologia de pesquisa em Arte: Dança', 'Ética e Crítica de Dança']"
+Universidade Federal de Minas Gerais,2013,07,07,07,Programa de Pós-Graduação em Artes,POS-GRADUACAO,['Analogias e metáforas na construção do movimento expressivo de Dança']
+Universidade Federal de Minas Gerais,2014,07,07,07,Programa Pós-Graduação DINTER UFMG/URCA,POS-GRADUACAO,['Analogias e metáforas no ensino de arte']
+Universidade Federal de Minas Gerais,2014,12,12,12,Dança,GRADUACAO,"['Corpo e sociedade I', 'Corpo e sociedade II', 'Mediação dos processos educativos em Dança: Didática']"
+Universidade Federal de Minas Gerais,2014,07,07,07,Programa de Mestrado Profissional em Artes,POS-GRADUACAO,['TEA IV: A Experiência Artística e a Prática do Ensino de Artes na Escola']
+Universidade Federal de Minas Gerais,2014,07,07,07,Dança,GRADUACAO,"['Análise da Prática de Estágio Supervisionado em Dança I', 'Ética e Crítica de Dança', 'Metodologia de pesquisa em Arte: Dança']"
+Universidade Federal de Minas Gerais,2014,07,07,07,Programa de Pós-Graduação em Artes,POS-GRADUACAO,['Analogias e metáforas nas Artes']
+Universidade Federal de Minas Gerais,2015,07,07,07,Dança,GRADUACAO,"['Análise da Prática de Estágio Supervisionado em Dança I', 'Ética e crítica de Dança']"
+Universidade Federal de Minas Gerais,2015,12,12,12,Programa de Pós-Graduação em Artes,POS-GRADUACAO,['A experiência artística e a prática do ensino de artes na escola']
+Universidade Federal de Minas Gerais,2015,12,12,12,Programa de Mestrado Profissional em Artes,POS-GRADUACAO,['Ateliê de Improvisação Cênica']
+Universidade Federal de Minas Gerais,2015,12,12,12,Dança,GRADUACAO,"['Teorias da Dança', 'Mediação de Processos educativos em Dança: Didática', 'Inserção da Dança na Educação: legislação, diretrizes e propostas curriculares']"
+Universidade Federal de Minas Gerais,2016,06,06,06,Dança,GRADUACAO,"['Análise da Prática de Estágio Supervisionado em Dança I', 'Ética e Crítica de Dança']"
+Universidade Federal de Minas Gerais,2016,06,06,06,Programa de Pós-Graduação em Artes,POS-GRADUACAO,['Tópicos Especiais em Artes IV: A experiência artística e a prática do ensino de artes na escola']
+Universidade Federal de Minas Gerais,2016,06,06,06,Programa de Mestrado Profissional em Artes,POS-GRADUACAO,['A experiência artística e a prática do ensino de artes na escola']
+Universidade Federal de Minas Gerais,2016,12,12,12,Dança,GRADUACAO,"['Teoria da Dança e Mediação de processos educativos em Dança: Didática', 'Inserção da Dança na Educação Básica']"
+Universidade Federal de Minas Gerais,2017,12,12,12,Dança,GRADUACAO,"['Teoria da Dança', 'Teoria do ensino de dança: Metodologia']"
+Universidade Federal de Minas Gerais,2017,12,12,12,Dança,GRADUACAO,['Portfólio']
+Universidade Federal de Minas Gerais,2017,06,06,06,Dança,GRADUACAO,"['Análise da Prática e Estágio Supervisionado em Dança I', 'Ética e Crítica de Dança', 'Residência Artística']"
+Universidade Federal de Minas Gerais,2017,12,12,12,Programa de Pós-Graduação em Artes,POS-GRADUACAO,['A experiência artística e a prática do ensino de artes na escola: abordagens metodológicas']
+Universidade Federal de Minas Gerais,2017,12,12,12,Programa de Mestrado Profissional em Artes,POS-GRADUACAO,['A experiência artística e a prática do ensino de artes na escola']
+Universidade Federal de Minas Gerais,2018,06,06,06,Dança,GRADUACAO,"['Ética e Crítica de Dança', 'Análise da Prática e Estágio Supervisionado em Dança I']"
+Universidade Federal de Minas Gerais,2018,12,12,12,Dança,GRADUACAO,"['Teoria da Dança', 'Teoria do ensino de dança: Metodologia']"
+Universidade Federal de Minas Gerais,2018,12,12,12,Programa de Pós-Graduação em Artes,POS-GRADUACAO,['A experiência artística e a prática do ensino de artes na escola']
+Universidade Federal de Minas Gerais,2018,12,12,12,Programa de Mestrado Profissional em Artes,POS-GRADUACAO,['A experiência artística e a prática do ensino de artes na escola']
+Universidade Federal de Minas Gerais,2019,12,12,12,Artes,POS-GRADUACAO,['Tópicos Especiais em Artes III: A Narrativas de Si e Aprendizagem em Arte']
+Universidade Federal de Minas Gerais,2019,12,12,12,Dança,GRADUACAO,"['Teoria da Dança', 'Teoria do ensino de dança: Metodologia']"
+Universidade Federal de Minas Gerais,2019,06,06,06,Dança,GRADUACAO,"['Análise da Prática e Estágio Supervisionado em Dança I', 'Ética e Crítica de Dança', 'Trabalho de conclusão de Curso - TCC']"
+Universidade Federal de Minas Gerais,2020,12,12,12,Dança,GRADUACAO,"['Tópicos em Dança III: Narrativas de Si no Ensino-aprendizagem em Arte', 'Teorias de Dança', 'Teoria do Ensino de Dança: Metodologia']"
+Universidade Federal de Minas Gerais,2020,06,06,06,Dança,GRADUACAO,"['Tópicos de Dança III: Seminário Curso de Dança/UFMG', 'Análise da Prática e Estágio Supervisionado em Dança I', 'Ética e Crítica da Dança']"
+Universidade Federal de Minas Gerais,2021,12,12,12,Dança,GRADUACAO,"['Mediação de processos educativa em dança: didática', 'Teoria do ensino de dança: metodologia', 'Teorias de dança']"
+Universidade Federal de Minas Gerais,2021,06,06,06,Programa de Pós-Graduação em Artes,POS-GRADUACAO,['A experiência artística e a prática do ensino de artes na escola']
+Universidade Federal de Minas Gerais,2021,06,06,06,Dança,GRADUACAO,"['Análise prática de estágio supervisionado em dança I', 'Ética e crítica de dança', 'Tópicos especiais em artes IV']"
+Universidade Federal de Minas Gerais,2022,,ATUAL,ATUAL,Dança,GRADUACAO,"['Análise da Prática e Estágio Supervisionado em Dança I', 'Ética e Crítica da Dança', 'Trabalho de Conclusão de Curso (TCC)']"

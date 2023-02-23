@@ -1,0 +1,20 @@
+INSTITUTION,YEAR_INI,YEAR_FIN,MONTH_INI,MONTH_FIN,COURSE,TYPE,DISC
+Colégio Sul Fluminense de Aplicação - Universidade Severino Sombra,2000,12,12,12,,ENSINO-MEDIO,['Atuação Teatral']
+Colégio Sul Fluminense de Aplicação - Universidade Severino Sombra,2000,12,12,12,,ENSINO-FUNDAMENTAL,['Atuação Teatral']
+Centro de Educação e Crescimento - Colégio Arco Iris,2001,06,06,06,,ENSINO-FUNDAMENTAL,"['Dança', 'Iniciação Musical']"
+Universidade Geraldo di Biase,2008,06,06,06,Licenciatura em Arte,GRADUACAO,['Fundamentos da Linguagem Teatral I - 30h']
+Universidade Geraldo di Biase,2008,12,12,12,Licenciatura em Arte,GRADUACAO,['Corpo e Expressão (fundamentos da linguagem corporal) - 30h']
+Centro Cultural Aracy Carvalho di Biase,2008,02,02,02,,ENSINO-FUNDAMENTAL,['Artes: Teatro']
+Universidade Geraldo di Biase,2009,06,06,06,Licenciatura em Arte,GRADUACAO,"['Expressão Vocal - 30h', 'Jogos Teatrais Aplicados à Educação - 30h']"
+Universidade Geraldo di Biase,2009,12,12,12,Licenciatura em Arte,GRADUACAO,"['Análise e Exercícios de Técnicas e Materiais Expressivos - 30h', 'Encenação do Espetáculo na Educação - 30h', 'Fundamentos e Processos de Encenação - 30h', 'Jogos Teatrais Aplicados à Educação - 30h']"
+Universidade Geraldo di Biase,2010,06,06,06,Licenciatura em Arte,GRADUACAO,"['Caracterização - 30h', 'Oficina de Dramaturgia - 30h', 'Processos de Encenação do Espetáculo - 30h']"
+Universidade Federal de São João Del-Rei,2013,12,12,12,Teatro,GRADUACAO,"['A luz e a Encenação', 'Os Processos de Transformação da Encenação Teatral no Século XX e a Iluminação', 'IECT: DIRECAO TEATRAL: TEXTO E CENA', 'ECT: LABORAT DE MONTAGEM TEATRAL: PROCESSOS COLETIVOS DE ENCENACAO']"
+Universidade Federal de São João Del-Rei,2014,12,12,12,Teatro,GRADUACAO,"['HISTORIA DO TEATRO BRASILEIRO: SECULO XX A CONTEMPORANEIDADE', 'ILUMINACAO: O ATOR E A LUZ', 'LABO DE MONTAGEM TEATRAL: UM OLHAR PARA A PLASTICIDADE DA CENA', 'DIRECAO: LABORATORIO DE PRATICA TEATRAL', 'TEORIAS E METODOS DE ATUACAO CENICA: IDENTIFICACAO E DISTANCIAMENTO']"
+Universidade Federal de São João Del-Rei,2015,12,12,12,Teatro,GRADUACAO,"['LABORAT DE MONTAGEM TEATRAL: PROCESSOS COLETIVOS DE ENCENACAO', 'LABORATORIO DE MONTAGEM TEATRAL: TEATRO E POLITICA', 'LABORATORIO DE ESCRITA CENICA: PROCESSOS DE COMPOSICAO DE DRAMATURGIA CENICA', 'A IMPROVISACAO COMO PRINCIPIO DE CRIACAO']"
+Universidade Federal de São João Del-Rei,2016,12,12,12,Teatro,GRADUACAO,"['DIRECAO TEATRAL: TEXTO E CENA', 'ILUMINACAO: TEATRO E IMAGEM', 'TEATRO DE RUA: TEATRO E POLITICA', 'ARTE-EDUCACAO: O ENSINO DA CULTURA AFRO-BRASILEIRA E O TEATRO']"
+Universidade Federal de São João Del-Rei,2017,04,04,04,Teatro,GRADUACAO,['DIRECAO TEATRAL: TEXTO E CENA']
+Universidade Federal de São João Del-Rei,2018,12,12,12,Teatro,GRADUACAO,"['ILUMINACAO: TEATRO E IMAGEM', 'TEATRO DE RUA: TEATRO E POLITICA', 'ARTE-EDUCACAO: O ENSINO DA CULTURA AFRO-BRASILEIRA E O TEATRO']"
+Universidade Federal de São João Del-Rei,2018,12,12,12,Artes Cênicas,POS-GRADUACAO,['TÓPICOS VARIADOS EM POLÍTICA E SOCIEDADE']
+Universidade Federal de São João Del-Rei,2019,12,12,12,Teatro,GRADUACAO,"['DIRECAO TEATRAL: TEXTO E CENA', 'ECT: LABORATORIO DE ESCRITA CENICA: DRAMATURGIA EM PROCESSO: CULTURA E POLITICA BRASILEIRA', 'ILUMINACAO: FUNDAMENTOS TECNICOS']"
+Universidade Federal de São João Del-Rei,2019,12,12,12,Artes Cênicas,POS-GRADUACAO,['TÓPICOS VARIADOS EM POLÍTICA E SOCIEDADE']
+Universidade Federal de São João Del-Rei,2020,12,12,12,Teatro,GRADUACAO,"['LABORATORIO DE MONTAGEM: TEATRO E POLITICA', 'DIRECAO TEATRAL - CENA DIALETICA', 'LEITURA DAS PECAS DE BERTOLT BRECHT', 'SEMINARIOS SOBRE HISTORIA, POLITICA E CENA', 'LEITURAS DE PECAS DE TEATRO MUSICAL DAS DECADAS DE 60 E 70 NO BRASIL', 'SEMINARIOS SOBRE TEATRO ENGAJADO']"

@@ -1,0 +1,52 @@
+YEAR,NATURE,INSTITUTION,COURSE,STUDENT,TYPE,SPONSOR
+2020,Dissertação de mestrado,Universidade Federal de Minas Gerais,Artes,Layane Pereira Pavão,ORIENTADOR_PRINCIPAL,SIM
+2018,Dissertação de mestrado,Universidade Federal de Minas Gerais,Educação,Larissa Maria Santos Altemar,CO_ORIENTADOR,NAO
+2018,Dissertação de mestrado,Universidade Federal de Minas Gerais,Artes,Cristiano Antônio Fernandes Barbosa,ORIENTADOR_PRINCIPAL,SIM
+2020,Dissertação de mestrado,Universidade Federal de Minas Gerais,Artes,Marilene Aparecida Batista,ORIENTADOR_PRINCIPAL,SIM
+2022,Dissertação de mestrado,Universidade Federal de Minas Gerais,Artes,Kauê Antonio da Silva Rocha,ORIENTADOR_PRINCIPAL,NAO
+2022,Tese de doutorado,Universidade Federal de Minas Gerais,Pós-Graduação em Estudos Lingüísticos,Jackson Santos Vitória de Almeida,CO_ORIENTADOR,NAO
+2006,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Bacharelado em Direção Teatral,Amaury Borges dos Campos,CO_ORIENTADOR,NAO
+2007,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Bacharelado em Direção Teatral,Maria Carolina Fescina Silva,CO_ORIENTADOR,NAO
+2005,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Ouro Preto,Licenciatura em Artes Cênicas,Fernando Bueno Catelan,CO_ORIENTADOR,SIM
+2006,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Ouro Preto,Licenciatura em Artes Cênicas,Fernando Bueno Catelan,CO_ORIENTADOR,SIM
+2006,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Ouro Preto,Licenciatura em Artes Cênicas,Mariana de S. Mendes Bernardes,CO_ORIENTADOR,SIM
+2005,ORIENTACAO-DE-OUTRA-NATUREZA,Universidade Federal de Ouro Preto,Bacharelado em Direção Teatral,Clóvis Domingos dos Santos,CO_ORIENTADOR,SIM
+2004,ORIENTACAO-DE-OUTRA-NATUREZA,Escola Medéias de Teatro,Teatro,Escola &amp;quot;Medéias de Teatro&amp;quot;,CO_ORIENTADOR,NAO
+2008,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Licenciatura em Artes Cênicas,Daniane Gonçalves Reis,CO_ORIENTADOR,NAO
+2008,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Licenciatura em Artes Cênicas,Iara Lage,CO_ORIENTADOR,NAO
+2008,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Ouro Preto,Licenciatura em Artes Cênicas,Lis Nasser Marques,CO_ORIENTADOR,NAO
+2010,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Gustavo Machado Cabral,CO_ORIENTADOR,NAO
+2010,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Jennifer Jacomini de Jesus,CO_ORIENTADOR,NAO
+2010,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Mayara Carvalho Dornas Machado,CO_ORIENTADOR,NAO
+2010,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Leandra Cláudia da Silva,CO_ORIENTADOR,NAO
+2009,INICIACAO_CIENTIFICA,Universidade Federal de Ouro Preto,Licenciatura em Artes Cênicas,Renata Patrícia da Silva,CO_ORIENTADOR,SIM
+2011,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Gabriella Jorge Lavinas,CO_ORIENTADOR,NAO
+2011,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Gabrielle Faria Heringer,CO_ORIENTADOR,NAO
+2012,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Joana Ribeiro,CO_ORIENTADOR,NAO
+2012,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Gustavo Oliveira,CO_ORIENTADOR,NAO
+2013,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Bruno Pontes,CO_ORIENTADOR,NAO
+2013,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Ana Luiza Brandão,CO_ORIENTADOR,NAO
+2013,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Fonoaudiologia,Bárbara Souza da Silva,CO_ORIENTADOR,NAO
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Carolina França Correa,CO_ORIENTADOR,NAO
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Nagila Analy Freitas Reis,CO_ORIENTADOR,NAO
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Ana Jessica Reis,CO_ORIENTADOR,NAO
+2014,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Julia Camargos de Paula,CO_ORIENTADOR,NAO
+2015,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Larissa Maria Santos Altemar,CO_ORIENTADOR,NAO
+2015,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Gislaine da Silva Reis,CO_ORIENTADOR,NAO
+2015,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Maria Clara de Magalhaes de Amorim,CO_ORIENTADOR,NAO
+2015,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Rayza Nascimento Luppi Spelta,CO_ORIENTADOR,NAO
+2016,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Anair Patricia Braga Moreira,CO_ORIENTADOR,NAO
+2016,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Paulo Henrique de Oliveira,CO_ORIENTADOR,NAO
+2017,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Anderson Ferreira do Nascimento,CO_ORIENTADOR,NAO
+2018,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Izabela Borges Corrêa,CO_ORIENTADOR,NAO
+2020,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Michele Bernardino,CO_ORIENTADOR,NAO
+2020,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro (07006PD001),Júlia de Castro Oliveira,CO_ORIENTADOR,NAO
+2020,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro (07006PD001),Gustavo Silva Sousa,CO_ORIENTADOR,NAO
+2021,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Teatro (07006PD001),Lisander Antonio Willmore Herasme,CO_ORIENTADOR,SIM
+2020,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Teatro (07006PD001),Camila Gabriela Furtunato,CO_ORIENTADOR,NAO
+2021,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro 07006PD001,Leonardo Vinícius Azevedo,CO_ORIENTADOR,NAO
+2011,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Teatro 07006PD001,Gabriella Jorge Lavinas,CO_ORIENTADOR,SIM
+2022,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro 07006PD001,Lisander Antonio Willmore Herasme,CO_ORIENTADOR,NAO
+2022,INICIACAO_CIENTIFICA,Universidade Federal de Minas Gerais,Teatro 07006PD001,Camila Gabriela Furtunato,CO_ORIENTADOR,NAO
+2022,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro (07006PD001),Madu Machado Rocha,CO_ORIENTADOR,NAO
+2015,TRABALHO_DE_CONCLUSAO_DE_CURSO_GRADUACAO,Universidade Federal de Minas Gerais,Teatro,Vinícius Barros Zampieri,CO_ORIENTADOR,NAO

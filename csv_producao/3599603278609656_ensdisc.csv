@@ -1,0 +1,23 @@
+INSTITUTION,YEAR_INI,YEAR_FIN,MONTH_INI,MONTH_FIN,COURSE,TYPE,DISC
+Escola Municipal Maria Gusmão de Brito,1977,08,08,08,,OUTRO,['Educação Infantil']
+Colégio Sinodal,1979,12,12,12,,ENSINO-FUNDAMENTAL,['Educação Artística']
+Instituto Superior de Educação IVOTI - Matriz,1980,07,07,07,,ENSINO-MEDIO,['Ensino de Arte']
+Centro de Ensino Vocacional,1981,03,03,03,,ENSINO-FUNDAMENTAL,['Educação Artística']
+Ruda - centro cenecista de Educação,1983,01,01,01,,ENSINO-MEDIO,['Ensino de Arte']
+Ruda - centro cenecista de Educação,1983,01,01,01,,ENSINO-FUNDAMENTAL,['Educação Artística']
+Núcleo de Ensino Arco,1985,05,05,05,,ENSINO-FUNDAMENTAL,['Artes']
+EEPSG Manoel Tabacow,1985,12,12,12,,ENSINO-FUNDAMENTAL,['Teatro']
+Socidade Unificada Paulista de Ensino Renovado Objetivo,1991,06,06,06,Pedagogia,GRADUACAO,['Fundamentos da Arte Educação']
+Sociedade Civil Padre Faure,1991,02,02,02,,ENSINO-FUNDAMENTAL,['Artes']
+Instituto Superior de Comunicação Publicitária,1992,08,08,08,Pedagogia,GRADUACAO,"['Didática', 'Metodologia Educacional']"
+Universidade Federal de Minas Gerais,1993,12,12,12,Estilismo e Moda,OUTRO,['Cultura e Moda']
+Centro de Estudos e Pesquisa Educacionais de MG,1995,02,02,02,Especialização em Arte Educação,ESPECIALIZACAO,"['Educação através da Arte', 'Fundamentos da Arte-Educação']"
+Escola Balão Vermelho,1997,03,03,03,,ENSINO-FUNDAMENTAL,['Arte-educação']
+Faculdade Pedro Leopoldo,2002,08,08,08,Normal  Superior,GRADUACAO,"['Arte, corporeidade']"
+Faculdade Pedro Leopoldo,2002,07,07,07,Normal Superior,GRADUACAO,['Arte e Cultura']
+Universidade Federal de Minas Gerais,2004,02,02,02,Pedagogia,GRADUACAO,['Oficina de Arte Educação']
+Centro Universitário de Belo Horizonte,2005,12,12,12,Psicopedagogia,ESPECIALIZACAO,['Arte e Criatividade']
+Centro Universitário de Belo Horizonte,2005,12,12,12,Normal Superior,GRADUACAO,['Arte e Criatividade']
+Universidade do Estado de Minas Gerais,2006,08,08,08,Licenciatura em Educação Artística - Escola Guigna,GRADUACAO,"['Estágio Supervisionado', 'Fundamentos do Ensino de Arte I e II', 'Laboratório A, B, C e D', 'Prática de Formação: Laboratório de Ensino de Arte', 'Prática de Formação: Orientação de Monografia']"
+Universidade do Estado de Minas Gerais,2006,08,08,08,Pós-Graduação em Arte-Educação,ESPECIALIZACAO,"['História do Ensino de Arte', 'Laboratório de Ensino de Arte', 'Metodologia do Diagnóstico da Realidade Cultural']"
+Universidade Federal de Minas Gerais,2016,,ATUAL,ATUAL,Licenciatura em Belas Artes,GRADUACAO,"['Ateliê 1', 'Fundamentos do Ensino de Arte 2']"

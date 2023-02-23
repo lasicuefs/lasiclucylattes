@@ -1,0 +1,25 @@
+INSTITUTION,YEAR_INI,YEAR_FIN,MONTH_INI,MONTH_FIN,COURSE,TYPE,DISC
+Universidade Federal de Uberlândia,2010,12,12,12,Teatro,GRADUACAO,"['Práticas Cênicas I', 'Projeto Integrado de Práticas Educativas V - PIPE V', 'Projeto Integrado de Práticas Educativas I - PIPE I']"
+Universidade Federal de Uberlândia,2011,07,07,07,Teatro,GRADUACAO,"['Jogos Teatrais', 'Jogos Teatrais Aplicados a Educação']"
+Universidade Federal de Uberlândia,2011,07,07,07,Dança,GRADUACAO,['Cultura e Memória']
+Universidade Federal de Uberlândia,2011,12,12,12,Teatro,GRADUACAO,"['Estágio Supervisionado I', 'Pedagogia do Ator I', 'Projeto Integrado de Práticas Educativas I - PIPE I']"
+Universidade Federal de Uberlândia,2012,10,10,10,Teatro,GRADUACAO,"['Estágio Supervisionado II', 'Pedagogia do Teatro I']"
+Universidade Federal de Uberlândia,2012,04,04,04,Teatro - Licenciatura Ou Bacharelado,GRADUACAO,"['Elaboração de Trabalho de Conclusão de Curso I', 'Estágio Supervisionado I - integral', 'Estágio Supervisionado I - noturno']"
+Universidade Federal de Uberlândia,2013,09,09,09,Teatro - Licenciatura Ou Bacharelado,GRADUACAO,"['Estágio Supervisionado II - integral', 'Estágio Supervisionado II - noturno']"
+Universidade Federal de Uberlândia,2015,07,07,07,Teatro - Licenciatura Ou Bacharelado,GRADUACAO,"['Estágio Supervisionado IV', 'Metodologia de Pesquisa em Artes Cênicas', 'Pedagogia do Teatro I']"
+Universidade Federal de Uberlândia,2015,12,12,12,Teatro,GRADUACAO,['Estágio Supervisionado I']
+Universidade Federal de Uberlândia,2015,12,12,12,Artes,POS-GRADUACAO,['Corpo: protagonismo e autonomia']
+Universidade Federal de Uberlândia,2016,12,12,12,Artes,POS-GRADUACAO,['A experiência artística e a prática do ensino de artes (abordagens metodológicas)']
+Universidade Federal de Uberlândia,2016,01,01,01,Teatro,GRADUACAO,['Expressão Corporal II - turmas diurno e noturno']
+Universidade Federal de Uberlândia,2016,06,06,06,Teatro - Licenciatura Ou Bacharelado,GRADUACAO,['Estágio Supervisionado II']
+Universidade Federal de Uberlândia,2017,07,07,07,Teatro,GRADUACAO,"['Estágio Supervisionado de Atuação/Interpretação em Espaços Escolares', 'Práticas Teatrais I']"
+Universidade Federal de Uberlândia,2017,12,12,12,Teatro,GRADUACAO,"['Consciência Corporal', 'Estágio Supervisionado 1']"
+Universidade Federal de Uberlândia,2018,07,07,07,Teatro,GRADUACAO,"['Estágio de Atuação/Interpretação em Espaços Escolares', 'Práticas Teatrais 1', 'Recepção Cênica 1']"
+Universidade Federal de Uberlândia,2018,12,12,12,Teatro,GRADUACAO,"['Pedagogia do Teatro I', 'Estágio Supervisionado III', 'Oficina de Montagem Cênica I', 'Tópicos Especiais em Práticas e Poéticas da Atuação: estudos e experimentos de música em cena entre 1968 e 2018']"
+Universidade Federal de Uberlândia,2018,12,12,12,Artes Cênicas,POS-GRADUACAO,"['Cenas e escritas: memórias, aprendizagens e procedimentos de criação']"
+Universidade Federal de Uberlândia,2019,07,07,07,Teatro,GRADUACAO,"['Pedagogia do Teatro I - integral e noturno', 'Pedagogia do Teatro III - integral e noturno']"
+Universidade Federal de Uberlândia,2019,12,12,12,Teatro,GRADUACAO,"['Estágio Supervisionado I (integral e noturno)', 'Pedagogia do Teatro III (integral e noturno)']"
+Universidade Federal de Uberlândia,2021,11,11,11,Teatro,GRADUACAO,"['PROINTER 1 - Projetos Interdisciplinares 1', 'PROINTER III - Projetos Interdisciplinares III', 'Pedagogia do Teatro II - turma integral', 'Pedagogia do Teatro II - turma noturno']"
+Universidade Federal de Uberlândia,2021,04,04,04,Teatro,GRADUACAO,"['Estágio Supervisionado I', 'Pedagogia do Teatro I - turma integral', 'Pedagogia do Teatro I - turma noturno']"
+Universidade de São Paulo,2021,07,07,07,Artes Cenicas,POS-GRADUACAO,"['Por uma Pedagogia do Caminhar: - jogos, dispositivos e programas performativos em contextos de criação e aprendizagem']"
+Universidade Federal de Uberlândia,2022,,ATUAL,ATUAL,Teatro,GRADUACAO,['Projetos Interdisciplinares - PROINTER 1 - turmas integral e noturna']
